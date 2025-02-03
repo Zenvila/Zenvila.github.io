@@ -1,0 +1,70 @@
+baseURL = "http://localhost:1313/"
+
+title = "Haris Shahzad"
+
+theme = "hugo-coder"
+
+languagecode = "en"
+
+defaultcontentlanguage = "en"
+
+[pagination]
+pagerSize = 20
+
+[services]
+  [services.disqus]
+  shortname = "ZenTeknik"
+
+[markup.highlight]
+style = "github-dark"
+
+[params]
+  author = "Haris Shahzad"
+  info = "Aspiring System Programmer · Passionate about Automation, Robotics, and Linux"
+  description = "Aspiring Software Engineer · Passionate about Automation, Robotics, and Linux"
+  keywords = "blog,developer,personal"
+  avatarurl = "images/profile.jpg"
+  faviconSVG = "/img/favicon.svg"
+  favicon_32 = "/img/favicon-32x32.png"
+  favicon_16 = "/img/favicon-16x16.png"
+  since = 2023
+  enableTwemoji = true
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+  # customCSS = ["css/custom.css"]
+  # customSCSS = ["scss/custom.scss"]
+  # customJS = ["js/custom.js"]
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa-brands fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/ZenTeknik"
+
+
+
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa-brands fa-linkedin fa-2x"
+  weight = 2
+  url = "https://linkedin.com/in/haris-shahzad786"
+
+
+# Menu links
+[[menu.main]]
+  name = "Blog"
+  weight = 1
+  url = "posts/"
+
+[[menu.main]]
+  name = "About"
+  weight = 2
+  url = "about/"
+
