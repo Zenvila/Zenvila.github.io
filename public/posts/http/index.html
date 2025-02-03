@@ -1,0 +1,572 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <title>
+  Understanding HTTP/1.1, HTTP/2, and HTTP/3 · Haris Shahzad
+</title>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="light dark">
+
+
+
+
+<meta name="author" content="Haris Shahzad">
+<meta name="description" content="
+  Understanding HTTP/1.1, HTTP/2, and HTTP/3: A Comprehensive Comparison
+  
+    
+    Link to heading
+  
+
+Web protocols have evolved significantly over the years, and the three most commonly used versions today are HTTP/1.1, HTTP/2, and HTTP/3. These protocols govern how data is transmitted over the web, and each version brings improvements to speed, security, and reliability.
+
+
+  HTTP/1.1: The Classic Protocol
+  
+    
+    Link to heading
+  
+
+
+Transport Protocol: TCP (Transmission Control Protocol)
+
+
+  Key Features:
+  
+    
+    Link to heading
+  
+
+
+Persistent Connections: HTTP/1.1 introduced persistent connections, allowing multiple requests to be sent over a single TCP connection. However, it still opens new connections for each request-response pair.
+Pipelining: Multiple requests can be sent before receiving responses, but the responses must be processed in the order they were sent.
+Text-Based: HTTP/1.1 uses a text-based format, which is human-readable but less efficient for machine parsing.
+Head-of-Line Blocking: HTTP/1.1 suffers from head-of-line blocking, where one delayed or lost packet can block the entire stream of requests.
+
+
+  Testing HTTP/1.1 on GitHub (Arch-based Linux)
+  
+    
+    Link to heading
+  
+
+
+Results: Here are the testing results for HTTP/1.1.
+
+
+  HTTP/2: Major Improvements
+  
+    
+    Link to heading
+  
+
+
+Transport Protocol: TCP (Transmission Control Protocol)
+
+
+  Key Features:
+  
+    
+    Link to heading
+  
+
+
+Multiplexing: Multiple requests and responses can be sent over a single connection, reducing latency and eliminating head-of-line blocking.
+Header Compression: HTTP/2 uses HPACK for header compression, reducing overhead and speeding up data transfer.
+Stream Prioritization: Allows clients to specify the priority of streams (requests) so that more important resources can be sent first.
+Server Push: Servers can proactively send resources to the client before they are requested, improving performance for critical resources.
+Binary Protocol: HTTP/2 is binary rather than text-based, which makes it more efficient for parsing and reduces errors.
+
+
+  Testing HTTP/2 on GitHub (Arch-based Linux)
+  
+    
+    Link to heading
+  
+
+
+Results: Here are the testing results for HTTP/2.
+
+
+  HTTP/3: The New Standard
+  
+    
+    Link to heading
+  
+
+
+Transport Protocol: QUIC (Quick UDP Internet Connections), based on UDP (User Datagram Protocol)
+
+
+  Key Features:
+  
+    
+    Link to heading
+  
+
+
+Reduced Latency: QUIC reduces connection setup time and allows faster data transfer, especially in mobile and high-latency networks.
+Multiplexing with No Head-of-Line Blocking: Unlike TCP, UDP (used in QUIC) doesn’t block the entire connection when a packet is lost. This significantly improves performance, especially in real-time applications like video streaming and gaming.
+Built-in Encryption: HTTP/3 integrates TLS (Transport Layer Security) directly into the protocol, enhancing security without additional handshake delays.
+Connection Migration: QUIC allows connections to migrate between networks (e.g., from Wi-Fi to cellular) without interrupting the connection, providing a smoother user experience on mobile devices.
+
+
+  Testing HTTP/3 on GitHub (Arch-based Linux)
+  
+    
+    Link to heading
+  
+
+
+Results: Here are the testing results for HTTP/3.
+
+
+  Practical Comparison
+  
+    
+    Link to heading
+  
+
+
+HTTP/1.1: Although HTTP/1.1 is still widely used, it is becoming outdated due to its inefficiency in handling modern web traffic. The protocol suffers from significant delays, especially with multiple resources being requested.
+HTTP/2: HTTP/2 improves web performance significantly, especially for websites with many resources (images, scripts, etc.). Its multiplexing and header compression reduce latency, and it is more widely supported than HTTP/3. However, it still relies on TCP, which can be less efficient in some high-latency scenarios.
+HTTP/3: HTTP/3 is the future of web protocols, offering the lowest latency and best performance, especially for mobile users and in environments with high packet loss. However, it is still in the process of adoption and requires both server and client support. As seen in the case of GitHub, the transition to HTTP/3 is ongoing, and it may take time before it becomes the default for many services.
+
+Do check the screenshots for HTTP/2 and HTTP/3. While I tested HTTP/3, it does not support it.">
+<meta name="keywords" content="blog,developer,personal">
+
+
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Understanding HTTP/1.1, HTTP/2, and HTTP/3">
+  <meta name="twitter:description" content="Understanding HTTP/1.1, HTTP/2, and HTTP/3: A Comprehensive Comparison Link to heading Web protocols have evolved significantly over the years, and the three most commonly used versions today are HTTP/1.1, HTTP/2, and HTTP/3. These protocols govern how data is transmitted over the web, and each version brings improvements to speed, security, and reliability.
+HTTP/1.1: The Classic Protocol Link to heading Transport Protocol: TCP (Transmission Control Protocol) Key Features: Link to heading Persistent Connections: HTTP/1.1 introduced persistent connections, allowing multiple requests to be sent over a single TCP connection. However, it still opens new connections for each request-response pair. Pipelining: Multiple requests can be sent before receiving responses, but the responses must be processed in the order they were sent. Text-Based: HTTP/1.1 uses a text-based format, which is human-readable but less efficient for machine parsing. Head-of-Line Blocking: HTTP/1.1 suffers from head-of-line blocking, where one delayed or lost packet can block the entire stream of requests. Testing HTTP/1.1 on GitHub (Arch-based Linux) Link to heading Results: Here are the testing results for HTTP/1.1. HTTP/2: Major Improvements Link to heading Transport Protocol: TCP (Transmission Control Protocol) Key Features: Link to heading Multiplexing: Multiple requests and responses can be sent over a single connection, reducing latency and eliminating head-of-line blocking. Header Compression: HTTP/2 uses HPACK for header compression, reducing overhead and speeding up data transfer. Stream Prioritization: Allows clients to specify the priority of streams (requests) so that more important resources can be sent first. Server Push: Servers can proactively send resources to the client before they are requested, improving performance for critical resources. Binary Protocol: HTTP/2 is binary rather than text-based, which makes it more efficient for parsing and reduces errors. Testing HTTP/2 on GitHub (Arch-based Linux) Link to heading Results: Here are the testing results for HTTP/2. HTTP/3: The New Standard Link to heading Transport Protocol: QUIC (Quick UDP Internet Connections), based on UDP (User Datagram Protocol) Key Features: Link to heading Reduced Latency: QUIC reduces connection setup time and allows faster data transfer, especially in mobile and high-latency networks. Multiplexing with No Head-of-Line Blocking: Unlike TCP, UDP (used in QUIC) doesn’t block the entire connection when a packet is lost. This significantly improves performance, especially in real-time applications like video streaming and gaming. Built-in Encryption: HTTP/3 integrates TLS (Transport Layer Security) directly into the protocol, enhancing security without additional handshake delays. Connection Migration: QUIC allows connections to migrate between networks (e.g., from Wi-Fi to cellular) without interrupting the connection, providing a smoother user experience on mobile devices. Testing HTTP/3 on GitHub (Arch-based Linux) Link to heading Results: Here are the testing results for HTTP/3. Practical Comparison Link to heading HTTP/1.1: Although HTTP/1.1 is still widely used, it is becoming outdated due to its inefficiency in handling modern web traffic. The protocol suffers from significant delays, especially with multiple resources being requested. HTTP/2: HTTP/2 improves web performance significantly, especially for websites with many resources (images, scripts, etc.). Its multiplexing and header compression reduce latency, and it is more widely supported than HTTP/3. However, it still relies on TCP, which can be less efficient in some high-latency scenarios. HTTP/3: HTTP/3 is the future of web protocols, offering the lowest latency and best performance, especially for mobile users and in environments with high packet loss. However, it is still in the process of adoption and requires both server and client support. As seen in the case of GitHub, the transition to HTTP/3 is ongoing, and it may take time before it becomes the default for many services. Do check the screenshots for HTTP/2 and HTTP/3. While I tested HTTP/3, it does not support it.">
+
+<meta property="og:url" content="http://localhost:1313/posts/http/">
+  <meta property="og:site_name" content="Haris Shahzad">
+  <meta property="og:title" content="Understanding HTTP/1.1, HTTP/2, and HTTP/3">
+  <meta property="og:description" content="Understanding HTTP/1.1, HTTP/2, and HTTP/3: A Comprehensive Comparison Link to heading Web protocols have evolved significantly over the years, and the three most commonly used versions today are HTTP/1.1, HTTP/2, and HTTP/3. These protocols govern how data is transmitted over the web, and each version brings improvements to speed, security, and reliability.
+HTTP/1.1: The Classic Protocol Link to heading Transport Protocol: TCP (Transmission Control Protocol) Key Features: Link to heading Persistent Connections: HTTP/1.1 introduced persistent connections, allowing multiple requests to be sent over a single TCP connection. However, it still opens new connections for each request-response pair. Pipelining: Multiple requests can be sent before receiving responses, but the responses must be processed in the order they were sent. Text-Based: HTTP/1.1 uses a text-based format, which is human-readable but less efficient for machine parsing. Head-of-Line Blocking: HTTP/1.1 suffers from head-of-line blocking, where one delayed or lost packet can block the entire stream of requests. Testing HTTP/1.1 on GitHub (Arch-based Linux) Link to heading Results: Here are the testing results for HTTP/1.1. HTTP/2: Major Improvements Link to heading Transport Protocol: TCP (Transmission Control Protocol) Key Features: Link to heading Multiplexing: Multiple requests and responses can be sent over a single connection, reducing latency and eliminating head-of-line blocking. Header Compression: HTTP/2 uses HPACK for header compression, reducing overhead and speeding up data transfer. Stream Prioritization: Allows clients to specify the priority of streams (requests) so that more important resources can be sent first. Server Push: Servers can proactively send resources to the client before they are requested, improving performance for critical resources. Binary Protocol: HTTP/2 is binary rather than text-based, which makes it more efficient for parsing and reduces errors. Testing HTTP/2 on GitHub (Arch-based Linux) Link to heading Results: Here are the testing results for HTTP/2. HTTP/3: The New Standard Link to heading Transport Protocol: QUIC (Quick UDP Internet Connections), based on UDP (User Datagram Protocol) Key Features: Link to heading Reduced Latency: QUIC reduces connection setup time and allows faster data transfer, especially in mobile and high-latency networks. Multiplexing with No Head-of-Line Blocking: Unlike TCP, UDP (used in QUIC) doesn’t block the entire connection when a packet is lost. This significantly improves performance, especially in real-time applications like video streaming and gaming. Built-in Encryption: HTTP/3 integrates TLS (Transport Layer Security) directly into the protocol, enhancing security without additional handshake delays. Connection Migration: QUIC allows connections to migrate between networks (e.g., from Wi-Fi to cellular) without interrupting the connection, providing a smoother user experience on mobile devices. Testing HTTP/3 on GitHub (Arch-based Linux) Link to heading Results: Here are the testing results for HTTP/3. Practical Comparison Link to heading HTTP/1.1: Although HTTP/1.1 is still widely used, it is becoming outdated due to its inefficiency in handling modern web traffic. The protocol suffers from significant delays, especially with multiple resources being requested. HTTP/2: HTTP/2 improves web performance significantly, especially for websites with many resources (images, scripts, etc.). Its multiplexing and header compression reduce latency, and it is more widely supported than HTTP/3. However, it still relies on TCP, which can be less efficient in some high-latency scenarios. HTTP/3: HTTP/3 is the future of web protocols, offering the lowest latency and best performance, especially for mobile users and in environments with high packet loss. However, it is still in the process of adoption and requires both server and client support. As seen in the case of GitHub, the transition to HTTP/3 is ongoing, and it may take time before it becomes the default for many services. Do check the screenshots for HTTP/2 and HTTP/3. While I tested HTTP/3, it does not support it.">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2025-02-03T17:06:00+05:00">
+    <meta property="article:modified_time" content="2025-02-03T17:06:00+05:00">
+    <meta property="article:tag" content="System Administration">
+
+
+
+
+<link rel="canonical" href="http://localhost:1313/posts/http/">
+
+
+<link rel="preload" href="/fonts/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin>
+
+
+  
+  
+  <link rel="stylesheet" href="/css/coder.css" media="screen">
+
+
+
+
+
+
+  
+    
+    
+    <link rel="stylesheet" href="/css/coder-dark.css" media="screen">
+  
+
+
+
+ 
+
+
+
+
+<link rel="icon" type="image/svg+xml" href="/img/favicon.svg" sizes="any">
+<link rel="icon" type="image/png" href="/img/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/img/favicon-16x16.png" sizes="16x16">
+
+<link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+
+
+
+
+
+
+
+
+
+</head>
+
+
+
+
+
+
+<body class="preload-transitions colorscheme-auto">
+  
+<div class="float-container">
+    <a id="dark-mode-toggle" class="colorscheme-toggle">
+        <i class="fa-solid fa-adjust fa-fw" aria-hidden="true"></i>
+    </a>
+</div>
+
+
+  <main class="wrapper">
+    <nav class="navigation">
+  <section class="container">
+    
+    <a class="navigation-title" href="http://localhost:1313/">
+      Haris Shahzad
+    </a>
+    
+    
+      <input type="checkbox" id="menu-toggle" />
+      <label class="menu-button float-right" for="menu-toggle">
+        <i class="fa-solid fa-bars fa-fw" aria-hidden="true"></i>
+      </label>
+      <ul class="navigation-list">
+        
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/about/">About</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/posts/">Blog</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/projects/">Projects</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/tags/">Tags</a>
+            </li>
+          
+        
+        
+      </ul>
+    
+  </section>
+</nav>
+
+
+    <div class="content">
+      
+  <section class="container post">
+    <article>
+      <header>
+        <div class="post-title">
+          <h1 class="title">
+            <a class="title-link" href="http://localhost:1313/posts/http/">
+              Understanding HTTP/1.1, HTTP/2, and HTTP/3
+            </a>
+          </h1>
+        </div>
+        <div class="post-meta">
+          <div class="date">
+            <span class="posted-on">
+              <i class="fa-solid fa-calendar" aria-hidden="true"></i>
+              <time datetime="2025-02-03T17:06:00&#43;05:00">
+                February 3, 2025
+              </time>
+            </span>
+            <span class="reading-time">
+              <i class="fa-solid fa-clock" aria-hidden="true"></i>
+              5-minute read
+            </span>
+          </div>
+          
+          
+          <div class="tags">
+  <i class="fa-solid fa-tag" aria-hidden="true"></i>
+    <span class="tag">
+      <a href="/tags/system-administration/">System Administration</a>
+    </span></div>
+
+        </div>
+      </header>
+
+      <div class="post-content">
+        
+        <h1 id="understanding-http11-http2-and-http3-a-comprehensive-comparison">
+  Understanding HTTP/1.1, HTTP/2, and HTTP/3: A Comprehensive Comparison
+  <a class="heading-link" href="#understanding-http11-http2-and-http3-a-comprehensive-comparison">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h1>
+<p>Web protocols have evolved significantly over the years, and the three most commonly used versions today are HTTP/1.1, HTTP/2, and HTTP/3. These protocols govern how data is transmitted over the web, and each version brings improvements to speed, security, and reliability.</p>
+<p><img src="/HTTPimages/HTTP1-image.png#center" alt="HTTP"></p>
+<h2 id="http11-the-classic-protocol">
+  HTTP/1.1: The Classic Protocol
+  <a class="heading-link" href="#http11-the-classic-protocol">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<ul>
+<li><strong>Transport Protocol:</strong> TCP (Transmission Control Protocol)</li>
+</ul>
+<h3 id="key-features">
+  Key Features:
+  <a class="heading-link" href="#key-features">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h3>
+<ul>
+<li><strong>Persistent Connections:</strong> HTTP/1.1 introduced persistent connections, allowing multiple requests to be sent over a single TCP connection. However, it still opens new connections for each request-response pair.</li>
+<li><strong>Pipelining:</strong> Multiple requests can be sent before receiving responses, but the responses must be processed in the order they were sent.</li>
+<li><strong>Text-Based:</strong> HTTP/1.1 uses a text-based format, which is human-readable but less efficient for machine parsing.</li>
+<li><strong>Head-of-Line Blocking:</strong> HTTP/1.1 suffers from head-of-line blocking, where one delayed or lost packet can block the entire stream of requests.</li>
+</ul>
+<h3 id="testing-http11-on-github-arch-based-linux">
+  Testing HTTP/1.1 on GitHub (Arch-based Linux)
+  <a class="heading-link" href="#testing-http11-on-github-arch-based-linux">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h3>
+<ul>
+<li><strong>Results:</strong> Here are the testing results for HTTP/1.1.</li>
+</ul>
+<h2 id="http2-major-improvements">
+  HTTP/2: Major Improvements
+  <a class="heading-link" href="#http2-major-improvements">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<ul>
+<li><strong>Transport Protocol:</strong> TCP (Transmission Control Protocol)</li>
+</ul>
+<h3 id="key-features-1">
+  Key Features:
+  <a class="heading-link" href="#key-features-1">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h3>
+<ul>
+<li><strong>Multiplexing:</strong> Multiple requests and responses can be sent over a single connection, reducing latency and eliminating head-of-line blocking.</li>
+<li><strong>Header Compression:</strong> HTTP/2 uses HPACK for header compression, reducing overhead and speeding up data transfer.</li>
+<li><strong>Stream Prioritization:</strong> Allows clients to specify the priority of streams (requests) so that more important resources can be sent first.</li>
+<li><strong>Server Push:</strong> Servers can proactively send resources to the client before they are requested, improving performance for critical resources.</li>
+<li><strong>Binary Protocol:</strong> HTTP/2 is binary rather than text-based, which makes it more efficient for parsing and reduces errors.</li>
+</ul>
+<h3 id="testing-http2-on-github-arch-based-linux">
+  Testing HTTP/2 on GitHub (Arch-based Linux)
+  <a class="heading-link" href="#testing-http2-on-github-arch-based-linux">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h3>
+<ul>
+<li><strong>Results:</strong> Here are the testing results for HTTP/2.</li>
+</ul>
+<h2 id="http3-the-new-standard">
+  HTTP/3: The New Standard
+  <a class="heading-link" href="#http3-the-new-standard">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<ul>
+<li><strong>Transport Protocol:</strong> QUIC (Quick UDP Internet Connections), based on UDP (User Datagram Protocol)</li>
+</ul>
+<h3 id="key-features-2">
+  Key Features:
+  <a class="heading-link" href="#key-features-2">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h3>
+<ul>
+<li><strong>Reduced Latency:</strong> QUIC reduces connection setup time and allows faster data transfer, especially in mobile and high-latency networks.</li>
+<li><strong>Multiplexing with No Head-of-Line Blocking:</strong> Unlike TCP, UDP (used in QUIC) doesn’t block the entire connection when a packet is lost. This significantly improves performance, especially in real-time applications like video streaming and gaming.</li>
+<li><strong>Built-in Encryption:</strong> HTTP/3 integrates TLS (Transport Layer Security) directly into the protocol, enhancing security without additional handshake delays.</li>
+<li><strong>Connection Migration:</strong> QUIC allows connections to migrate between networks (e.g., from Wi-Fi to cellular) without interrupting the connection, providing a smoother user experience on mobile devices.</li>
+</ul>
+<h3 id="testing-http3-on-github-arch-based-linux">
+  Testing HTTP/3 on GitHub (Arch-based Linux)
+  <a class="heading-link" href="#testing-http3-on-github-arch-based-linux">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h3>
+<ul>
+<li><strong>Results:</strong> Here are the testing results for HTTP/3.</li>
+</ul>
+<h2 id="practical-comparison">
+  Practical Comparison
+  <a class="heading-link" href="#practical-comparison">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<ul>
+<li><strong>HTTP/1.1:</strong> Although HTTP/1.1 is still widely used, it is becoming outdated due to its inefficiency in handling modern web traffic. The protocol suffers from significant delays, especially with multiple resources being requested.</li>
+<li><strong>HTTP/2:</strong> HTTP/2 improves web performance significantly, especially for websites with many resources (images, scripts, etc.). Its multiplexing and header compression reduce latency, and it is more widely supported than HTTP/3. However, it still relies on TCP, which can be less efficient in some high-latency scenarios.</li>
+<li><strong>HTTP/3:</strong> HTTP/3 is the future of web protocols, offering the lowest latency and best performance, especially for mobile users and in environments with high packet loss. However, it is still in the process of adoption and requires both server and client support. As seen in the case of GitHub, the transition to HTTP/3 is ongoing, and it may take time before it becomes the default for many services.</li>
+</ul>
+<p>Do check the screenshots for HTTP/2 and HTTP/3. While I tested HTTP/3, it does not support it.</p>
+<h2 id="why-github-is-still-using-http2-tcp-over-http3-udp">
+  Why GitHub is Still Using HTTP/2 (TCP) Over HTTP/3 (UDP)
+  <a class="heading-link" href="#why-github-is-still-using-http2-tcp-over-http3-udp">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<p>After checking the headers for GitHub&rsquo;s website, it is clear that GitHub is still using HTTP/2 over TCP and not HTTP/3, which uses UDP. This choice is likely due to several factors:</p>
+<ul>
+<li><strong>Stability:</strong> TCP is more reliable and widely supported. It guarantees data integrity and error correction, making it a safer choice for critical services like GitHub.</li>
+<li><strong>Compatibility:</strong> Not all browsers, clients, and networks fully support HTTP/3. GitHub prioritizes ensuring compatibility across a wide range of devices and network environments.</li>
+<li><strong>Gradual Rollout of HTTP/3:</strong> Although HTTP/3 promises significant performance improvements, its adoption is still in progress. GitHub, along with many other major websites, is taking a gradual approach to adopting the new protocol to avoid potential issues.</li>
+</ul>
+<p>Additionally, remember that HTTPS is more secure than HTTP because HTTPS uses an SSL/TLS certificate to encrypt the communication between the client and the server. This encryption ensures that data transferred over HTTPS is protected from interception or tampering. In contrast, HTTP does not use encryption, making it more vulnerable to security risks.</p>
+<p>Here are the testing results on GitHub server:
+As you can see:</p>
+<p>When you made the curl request with <code>http://github.com/ZenTeknik</code>, GitHub automatically redirected the request to <code>https://github.com/ZenTeknik</code>. This is because GitHub (and many modern websites) enforces HTTPS to ensure secure communication between the server and clients. HTTP is considered insecure, and they prefer to direct users to the secure HTTPS version.</p>
+<p>The 301 Moved Permanently response code indicates that the resource has permanently moved to a new URL (the HTTPS version).</p>
+<h2 id="conclusion">
+  Conclusion
+  <a class="heading-link" href="#conclusion">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<p>The evolution from HTTP/1.1 to HTTP/2 and now to HTTP/3 shows a significant improvement in web performance and security. While HTTP/1.1 was the standard for many years, HTTP/2 brought major improvements in handling multiple requests efficiently. HTTP/3, with its use of QUIC and UDP, offers even lower latency and faster performance, but it is still in the process of widespread adoption.</p>
+<p>For now, HTTP/2 over TCP remains the default for many services, including GitHub, due to its stability and compatibility. As HTTP/3 continues to mature, it will likely become the standard for most modern websites in the near future.</p>
+<hr>
+<p><em>P.S. If you spot any mistakes, please don&rsquo;t hesitate to point them out. We&rsquo;re all here to learn together!</em></p>
+<p>Haris<br>
+FAST (NUCES)<br>
+BS Computer Science | Class of 2027</p>
+<ul>
+<li>GitHub: <a href="https://github.com/ZenTeknik"  class="external-link" target="_blank" rel="noopener">ZenTeknik</a></li>
+<li>LinkedIn: <a href="https://linkedin.com/in/haris-shahzad786"  class="external-link" target="_blank" rel="noopener">linkedin.com/in/haris-shahzad786</a></li>
+<li>Member: COLAB (Research Lab)</li>
+</ul>
+
+      </div>
+
+
+      <footer>
+        
+
+
+        <div id="disqus_thread"></div>
+<script>
+  window.disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "ZenTeknik" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+    
+    document.addEventListener('themeChanged', function (e) { 
+        if (document.readyState == 'complete') {
+          DISQUS.reset({ reload: true, config: disqus_config });
+        }
+    });
+</script>
+        
+        
+        
+        
+        
+        
+      </footer>
+    </article>
+
+    
+  </section>
+
+    </div>
+
+    <footer class="footer">
+  <section class="container">
+    ©
+    
+      2023 -
+    
+    2025
+     Haris Shahzad 
+    ·
+    
+    Powered by <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/" target="_blank" rel="noopener">Coder</a>.
+    
+  </section>
+</footer>
+
+  </main>
+
+  
+
+  
+  
+  <script src="/js/coder.js"></script>
+  
+
+  
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+</body>
+</html>

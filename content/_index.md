@@ -37,4 +37,3 @@ I'm a **Computer Science student** at **FAST-NUCES**, currently in my 4th semest
 ## About Me
 
 I’m passionate about **AI**, **Automation**, and **System Programming**. Feel free to explore my projects, and if you're interested in collaborating or want to know more, don't hesitate to reach out!
-
