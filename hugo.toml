@@ -20,7 +20,7 @@ style = "github-dark"
 
 [params]
   author = "Haris Shahzad"
-  info = "Aspiring System Programmer · Passionate about Automation, Robotics & Linux"
+  info = "Aspiring System Programmer Passionate about Automation, Robotics & Linux."
   description = "Aspiring Software Engineer · Passionate about Automation, Robotics,& Linux"
   keywords = "blog,developer,personal"
   avatarurl = "images/profile.jpg"
@@ -56,6 +56,12 @@ style = "github-dark"
   weight = 2
   url = "https://linkedin.com/in/haris-shahzad786"
 
+
+[[params.social]]
+  name = "Email"
+  icon = "fa-solid fa-envelope fa-2x"
+  weight = 3
+  url = "mailto:arainharis151@gmail.com"
 
 # Menu links
 [[menu.main]]

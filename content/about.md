@@ -1,13 +1,17 @@
+
+
 +++
-date = '2025-02-02T22:08:51+05:00'
-draft = false
-title = 'About'
+title = "About Me"
+date = "2025-02-03"
 +++
 
+# Haris (aka Zen)
 
+I’m Haris, currently in my 4th semester of Computer Science at **FAST-NUCES** and a member of **COLAB** (Research Lab) in Tire 3. I’m passionate about diving into the world of **AI/ML** and improving my **problem-solving techniques**. 🧠
 
----
-title: "About Me"
----
+🐧 **Proud user of Arch-based Linux** | The **command line is my playground**. 
 
-I'm Haris, a Computer Science student passionate about system programming.
+**Automation & Robotics** are my core interests. 🚀 As an **automation enthusiast**, my mission is to innovate and turn **manual tasks into automated brilliance**. I’m dedicated to creating automated solutions that drive efficiency and innovation.
+
+Let’s connect and collaborate on cutting-edge technology! Feel free to reach out—I'd love to exchange ideas and work on exciting projects together.
+
