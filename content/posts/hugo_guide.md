@@ -143,14 +143,13 @@ Hugo is a powerful static site generator that, once set up, can help you build f
 
 For any issues or further assistance, feel free to reach out!
 
----
+Haris  
+FAST (NUCES)  
+BS Computer Science | Class of 2027
 
-## Connect with me
-
-- [GitHub](https://github.com/ZenTeknik)
-- [LinkedIn](https://www.linkedin.com/in/haris-shahzad786)
-
----
+- GitHub: [ZenTeknik](https://github.com/ZenTeknik)  
+- LinkedIn: [linkedin.com/in/haris-shahzad786](https://linkedin.com/in/haris-shahzad786)  
+- Member: COLAB (Research Lab)
 
  
 
