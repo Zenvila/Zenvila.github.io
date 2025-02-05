@@ -6,8 +6,15 @@
     <description>Recent content in Welcome to My Portfolio on Haris Shahzad</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Feb 2025 17:06:00 +0500</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo Setup Guide</title>
+      <link>http://localhost:1313/posts/hugo_guide/</link>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/hugo_guide/</guid>
+      <description>&lt;h1 id=&#34;hugo-setup-guide&#34;&gt;Hugo Setup Guide&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; This guide is created based on a generic Linux environment. If you&amp;rsquo;re using Manjaro Linux or any other distribution, you might need to adjust the commands accordingly.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;what-is-hugo&#34;&gt;What is Hugo?&lt;/h2&gt;&#xA;&lt;p&gt;Hugo is a fast and flexible static site generator written in Go. It helps in building websites quickly by using simple content files and templates.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;why-use-hugo&#34;&gt;Why Use Hugo?&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Speed:&lt;/strong&gt; One of the fastest static site generators.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Flexibility:&lt;/strong&gt; Supports various content types and templates.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Ease of Use:&lt;/strong&gt; Simple setup and easy to maintain.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;prerequisites&#34;&gt;Prerequisites&lt;/h2&gt;&#xA;&lt;p&gt;Before setting up Hugo, ensure you have the following:&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Understanding HTTP/1.1, HTTP/2, and HTTP/3</title>
       <link>http://localhost:1313/posts/http/</link>
@@ -21,13 +28,6 @@
       <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
       <description>&lt;h1 id=&#34;haris-aka-zen&#34;&gt;Haris (aka Zen)&lt;/h1&gt;&#xA;&lt;p&gt;I’m Haris, currently in my 4th semester of Computer Science at &lt;strong&gt;FAST-NUCES&lt;/strong&gt; and a member of &lt;strong&gt;COLAB&lt;/strong&gt; (Research Lab) in Tire 3. I’m passionate about &lt;strong&gt;system programming&lt;/strong&gt;, diving into the world of &lt;strong&gt;AI/ML&lt;/strong&gt;, and improving my &lt;strong&gt;problem-solving techniques&lt;/strong&gt;. 🧠&lt;/p&gt;&#xA;&lt;p&gt;🐧 &lt;strong&gt;Proud user of Arch-based Linux&lt;/strong&gt; | The &lt;strong&gt;command line is my playground&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Automation &amp;amp; Robotics&lt;/strong&gt; are my core interests. 🚀 As an &lt;strong&gt;automation enthusiast&lt;/strong&gt;, my mission is to innovate and turn &lt;strong&gt;manual tasks into automated brilliance&lt;/strong&gt;. I’m dedicated to creating automated solutions that drive efficiency and innovation.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Hugo Setup Guide</title>
-      <link>http://localhost:1313/posts/hugo_guide/</link>
-      <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/hugo_guide/</guid>
-      <description>&lt;h1 id=&#34;hugo-setup-guide&#34;&gt;Hugo Setup Guide&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; This guide is created based on a generic Linux environment. If you&amp;rsquo;re using Manjaro Linux or any other distribution, you might need to adjust the commands accordingly.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;what-is-hugo&#34;&gt;What is Hugo?&lt;/h2&gt;&#xA;&lt;p&gt;Hugo is a fast and flexible static site generator written in Go. It helps in building websites quickly by using simple content files and templates.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;why-use-hugo&#34;&gt;Why Use Hugo?&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Speed:&lt;/strong&gt; One of the fastest static site generators.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Flexibility:&lt;/strong&gt; Supports various content types and templates.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Ease of Use:&lt;/strong&gt; Simple setup and easy to maintain.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;prerequisites&#34;&gt;Prerequisites&lt;/h2&gt;&#xA;&lt;p&gt;Before setting up Hugo, ensure you have the following:&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
