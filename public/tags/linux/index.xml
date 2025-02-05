@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on Haris Shahzad</title>
+    <link>http://localhost:1313/tags/linux/</link>
+    <description>Recent content in Linux on Haris Shahzad</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 22 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo Setup Guide</title>
+      <link>http://localhost:1313/posts/hugo_guide/</link>
+      <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/hugo_guide/</guid>
+      <description>&lt;h1 id=&#34;hugo-setup-guide&#34;&gt;Hugo Setup Guide&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; This guide is created based on a generic Linux environment. If you&amp;rsquo;re using Manjaro Linux or any other distribution, you might need to adjust the commands accordingly.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;what-is-hugo&#34;&gt;What is Hugo?&lt;/h2&gt;&#xA;&lt;p&gt;Hugo is a fast and flexible static site generator written in Go. It helps in building websites quickly by using simple content files and templates.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;why-use-hugo&#34;&gt;Why Use Hugo?&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Speed:&lt;/strong&gt; One of the fastest static site generators.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Flexibility:&lt;/strong&gt; Supports various content types and templates.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Ease of Use:&lt;/strong&gt; Simple setup and easy to maintain.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;prerequisites&#34;&gt;Prerequisites&lt;/h2&gt;&#xA;&lt;p&gt;Before setting up Hugo, ensure you have the following:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,3 +1,10 @@
+---
+ title: "Hugo Setup Guide"
+ date: "2025-02-05"
+ tags: ["Hugo", "Guide"]
+ author: "ZenTeknik"
+ --- 
+
 # Hugo Setup Guide
 
 **Note:** This guide is created based on a generic Linux environment. If you're using Manjaro Linux or any other distribution, you might need to adjust the commands accordingly.
@@ -133,4 +140,8 @@ git pull origin main
 Hugo is a powerful static site generator that, once set up, can help you build fast and efficient websites. Adjust this guide according to your Linux distribution if you're not using the default environment mentioned here.
 
 For any issues or further assistance, feel free to reach out!
+ 
 
+
+
+  
