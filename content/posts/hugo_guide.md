@@ -1,9 +1,11 @@
+ ---
+title: "Hugo Setup Guide"
+date: "2025-02-05"
+tags: ["Hugo", "Guide"]
+author: "ZenTeknik"
 ---
- title: "Hugo Setup Guide"
- date: "2025-02-05"
- tags: ["Hugo", "Guide"]
- author: "ZenTeknik"
- --- 
+
+ 
 
 # Hugo Setup Guide
 
