@@ -142,6 +142,16 @@ git pull origin main
 Hugo is a powerful static site generator that, once set up, can help you build fast and efficient websites. Adjust this guide according to your Linux distribution if you're not using the default environment mentioned here.
 
 For any issues or further assistance, feel free to reach out!
+
+---
+
+## Connect with me
+
+- [GitHub](https://github.com/ZenTeknik)
+- [LinkedIn](https://www.linkedin.com/in/haris-shahzad786)
+
+---
+
  
 
 
