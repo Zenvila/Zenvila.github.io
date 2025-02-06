@@ -41,7 +41,7 @@ style = "github-dark"
   tag = "tags"
   author = "authors"
 
-# Social links
+# Social link 
 [[params.social]]
   name = "Github"
   icon = "fa-brands fa-github fa-2x"
