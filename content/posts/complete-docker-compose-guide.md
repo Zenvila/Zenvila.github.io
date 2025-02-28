@@ -2,7 +2,7 @@
 date = 2025-03-01T17:06:00+05:00
 title = "Docker Compose: A Comprehensive Guide"
 description = "A complete guide to Docker Compose including installation on Arch Linux, common commands, configuration files, and best practices."
-slug = ""
+slug = "docker-compose-comprehensive-guide"
 authors = []
 tags = ["docker", "docker-compose", "containerization", "devops", "arch linux"]
 categories = []
