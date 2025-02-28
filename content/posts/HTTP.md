@@ -105,7 +105,7 @@ Haris
 FAST (NUCES)  
 BS Computer Science | Class of 2027
 
-- GitHub: [ZenTeknik](https://github.com/ZenTeknik)  
+- GitHub: [Zenvila](https://github.com/Zenvila)  
 - LinkedIn: [linkedin.com/in/haris-shahzad786](https://linkedin.com/in/haris-shahzad786)  
 - Member: COLAB (Research Lab)
 
