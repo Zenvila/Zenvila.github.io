@@ -362,6 +362,17 @@ Docker Compose is an essential tool for developers working with containerized ap
 
 By mastering Docker Compose, you'll save time, reduce configuration errors, and improve your overall development workflow. Whether you're working on a simple web application or a complex microservices architecture, Docker Compose has features to meet your needs.
 
+
+*P.S. If you spot any mistakes, please don't hesitate to point them out. We're all here to learn together!*
+
+Haris  
+FAST (NUCES)  
+BS Computer Science | Class of 2027
+
+- GitHub: [Zenvila](https://github.com/Zenvila)  
+- LinkedIn: [linkedin.com/in/haris-shahzad786](https://linkedin.com/in/haris-shahzad786)  
+- Member: COLAB (Research Lab)
+
 Start using Docker Compose today and see how it can transform your development process!
 
 ---
