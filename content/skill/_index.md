@@ -1,20 +1,26 @@
---- 
-title: "Skills" 
-description: "A showcase of my skills and technologies I work with." 
-type: "page" 
+---
+title: "Skills"
+description: "A showcase of my skills and technologies I work with."
+type: "page"
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Tech Stack
 
-| ![Ubuntu](/about/ubuntu-original.svg) **Linux-based OS**           | ![C](/about/c-original.svg) **C**                        | ![C++](/about/cplusplus-original.svg) **C++**         | ![Python](/about/python-original.svg) **Python**        | ![JavaScript](/about/javascript-original.svg) **JavaScript** | ![HTML5](/about/html5-original.svg) **HTML5**           |
-| --------------------------------------------------------------- | ------------------------------------------------------ | -------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------- | ---------------------------------------------------- |
-| ![Docker](/about/docker-original.svg) **Docker**                 | ![Linux](/about/linux-original.svg) **Linux System Admin** | ![Bash](/about/bash-original.svg) **Bash Scripting** | ![ProFTPD](/about/proftpd-original.svg) **ProFTPD**    | ![SSH](/about/ssh-original.svg) **Secure Shell (SSH)** | ![Rsync](/about/rsync-original.svg) **Rsync**           |
-| ![VoIP](/about/voip-original.svg) **VoIP**                      | ![FreePBX](/about/freepbx-original.svg) **FreePBX**     | ![Chef](/about/chef-original.svg) **Chef**           | ![Puppet](/about/puppet-original.svg) **Puppet**       | ![Git](/about/git-original.svg) **Git**                 | ![GitHub](/about/github-original.svg) **GitHub**        |
-| ![Azure](/about/azure-original.svg) **Cloud Technologies**       | ![OpenSSL](/about/openssl-original.svg) **OpenSSL**      | ![AI](/about/ai-original.svg) **Artificial Intelligence** | ![RAG](/about/rag-original.svg) **RAG**               | ![Kali Linux](/about/kalilinux-original.svg) **Kali Linux** | ![Docker Compose](/about/docker-compose-original.svg) **Docker Compose** |
-| ![Django](/about/django-plain.svg) **Django**                   | ![Node.js](/about/nodejs-original.svg) **Node.js**      | ![Flutter](/about/flutter-original.svg) **Flutter**  | ![Bootstrap](/about/bootstrap-original.svg) **Bootstrap** | ![API](/about/api-original.svg) **API Development**    | ![Web Services](/about/webservices-original.svg) **Web Services** |
-| ![AWS](/about/amazonwebservices-original-wordmark.svg) **AWS**   | ![MongoDB](/about/mongodb-original.svg) **MongoDB**     | ![Jenkins](/about/jenkins-original.svg) **Jenkins**  | ![VS Code](/about/vscode-original.svg) **VS Code**    | ![Slack](/about/slack-original.svg) **Slack**           | ![Markdown](/about/markdown-original.svg) **Markdown**  |
-| ![Ollama](/about/ollama-original.svg) **Ollama**                | ![PHP](/about/php-original.svg) **PHP**                 | ![XAMPP](/about/xampp-original.svg) **XAMPP**        | ![Keras](/about/keras-original.svg) **Keras**          | ![Jupyter](/about/jupyter-original.svg) **Jupyter**      | ![Selenium](/about/selenium-original.svg) **Selenium**  |
-| ![GitHub](/about/github-original.svg) **GitHub**                | ![Google](/about/google-original.svg) **Google**        | ![Apache](/about/apache-original-wordmark.svg) **Apache** | ![RSA](/about/rsa-original.svg) **RSA Security**       |                                                              |                                                              |
+| **Technology**                                   | **Technology**                                               | **Technology**                                                  | **Technology**                                      | **Technology**                                      |
+| ------------------------------------------------ | ------------------------------------------------------------ | --------------------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------- |
+| ![Python](/about/python-original.svg) **Python**  | ![Docker](/about/docker-original.svg) **Docker**              | ![Docker Compose](/about/docker-compose-original.svg) **Docker Compose** | ![Ubuntu](/about/ubuntu-original.svg) **Ubuntu**     | ![Ubuntu Server](/about/ubuntu-original.svg) **Ubuntu Server** |
+| ------------------------------------------------ | ------------------------------------------------------------ | --------------------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------- |
+| ![Arch](/about/arch-original.svg) **Arch**        | ![Manjaro](/about/manjaro-original.svg) **Manjaro**           | ![Cloud](/about/cloud-original.svg) **Cloud Technologies**       | ![Git](/about/git-original.svg) **Git**              | ![Linux](/about/linux-original.svg) **Linux**         |
+| ------------------------------------------------ | ------------------------------------------------------------ | --------------------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------- |
+| ![C](/about/c-original.svg) **C**                 | ![C++](/about/cplusplus-original.svg) **C++**                 | ![JavaScript](/about/javascript-original.svg) **JavaScript**     | ![HTML5](/about/html5-original.svg) **HTML5**        | ![CSS](/about/css3-original.svg) **CSS**              |
+| ------------------------------------------------ | ------------------------------------------------------------ | --------------------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------- |
+| ![Bash](/about/bash-original.svg) **Bash Scripting** | ![SSH](/about/3499792-browser-window-key-ssh-ssh-web-hosting-website_107634.svg) **Secure Shell (SSH)** | | | |
+| ------------------------------------------------ | ------------------------------------------------------------ | --------------------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------- |
+| ![AI](/about/ai_artificial_intelligence_technology_cpu_chip_icon_179499.svg) **Artificial Intelligence** | | | | |
+| ------------------------------------------------ | ------------------------------------------------------------ | --------------------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------- |
+| ![GitHub](/about/github-original.svg) **GitHub**  | ![Jupyter](/about/jupyter-original.svg) **Jupyter**           | ![Django](/about/django-plain.svg) **Django**                   | ![Node.js](/about/nodejs-original.svg) **Node.js**   | ![Bootstrap](/about/bootstrap_plain_wordmark_logo_icon_146620.svg) **Bootstrap** |
+| ------------------------------------------------ | ------------------------------------------------------------ | --------------------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------- |
+| ![API](/about/api_icon_135949.svg) **API Development** | | | | |
 
 ---
 
