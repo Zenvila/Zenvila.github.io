@@ -78,10 +78,6 @@ style = "github-dark"
   url = "about/"
 
 
-
-
-
-
 [[menu.main]]
   name = "Projects"
   url = "/projects/"
