@@ -67,10 +67,6 @@ style = "github-dark"
 
 
 # Menu links
-[[menu.main]]
-  name = "Skills"
-  weight = 2
-  url = "skill/"
 
 [[menu.main]]
   name = "About"
