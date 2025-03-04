@@ -28,6 +28,13 @@
 - Implemented Monit for server monitoring and automation of error detection.
 - Fine-tuned alert mechanisms to ensure system stability and efficiency.
 
+### Custom Cloud System
+- Designed and set up a self-built cloud system using Ubuntu Server.
+- Implemented real-time monitoring with Monit to ensure system stability and resource management.
+- Utilized tools like **Ubuntu Server 22.04 LTS**, **Monit**, and **Email Alerts** for efficient management and monitoring.
+
+
+
 ### LLM Voice Assistant
 - Conducted testing and evaluation of a Large Language Model (LLM)-powered voice assistant.
 - Focused on improving accuracy and user experience.
