@@ -34,7 +34,6 @@
 - Utilized tools like **Ubuntu Server 22.04 LTS**, **Monit**, and **Email Alerts** for efficient management and monitoring.
 
 
-
 ### LLM Voice Assistant
 - Conducted testing and evaluation of a Large Language Model (LLM)-powered voice assistant.
 - Focused on improving accuracy and user experience.
@@ -50,6 +49,12 @@
 ### FAST Aggregate Calculator
 - Developed an aggregate calculator for FAST entry test scores during an internship at Erudite Coaching Centre.
 - **Tools**: JavaScript, HTML, CSS, GitHub, Linux
+
+
+### Docker Swarm Cluster Deployment  
+- Deployed a Docker Swarm cluster across two physical Arch Linux machines (manager and worker nodes) research initiative.  
+- **Tools**: Docker, Docker Swarm, Arch Linux, Linux System Administration, GitHub
+
 
 ### Note:
 - Project documentation and media related to the above projects are uploaded on [LinkedIn Projects](https://www.linkedin.com/in/haris-shahzad786/details/projects/).
