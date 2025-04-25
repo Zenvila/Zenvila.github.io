@@ -1,3 +1,21 @@
+
+### Preserving Services with Faster Kernel Reboots Using Kexec & Live Kernel Patching
+- Implemented a solution to update the kernel without rebooting, preserving all active services using Kexec for seamless kernel switching.
+- Applied Live Kernel Patching to dynamically fix bugs and perform log maintenance during active sessions.
+- Reduced system boot time by nearly 50%, significantly improving uptime and minimizing disruptions.
+- **Tools**: Kexec, Live Kernel Patching, Linux, C, Makefile
+
+### Custom Cloud System
+- Designed and set up a self-built cloud system using Ubuntu Server.
+- Implemented real-time monitoring with Monit to ensure system stability and resource management.
+- Utilized tools like **Ubuntu Server 22.04 LTS**, **Monit**, and **Email Alerts** for efficient management and monitoring.
+
+
+### Docker Swarm Cluster Deployment
+- Deployed a Docker Swarm cluster across two physical Arch Linux machines (manager and worker nodes) research initiative.
+- **Tools**: Docker, Docker Swarm, Arch Linux, Linux System Administration, GitHub
+
+
 ### Voice Over IP (VoIP) Setup
 - Configured VoIP communication using Asterisk (PBX) on Ubuntu, creating clients and enabling IP-based communication.
 - Deployed the system on AWS EC2 and Docker for scalability and containerization.
@@ -28,12 +46,6 @@
 - Implemented Monit for server monitoring and automation of error detection.
 - Fine-tuned alert mechanisms to ensure system stability and efficiency.
 
-### Custom Cloud System
-- Designed and set up a self-built cloud system using Ubuntu Server.
-- Implemented real-time monitoring with Monit to ensure system stability and resource management.
-- Utilized tools like **Ubuntu Server 22.04 LTS**, **Monit**, and **Email Alerts** for efficient management and monitoring.
-
-
 ### LLM Voice Assistant
 - Conducted testing and evaluation of a Large Language Model (LLM)-powered voice assistant.
 - Focused on improving accuracy and user experience.
@@ -49,11 +61,6 @@
 ### FAST Aggregate Calculator
 - Developed an aggregate calculator for FAST entry test scores during an internship at Erudite Coaching Centre.
 - **Tools**: JavaScript, HTML, CSS, GitHub, Linux
-
-
-### Docker Swarm Cluster Deployment  
-- Deployed a Docker Swarm cluster across two physical Arch Linux machines (manager and worker nodes) research initiative.  
-- **Tools**: Docker, Docker Swarm, Arch Linux, Linux System Administration, GitHub
 
 
 ### Note:
