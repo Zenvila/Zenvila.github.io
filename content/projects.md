@@ -5,6 +5,15 @@
 - Reduced system boot time by nearly 50%, significantly improving uptime and minimizing disruptions.
 - **Tools**: Kexec, Live Kernel Patching, Linux, C, Makefile
 
+
+### Digital Timetable System
+- Built a web-based solution to help students access their personalized class and exam timetables by entering their roll numbers.
+- Replaced manual PDF searching with a structured database using SQL joins and clean data entry.
+- Admin panel allows secure add, update, and delete operations, removing the need to resend PDFs for each update.
+- Ensured privacy by restricting users to view only their own data.
+- **Tools:** Python, SQLite3, SQLite Browser, Git
+
+
 ### Custom Cloud System
 - Designed and set up a self-built cloud system using Ubuntu Server.
 - Implemented real-time monitoring with Monit to ensure system stability and resource management.
@@ -25,10 +34,12 @@
 - Designed an ALU for performing basic arithmetic operations as part of the Digital Logic Design course project.
 - **Skills**: Critical Thinking, Digital Logic Design (DLD)
 
+
 ### Cryptography Project
 - Implemented RSA encryption and decryption for secure communication.
 - Configured a Certificate Authority (CA) to issue server certificates and hosted it using Apache.
 - **Tools**: OpenSSL, Linux, VirtualBox, RSA Security
+
 
 ### Programming for Cybersecurity
 - Developed Python scripts for brute-force simulations, data scraping, and IP validation.
