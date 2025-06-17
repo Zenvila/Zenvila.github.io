@@ -6,6 +6,14 @@
 - **Tools**: Kexec, Live Kernel Patching, Linux, C, Makefile
 
 
+### ZenWallet – Dockerized MERN Stack Wallet Tracker
+- Built a full-stack wallet tracker using **MongoDB**, **Express**, **React**, and **Node.js**.
+- Fully containerized with **Docker Compose** (frontend, backend, and MongoDB services).
+- Focused on production-ready DevOps practices and multi-service orchestration.
+- Features include transaction logging, total calculation, and API endpoints.
+- **Tools**: MERN Stack, Docker, Docker Compose
+
+
 ### Digital Timetable System
 - Built a web-based solution to help students access their personalized class and exam timetables by entering their roll numbers.
 - Replaced manual PDF searching with a structured database using SQL joins and clean data entry.
@@ -23,6 +31,14 @@
 ### Docker Swarm Cluster Deployment
 - Deployed a Docker Swarm cluster across two physical Arch Linux machines (manager and worker nodes) research initiative.
 - **Tools**: Docker, Docker Swarm, Arch Linux, Linux System Administration, GitHub
+
+
+### ZenChat — Real-time Chat App (Flask + Docker)
+- Built a minimal real-time chat app using **Flask** and **SQLite3**.
+- Fully containerized with Docker (frontend, backend, middleware).
+- Easy deployment using a single Docker command.
+- Designed for scalability and future Kubernetes orchestration.
+- **Tools**: Python, Flask, SQLite3, Docker
 
 
 ### Voice Over IP (VoIP) Setup
