@@ -6,7 +6,7 @@
 - **Tools**: Kexec, Live Kernel Patching, Linux, C, Makefile
 
 
-### 🔧 KubeStack — Multi-Node Kubernetes Cluster (Kind + Arch Linux)
+###  KubeStack — Multi-Node Kubernetes Cluster (Kind + Arch Linux)
 - Built and deployed a **production-style Kubernetes cluster** using **Kind** on **Arch Linux**.
 - Set up **NGINX deployment** with real-world Services and Ingress routing.
 - Implemented **ConfigMaps**, **Secrets**, and **Volumes** for clean config and persistent storage.
