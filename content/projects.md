@@ -6,6 +6,14 @@
 - **Tools**: Kexec, Live Kernel Patching, Linux, C, Makefile
 
 
+### 🔧 KubeStack — Multi-Node Kubernetes Cluster (Kind + Arch Linux)
+- Built and deployed a **production-style Kubernetes cluster** using **Kind** on **Arch Linux**.
+- Set up **NGINX deployment** with real-world Services and Ingress routing.
+- Implemented **ConfigMaps**, **Secrets**, and **Volumes** for clean config and persistent storage.
+- Used **Helm** and **Bitnami charts** for streamlined app deployment.
+- **Tools**: Kubernetes, Kind, Docker, Helm, NGINX, Arch Linux
+
+
 ### ZenWallet – Dockerized MERN Stack Wallet Tracker
 - Built a full-stack wallet tracker using **MongoDB**, **Express**, **React**, and **Node.js**.
 - Fully containerized with **Docker Compose** (frontend, backend, and MongoDB services).
