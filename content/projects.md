@@ -6,6 +6,15 @@
 - **Tools**: Kexec, Live Kernel Patching, Linux, C, Makefile
 
 
+## CI/CD Pipeline with GitHub Actions & Docker
+
+- Built an automated workflow that tests, builds, and deploys a Node.js app using GitHub Actions and Docker.  
+- Automated dependency installation, testing (CI), and Docker-based deployment (CD) on every code push.  
+- Used GitHub-hosted Ubuntu runners to simulate a real-world deployment environment.  
+- Fully tested the pipeline both locally and remotely to ensure reliable end-to-end automation.  
+- **Tools:** GitHub Actions, Docker, Node.js, Jest, Ubuntu, Git
+
+
 ###  KubeStack — Multi-Node Kubernetes Cluster (Kind + Arch Linux)
 - Built and deployed a **production-style Kubernetes cluster** using **Kind** on **Arch Linux**.
 - Set up **NGINX deployment** with real-world Services and Ingress routing.
