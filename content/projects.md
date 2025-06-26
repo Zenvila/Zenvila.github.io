@@ -6,8 +6,15 @@
 - **Tools**: Kexec, Live Kernel Patching, Linux, C, Makefile
 
 
-## CI/CD Pipeline with GitHub Actions & Docker
+### Infrastructure Automation with Terraform & Ansible
+- Provisioned a Docker-based Ubuntu container using **Terraform**, defining infrastructure as code (IaC) for reproducibility and automation.
+- Used **Ansible** to configure the container post-provision — installing and starting the Apache web server.
+- Ensured end-to-end local testing using secure SSH access into the container.
+- Combined both tools to simulate a real-world DevOps workflow, handling provisioning and configuration separately.
+**Tools:** Terraform, Ansible, Docker, SSH, Linux
 
+
+## CI/CD Pipeline with GitHub Actions & Docker
 - Built an automated workflow that tests, builds, and deploys a Node.js app using GitHub Actions and Docker.  
 - Automated dependency installation, testing (CI), and Docker-based deployment (CD) on every code push.  
 - Used GitHub-hosted Ubuntu runners to simulate a real-world deployment environment.  
