@@ -7,11 +7,11 @@ title = "Zenvila"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  logo = "https://zenvila.github.io/img/profile.jpg"
+  logo = "/images/profile.jpg"
 
 [author]
   name = "Haris Shahzad"
-  image = "https://zenvila.github.io/img/profile.jpg"  # Fixed: Added slash
+  image = "/images/profile.jpg"  # Fixed: Added slash
   headline = "Computer Science Student | System Programmer"
   bio = "Passionate about Automation, Robotics & Linux."
 
