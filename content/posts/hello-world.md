@@ -1,6 +1,6 @@
 ---
 title: "Hello World"
-date: 2026-01-08
+date: 2025-01-08
 draft: false
 description: "This is my first post on my new portfolio!"
 tags: ["welcome", "linux"]
