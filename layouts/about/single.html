@@ -1,13 +1,13 @@
 {{ define "main" }}
 {{ $disableImageOptimization := .Site.Params.disableImageOptimization | default false }}
 <article class="max-w-full prose dark:prose-invert">
-  <div class="flex flex-col lg:flex-row gap-12 items-start">
+  <div class="flex flex-col lg:flex-row gap-16 items-start">
     <!-- Left side - Title and Profile Image stacked vertically -->
     <div class="flex-shrink-0 w-full lg:w-auto">
-      <h1 class="mt-0 mb-8 text-5xl font-extrabold text-neutral-900 dark:text-neutral">
+      <h1 class="mt-0 mb-10 text-5xl font-extrabold text-neutral-900 dark:text-neutral">
         {{ .Title | emojify }}
       </h1>
-      <div class="mt-8">
+      <div>
         {{ with .Site.Params.Author.image }}
           {{ $authorImage := "" }}
           {{ if or (strings.HasPrefix . "http:") (strings.HasPrefix . "https:") }}
@@ -17,39 +17,45 @@
           {{ end }}
           {{ if $authorImage }}
             {{ $final := $authorImage }}
-            {{ $squareImage := $authorImage }}
             {{ if not (or $disableImageOptimization (eq $authorImage.MediaType.SubType "svg")) }}
-              {{ $final = $authorImage.Fill "350x350" }}
-              {{ $shortSide := int (math.Min $authorImage.Width $authorImage.Height) }}
-              {{ $squareImage = $authorImage.Crop (printf "%dx%d" $shortSide $shortSide ) }}
+              {{ $final = $authorImage.Fill "400x400" }}
             {{ end }}
             <img
-              class="rounded-full shadow-lg"
-              width="350"
-              height="350"
+              class="rounded-full shadow-xl"
+              width="400"
+              height="400"
               alt="{{ $.Site.Params.Author.name | default `Author` }}"
               src="{{ $final.RelPermalink }}"
-              data-zoom-src="{{ $squareImage.RelPermalink }}">
+              style="max-width: 400px;">
+          {{ else }}
+            <!-- Fallback if image doesn't load -->
+            <img
+              class="rounded-full shadow-xl"
+              width="400"
+              height="400"
+              alt="{{ $.Site.Params.Author.name | default `Author` }}"
+              src="{{ . }}"
+              style="max-width: 400px;">
           {{ end }}
         {{ end }}
       </div>
     </div>
     
     <!-- Right side - Author Info and Social Links -->
-    <div class="flex-1 mt-0 lg:mt-16">
+    <div class="flex-1 mt-8 lg:mt-20">
       <header class="mb-8">
-        <div class="text-xs uppercase tracking-wider text-neutral-500 dark:text-neutral-400 mb-3 font-medium">
+        <div class="text-xs uppercase tracking-wider text-neutral-500 dark:text-neutral-400 mb-4 font-semibold">
           AUTHOR
         </div>
-        <h2 class="mt-0 mb-3 text-4xl font-bold text-neutral-900 dark:text-neutral">
+        <h2 class="mt-0 mb-4 text-5xl font-bold text-neutral-900 dark:text-neutral">
           {{ .Site.Params.Author.name }}
         </h2>
-        <p class="text-lg text-neutral-600 dark:text-neutral-400 mb-6 italic">
+        <p class="text-xl text-neutral-600 dark:text-neutral-400 mb-8 italic">
           self learner
         </p>
         
         <!-- Social Links -->
-        <div class="flex flex-wrap gap-4 text-3xl text-neutral-400 dark:text-neutral-500">
+        <div class="flex flex-wrap gap-5 text-4xl text-neutral-400 dark:text-neutral-500 mb-8">
           {{ with .Site.Params.Author.links }}
             {{ range $links := . }}
               {{ range $name, $url := $links }}
@@ -69,7 +75,7 @@
       </header>
       
       <!-- Content -->
-      <section class="max-w-full mt-8 prose dark:prose-invert">
+      <section class="max-w-full mt-8 prose dark:prose-invert text-base">
         {{ .Content }}
       </section>
     </div>
