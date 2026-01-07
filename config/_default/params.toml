@@ -3,7 +3,7 @@ defaultTheme = "dark"
 
 [homepage]
   layout = "background"
-  homepageImage = "https://zenvila.github.io/background.jpg"
+  homepageImage = "https://zenvila.github.io/background.png"
   showRecent = true     # <--- This adds the posts below your bio!
   showRecentItems = 4
   showMore = true
