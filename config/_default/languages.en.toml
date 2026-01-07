@@ -7,7 +7,7 @@ title = "Zenvila"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  logo = "images/penguin.svg"
+  Logo = "images/penguin.svg"
   disableTextInHeader = true
 
 [params.author]
