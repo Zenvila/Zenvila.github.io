@@ -1,6 +1,9 @@
 ---
 title: "About Me"
-layout: "author"
+layout: "simple"
+showAuthor: true
+showDate: false
+heroStyle: "background"
 featuredImage: "https://zenvila.github.io/images/profile.jpg"
 ---
 
