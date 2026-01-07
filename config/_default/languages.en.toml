@@ -17,7 +17,5 @@ title = "Zenvila"
   links = [
     { github = "https://github.com/zenvila" },
     { linkedin = "https://linkedin.com/in/haris-shahzad786" },
-    { email = "mailto:arainharis151@gmail.com" },
-    { fiverr = "https://www.fiverr.com/s/1qZV009" },
-    { upwork = "https://www.upwork.com/freelancers/~0111e8eb5fe7cc1c46?mp_source=share" }
+    { email = "mailto:arainharis151@gmail.com" }
   ]
