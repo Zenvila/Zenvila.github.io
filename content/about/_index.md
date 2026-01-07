@@ -1,10 +1,10 @@
 ---
 title: "About Me"
-layout: "simple"
+showHero: true
 showAuthor: true
 showDate: false
 heroStyle: "background"
-featuredImage: "https://zenvila.github.io/images/profile.jpg"
+featureimage: "https://zenvila.github.io/images/profile.jpg"
 ---
 
 ## The Builder's Mindset
