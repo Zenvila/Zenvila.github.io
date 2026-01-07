@@ -7,15 +7,15 @@ title = "Zenvila"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  logo = "img/profile.jpg" 
+  logo = "/img/profile.jpg"   # Fixed: Added slash
 
 [author]
   name = "Haris Shahzad"
-  image = "img/profile.jpg"
+  image = "/img/profile.jpg"  # Fixed: Added slash
   headline = "Computer Science Student | System Programmer"
   bio = "Passionate about Automation, Robotics & Linux."
-  
-  # Updated Links
+
+  # Social Links
   links = [
     { icon = "github", link = "https://github.com/zenvila" },
     { icon = "linkedin", link = "https://linkedin.com/in/haris-shahzad786" },
