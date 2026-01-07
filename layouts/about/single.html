@@ -1,8 +1,12 @@
 {{ define "main" }}
+{{ $disableImageOptimization := .Site.Params.disableImageOptimization | default false }}
 <article class="max-w-full prose dark:prose-invert">
   <div class="flex flex-col lg:flex-row gap-8 items-start">
-    <!-- Left side - Profile Image -->
+    <!-- Left side - Title and Profile Image -->
     <div class="flex-shrink-0">
+      <h1 class="mt-0 mb-6 text-4xl font-extrabold text-neutral-900 dark:text-neutral">
+        {{ .Title | emojify }}
+      </h1>
       {{ with .Site.Params.Author.image }}
         {{ $authorImage := "" }}
         {{ if or (strings.HasPrefix . "http:") (strings.HasPrefix . "https:") }}
@@ -12,65 +16,61 @@
         {{ end }}
         {{ if $authorImage }}
           {{ $final := $authorImage }}
-          {{ if not (or ($.Site.Params.disableImageOptimization | default false) (eq $authorImage.MediaType.SubType "svg")) }}
+          {{ $squareImage := $authorImage }}
+          {{ if not (or $disableImageOptimization (eq $authorImage.MediaType.SubType "svg")) }}
             {{ $final = $authorImage.Fill "300x300" }}
+            {{ $shortSide := int (math.Min $authorImage.Width $authorImage.Height) }}
+            {{ $squareImage = $authorImage.Crop (printf "%dx%d" $shortSide $shortSide ) }}
           {{ end }}
           <img
-            class="rounded-lg shadow-lg"
+            class="rounded-full"
             width="300"
             height="300"
             alt="{{ $.Site.Params.Author.name | default `Author` }}"
-            src="{{ $final.RelPermalink }}">
+            src="{{ $final.RelPermalink }}"
+            data-zoom-src="{{ $squareImage.RelPermalink }}">
         {{ end }}
       {{ end }}
     </div>
     
-    <!-- Right side - Content and Image -->
+    <!-- Right side - Author Info and Social Links -->
     <div class="flex-1">
-      <header>
-        <h1 class="mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral">
-          {{ .Title | emojify }}
-        </h1>
-        <div class="text-xl font-semibold text-neutral-700 dark:text-neutral-300 mt-2">
+      <header class="mb-6">
+        <div class="text-xs uppercase tracking-wider text-neutral-500 dark:text-neutral-400 mb-2">
+          AUTHOR
+        </div>
+        <h2 class="mt-0 mb-2 text-3xl font-bold text-neutral-900 dark:text-neutral">
           {{ .Site.Params.Author.name }}
-        </div>
-        <div class="text-sm text-neutral-500 dark:text-neutral-400 mb-4">
-          Author
-        </div>
-        <p class="text-lg italic text-neutral-600 dark:text-neutral-400 mb-6">
-          Self-learner passionate about continuous growth and exploration.
+        </h2>
+        <p class="text-base text-neutral-600 dark:text-neutral-400 mb-4 italic">
+          self learner
         </p>
+        
+        <!-- Social Links -->
+        <div class="flex flex-wrap gap-3 text-2xl text-neutral-400 dark:text-neutral-500">
+          {{ with .Site.Params.Author.links }}
+            {{ range $links := . }}
+              {{ range $name, $url := $links }}
+                <a
+                  class="hover:text-primary-700 dark:hover:text-primary-400 transition-colors"
+                  href="{{ $url | safeURL }}"
+                  target="_blank"
+                  aria-label="{{ $name | title }}"
+                  title="{{ $name | title }}"
+                  rel="me noopener noreferrer">
+                  <span class="inline-block align-text-bottom">{{ partial "icon.html" $name }}</span>
+                </a>
+              {{ end }}
+            {{ end }}
+          {{ end }}
+        </div>
       </header>
       
-      <!-- Right side image -->
-      <div class="float-right ml-6 mb-4">
-        {{ with .Site.Params.Author.image }}
-          {{ $authorImage := "" }}
-          {{ if or (strings.HasPrefix . "http:") (strings.HasPrefix . "https:") }}
-            {{ $authorImage = resources.GetRemote . }}
-          {{ else }}
-            {{ $authorImage = resources.Get . }}
-          {{ end }}
-          {{ if $authorImage }}
-            {{ $final := $authorImage }}
-            {{ if not (or ($.Site.Params.disableImageOptimization | default false) (eq $authorImage.MediaType.SubType "svg")) }}
-              {{ $final = $authorImage.Fill "250x250" }}
-            {{ end }}
-            <img
-              class="rounded-lg shadow-lg"
-              width="250"
-              height="250"
-              alt="{{ $.Site.Params.Author.name | default `Author` }}"
-              src="{{ $final.RelPermalink }}">
-          {{ end }}
-        {{ end }}
-      </div>
-      
-      <section class="max-w-full">
+      <!-- Content -->
+      <section class="max-w-full mt-8">
         {{ .Content }}
       </section>
     </div>
   </div>
 </article>
 {{ end }}
-
