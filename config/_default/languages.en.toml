@@ -9,15 +9,13 @@ title = "Zenvila"
   dateFormat = "2 January 2006"
   logo = "https://zenvila.github.io/images/profile.jpg"
 
-[author]
+[params.author]
   name = "Haris Shahzad"
   image = "https://zenvila.github.io/images/profile.jpg"
   headline = "Computer Science Student | System Programmer"
   bio = "Passionate about Automation, Robotics & Linux."
-
-  # Social Links
   links = [
-    { icon = "github", link = "https://github.com/zenvila" },
-    { icon = "linkedin", link = "https://linkedin.com/in/haris-shahzad786" },
-    { icon = "email", link = "mailto:arainharis151@gmail.com" }
+    { github = "https://github.com/zenvila" },
+    { linkedin = "https://linkedin.com/in/haris-shahzad786" },
+    { email = "mailto:arainharis151@gmail.com" }
   ]
