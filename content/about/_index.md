@@ -1,6 +1,5 @@
 ---
 title: "About"
-layout: "page"
 ---
 
 I'm Haris aka Zen, currently in my 6th semester of Computer Science at FAST-NUCES and a member of COLAB (Research Lab) in Tier 3.
