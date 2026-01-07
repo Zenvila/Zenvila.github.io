@@ -7,7 +7,8 @@ title = "Zenvila"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  logo = "https://zenvila.github.io/images/profile.jpg"
+  logo = "images/penguin.svg"
+  disableTextInHeader = true
 
 [params.author]
   name = "Haris Shahzad"
