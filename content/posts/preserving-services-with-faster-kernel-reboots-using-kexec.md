@@ -6,28 +6,15 @@ tags: ["migrated"]
 date: 2025-08-19
 featuredImage: "https://source.unsplash.com/1600x900/?docker,container"
 ---
-
-
-
-
 # Preserving Services with Faster Kernel Reboots Using Kexec
 
 # **Improving the Kexec Boot Time**
 
 We will see why the kernel boot is important. Basically, we will explore live updates of the host kernel and also go through some of the different optimizations that have been done to improve boot time, especially specialized for the specific **ECI device**.
-
----
-
 ## **ECI:**
 
 This is a software platform that leverages technologies like **virtualization** and **containerization** to manage control execution as **containerized microservices** in industrial environments.
-
----
-
 We will also conclude with whether there is anything more to improve and what are large areas that can further enhance **boot time**.
-
----
-
 ## **Let’s First Start With the Motivation – Why?**
 
 In both public and private clouds, once the workload is started and the virtual machines are running, people do not want the host environment to change — they try to keep it the same as long as possible.
@@ -35,9 +22,6 @@ In both public and private clouds, once the workload is started and the virtual 
 But updating the host kernel is a **severe distraction**, especially due to the **very large downtime** it can cause for the virtual machines.
 
 However, updating the host kernel obviously brings **security**, **functionality**, and **performance** benefits — which not all of the alternative methods like **kernel patching** deliver, as kernel patching is mostly meant for **critical security fixes** and **bug fixes**.
-
----
-
 ### **What is Kernel Patching?**
 
 Kernel patching is used to address **bug fixes**, **security vulnerabilities**, or to introduce **new features** or functionalities. Kernel patching can be performed in two ways:
@@ -45,27 +29,16 @@ Kernel patching is used to address **bug fixes**, **security vulnerabilities**, 
 * By updating the entire kernel (requires a **system reboot**)
     
 * Through **live patching**, which allows updates to be applied **without interrupting** the system
-    
-
----
-
 ## **Two Ways to Update the Host Kernel:**
 
 1. **Live Migration**
     
 2. **Live Update**
-    
-
----
-
 ### **Live Migration:**
 
 Live migration is the process of moving a **running virtual machine** from one physical host to another without causing too much disruption. It has major advantages, especially in handling **physical hardware issues**.
 
 So, this is not the problem here — what we have done is **update the host kernel via live update**. We don’t try to update the kernel in systems that already have hardware issues.
-
----
-
 ## **Live Updates:**
 
 Live updates of the host kernel work by **pausing** and **snapshotting** the virtual machines running on the host, then **kexec booting** into the new kernel and **restoring/resuming** energy to the virtual machines.
@@ -77,26 +50,13 @@ Live updates of the host kernel work by **pausing** and **snapshotting** the vir
 * No extra machines required
     
 * Less **bandwidth** consumption
-    
-
----
-
 ### **Other Issues:**
 
 If **PCI devices** (Peripheral Component Interconnect) are passed through a virtual machine using **VFIO pass-through**, we need to **preserve its IOM state** (operational state of a network interface).
-
----
-
 ### **Solution Using KVM Form and Kernel Persistent Memory**
-
----
-
 ### **What is Kernel Persistent Memory?**
 
 Persistent memory is a type of computer memory that **retains data even after power is turned off**. It combines the **high speed** of DRAM with the **durability** of SSDs. It acts as both **fast memory** and **persistent storage**, improving **performance** and **data reliability**.
-
----
-
 ### **Another Issue:**
 
 Issues may also occur with **host user space applications** like **DPDK** and **SPDK**.
@@ -104,10 +64,6 @@ Issues may also occur with **host user space applications** like **DPDK** and **
 * **DPDK** is used for networking tasks.
     
 * **SPDK** is used for storage-related operations.
-    
-
----
-
 ### **Downtime During Live Updates Includes:**
 
 * VM pause
@@ -119,10 +75,6 @@ Issues may also occur with **host user space applications** like **DPDK** and **
 * VM restore
     
 * VM resume
-    
-
----
-
 ## **Measuring Kernel Boot Time:**
 
 We can measure kernel boot time using **timestamp logs**.
@@ -132,37 +84,19 @@ It is measured from the log that shows the **kernel version** to the log that in
 ### **Major Time Consumption:**
 
 Most of the time is taken by **star pages**.
-
----
-
 ### **Optimization – Enable Deferred Star Pages:**
 
 Solution: Enable **deferred star pages** in the init config. This defers the initialization of struct pages from a single parallel thread when the kernel **swap daemon** starts.
-
----
-
 ## **Biggest Time Left: SMP Boot Time**
-
----
-
 ### **What is SMP Boot Time?**
 
 SMP boot time refers to the time required for **initializing multiple processor cores** and loading the operating system in a system that uses **Symmetric Multiprocessing (SMP)**.
-
----
-
 ### **How SMP Boot Works on Linux Kernel:**
 
 CPUs are booted **serially**, one after another.
-
----
-
 ### **What is BP Kick?**
 
 In the Linux kernel context, **BP kick** refers to using **breakpoints (BP)** within a kernel program to trigger debugging or runtime analysis.
-
----
-
 ## **Parallel SMP Boot Time:**
 
 This uses **multiple processors** to perform tasks like:
@@ -172,10 +106,6 @@ This uses **multiple processors** to perform tasks like:
 * Initializing devices
     
 * Starting system services
-    
-
----
-
 ### **Benefits:**
 
 * Faster boot times
@@ -207,13 +137,7 @@ By using this, we can achieve:
 The **kernel boot time** is from the start of the kernel loading to the **init process** start.
 
 The **overall system boot time** (possibly referred to as **SMO**) includes everything after the kernel loads — like services and applications starting.
-
----
-
 ## **Steps to Use Kexec for Fast Kernel Reboot:**
-
----
-
 ### ✅ **Why Check Boot Time?**
 
 * 🔍 **To Measure System Speed**: It helps you see **how long your system takes to fully start**—from power-on to being ready to use.
@@ -241,15 +165,15 @@ graphical.target reached after 26.804s in userspace.
 ```
 
 | **Component** | **Time Taken** | **Explanation** |
-| --- | --- | --- |
+|
+|
+|
+|
 | `firmware` | 6.563s | Time your system's **BIOS/UEFI firmware** took to initialize hardware before handing off to bootloader. |
 | `loader` | 4.255s | Time taken by the **bootloader** (like GRUB) to load the kernel into memory. |
 | `kernel` | 4.186s | Time the **Linux kernel** took to initialize system hardware and prepare userspace. |
 | `userspace` | 26.804s | Time systemd took to start services, user processes, and the graphical environment. |
 | [`graphical.target`](http://graphical.target) | ~26.8s | Indicates when your **graphical desktop environment** (like GNOME, KDE, etc.) was fully loaded. |
-
----
-
 ### 🕒 **Total Boot Time**
 
 ```bash
@@ -395,9 +319,6 @@ who -b
 ## **Kernel Patching Demo on Arch Linux: A Step-by-Step Guide**
 
 This guide walks you through the process of setting up a basic kernel patching demo on Arch Linux using the `kpatch` tool. We will be writing a simple kernel module and loading it into the kernel using `insmod`.
-
----
-
 ### **1\. Install Required Dependencies**
 
 First, we need to install the necessary packages to work with kernel modules:
@@ -428,10 +349,6 @@ sudo pacman -S linux-headers gcc make elfutils
 * `make`: A build automation tool used to compile and link files.
     
 * `elfutils`: Tools to work with ELF (Executable and Linkable Format) binaries, which is the format used by Linux kernel modules.
-    
-
----
-
 ### **2\. Clone the** `kpatch` Repository
 
 Next, clone the `kpatch` GitHub repository. This will allow us to access the kernel patching demo files:
@@ -594,7 +511,10 @@ After running this command, log out and log back in for the changes to take effe
 ## **LSKLM Domain Explanation Table:**
 
 | **Task** | **LSKLM Domain** | **Explanation** |
-| --- | --- | --- |
+|
+|
+|
+|
 
 <table><tbody><tr><td colspan="1" rowspan="1"><p>Used kexec to switch kernels without full reboot</p></td><td colspan="1" rowspan="1"><p>Runtime Management</p></td><td colspan="1" rowspan="1"><p><code>kexec</code> directly interacts with the kernel to bypass bootloader and jump into a new kernel</p></td></tr></tbody></table>
 
@@ -623,9 +543,6 @@ If you liked this guide, feel free to reach out or drop comments for queries. Ke
 
 **P.S.**  
 If you spot any mistakes, please don't hesitate to point them out. We're all here to learn together! 😊
-
----
-
 **Haris**  
 FAST (NUCES)  
 BS Computer Science | Class of 2027

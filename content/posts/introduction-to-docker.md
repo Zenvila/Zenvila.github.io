@@ -6,10 +6,6 @@ tags: ["migrated"]
 date: 2025-04-15
 featuredImage: "https://source.unsplash.com/1600x900/?docker,container"
 ---
-
-
-
-
 # Introduction to Docker
 
  **Getting Started with Docker on Arch Linux**
@@ -137,9 +133,6 @@ sudo docker rm container_id1 container_id2
 Docker simplifies **application deployment and management**. Follow these steps to set up Docker on **Arch Linux** and start exploring its capabilities. 🚀
 
 > **📌 Note:** This guide is tailored for **Arch Linux**. If you’re using another distro, adjust the installation steps accordingly.
-
----
-
 ## **📌 Additional Resources**
 
 🎥 [Watch this Docker guide on YouTube](https://www.youtube.com/watch?v=htyxGoTt_f4)

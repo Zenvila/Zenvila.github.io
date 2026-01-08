@@ -6,10 +6,6 @@ tags: ["migrated"]
 date: 2025-12-09
 featuredImage: "https://source.unsplash.com/1600x900/?network,server"
 ---
-
-
-
-
 # System Monitoring
 
 [Back to home](https://hashnode.com/)
@@ -21,9 +17,6 @@ In system administration, a common principle is that a good system administrator
 **For example,** imagine your website provides services with 90% uptime (90/100 minutes). In technical terms, this is referred to as SLA (Service Level Agreement). While you could manually check your website periodically to ensure it's running, this approach is inefficient. Monitoring tools automate this process by checking the system's status at regular intervals.
 
 **This guide explains how to monitor an Apache web server using the Monit framework on Arch Linux.**
-
----
-
 ### Installing Monit and Apache Web Server
 
 **Note:** The following commands are based on Arch Linux. You may need to adapt them for your own Linux distribution.
@@ -39,10 +32,6 @@ In system administration, a common principle is that a good system administrator
     ```bash
     sudo pacman -S monit
     ```
-    
-
----
-
 ### Configuring Monit
 
 1. **Open the Monit configuration file:**
@@ -58,10 +47,6 @@ In system administration, a common principle is that a good system administrator
     ```bash
     sudo monit -t
     ```
-    
-
----
-
 ### Starting and Enabling Monit
 
 1. **Enable the Monit service to start at boot:**
@@ -81,10 +66,6 @@ In system administration, a common principle is that a good system administrator
     ```bash
     sudo systemctl restart monit
     ```
-    
-
----
-
 ### Configuring Apache Web Server
 
 1. **Ensure Apache is installed:**
@@ -104,10 +85,6 @@ In system administration, a common principle is that a good system administrator
     ```bash
     sudo systemctl start httpd
     ```
-    
-
----
-
 ### Verifying Monit Service
 
 1. **Open the Monit defaults file:**
@@ -125,10 +102,6 @@ In system administration, a common principle is that a good system administrator
     ```bash
     sudo pacman -S links
     ```
-    
-
----
-
 ### Checking Port Status
 
 **To ensure Monit is listening on the configured port, use the following command:**
@@ -147,9 +120,6 @@ netstat -nutlp
 ### Conclusion of Monit
 
 Monit is a lightweight and efficient tool for automating system monitoring and ensuring reliability. It simplifies the management of services like Apache, detects issues proactively, and reduces manual intervention. By using Monit, system administrators can achieve high uptime and focus on other critical tasks, making it an essential tool for maintaining system health.
-
----
-
 **P.S.** If you spot any mistakes, please don't hesitate to point them out. We're all here to learn together!
 
 **Haris**  

@@ -6,10 +6,6 @@ tags: ["migrated"]
 date: 2025-05-11
 featuredImage: "https://source.unsplash.com/1600x900/?docker,container"
 ---
-
-
-
-
 # Kubernetes (Multi-node + Real-World Workflows)
 
 ## Kubernetes (Multi-node + Real-World Workflows)
@@ -23,7 +19,9 @@ In our previous implementation, we set up a **single-node cluster** using Miniku
 Now, let’s go one step ahead and look at what we’re going to learn and implement:
 
 | Topic | What is it? |
-| --- | --- |
+|
+|
+|
 | kubectl | CLI tool to control Kubernetes |
 | Deployment | A controller for managing replicas of your app |
 | Service | Exposes your pods over network |
@@ -35,9 +33,6 @@ Now, let’s go one step ahead and look at what we’re going to learn and imple
 | k3s / kind | Lightweight Kubernetes for multi-node setup |
 
 > Note: We're implementing this on **Arch Linux**. If you're using Ubuntu or another distro, adjust accordingly.
-
----
-
 ### Install Required Tools on Arch
 
 #### Install kubectl
@@ -74,9 +69,6 @@ curl -Lo ./kind https://kind.sigs.k8s.io/dl/v0.20.0/kind-linux-amd64
 chmod +x ./kind
 sudo mv ./kind /usr/local/bin/kind
 ```
-
----
-
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1750383183430/f7d8d9ab-430d-40ab-b305-fa76b96d8259.png align="center")
 
 ### Create a Multi-Node Cluster (with kind)
@@ -163,9 +155,6 @@ You should see:
 
 The control node handles all services like scheduling, pod management, and DNS.  
 The worker nodes are responsible for running the actual services (apps).
-
----
-
 ### Core Kubernetes Components (With Examples)
 
 #### Deployments
@@ -184,9 +173,6 @@ kubectl get pods
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1750383316578/20f226cd-6fcf-4074-bc93-aa3e14de7bd4.png align="center")
 
 Deployment helps automate service availability. If some pods fail due to error, Kubernetes automatically restarts or replicates them. This is how real-world websites stay resilient.
-
----
-
 #### Services
 
 💡 **What is it?**  
@@ -198,9 +184,6 @@ Exposes your pod as a network service within the cluster. You specify a port for
 kubectl expose deployment nginx-deploy --port=80 --target-port=80
 kubectl get services
 ```
-
----
-
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1750383391554/2d8bdf25-c3d0-4f23-87a1-183852898036.png align="center")
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1750383413703/a4f19464-eadc-450a-ae66-bffe4b48b80b.png align="center")
@@ -283,9 +266,6 @@ sudo vim /etc/hosts
 ```
 
 Then open: [http://example.local](http://example.local/)
-
----
-
 ### Secrets
 
 💡 **What is it?**  
@@ -309,9 +289,6 @@ kubectl describe secret db-secret
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1750383579615/c89d855e-875b-4adc-b332-4cacac98436f.png align="center")
 
 Secrets are base64-encoded (not encrypted by default). Access them via environment variables or volume mounts.
-
----
-
 ### ConfigMaps
 
 💡 **What is it?**  
@@ -330,10 +307,6 @@ Advantages:
 * Keep code separate from config
     
 * Switch between dev, staging, prod easily
-    
-
----
-
 ### Volumes
 
 💡 **What is it?**  
@@ -370,9 +343,6 @@ Explanation:
     
 
 Useful for storing logs, uploads, configs, etc.
-
----
-
 ### Helm (Kubernetes Package Manager)
 
 Helm is like `apt`, `pacman`, or `npm` — but for Kubernetes apps (called charts).
@@ -417,7 +387,9 @@ helm list
 ```
 
 | Term | Meaning |
-| --- | --- |
+|
+|
+|
 | Helm | Tool to manage Kubernetes apps |
 | Chart | Pre-built package of Kubernetes files |
 | Repo | Source of Helm charts |
@@ -432,9 +404,6 @@ helm list
 In this blog, we explored how to set up a **multi-node Kubernetes cluster** using `kind` on Arch Linux. From setting up deployments, services, ingress, config maps, and secrets, to working with persistent storage and Helm charts — you’ve now got a solid real-world workflow under your belt. 🧠🚀
 
 Keep experimenting, and soon, Kubernetes will feel like second nature!
-
----
-
 ### P.S.
 
 If you spot any mistakes, feel free to point them out — we’re all here to learn together! 😊

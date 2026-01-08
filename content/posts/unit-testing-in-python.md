@@ -6,10 +6,6 @@ tags: ["migrated"]
 date: 2025-12-08
 featuredImage: "https://source.unsplash.com/1600x900/?tech,coding"
 ---
-
-
-
-
 # Unit Testing in Python
 
 #  A Must-Know for Every Programmer
@@ -38,12 +34,6 @@ As a developer, you might build an application or write a piece of code for a sp
 Different programming languages have their own frameworks for unit testing. For Python, we’ll focus on using Pytest in this tutorial.
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-Jn1eisOSN9QB47QZCrMsVYzdpErSRlkFOTulO5AfZbRwusbxwfjOCYHeFkkglZeySelrgf4RGwM7cIf-nGgY3UjDp5rmIOkP2fiMPn6bjP2vRH4Pi-S8Jv3Pwcr6BE2OoV6YN72z6Zd_jAPtfaLOIhgmV0ExKteuRHwcbZJ73EN8NKkpcHiapPKNLHVV/w541-h220/Test-Framework%20.png align="left")
-
-  
- 
-
----
-
 ## Technical Aspects: A Simple Example
 
 Before diving into unit testing, ensure you have Python 3 and pip installed on your system. You can do this with the following command (for systems using Pacman package manager):
@@ -129,9 +119,6 @@ Pytest will execute the test cases and display whether they pass or fail.
 **
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOGt0ZtjSroGhP2xT5VJgcfaZ3Hz5Nt3kXJgsO8dFkUZKB10SFxqPpC3-9XUy0DzCa2M57BgtiqW-9h_cCCXBsqe9jmdkPeU_jx1faRytH4ITo-XOdcSx9udcawUTlq2xXLNcI92jQ2_3dN4kvFc_UsXSgBCPl2IezqBzXm0ecaID5iue8iyu-nKv3wNqi/w567-h122/Screenshot_20250117_064006.png align="left")
-
----
-
 ## Key Points to Remember
 
 1. Always keep the test file in the same directory as the code file (or configure the test runner accordingly).

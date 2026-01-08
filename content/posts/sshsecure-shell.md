@@ -6,10 +6,6 @@ tags: ["migrated"]
 date: 2025-12-27
 featuredImage: "https://source.unsplash.com/1600x900/?network,security"
 ---
-
-
-
-
 # SSH(Secure Shell )
 
 ## Secure Remote Access with SSH
@@ -128,10 +124,6 @@ ssh -i filename remoteip
     ```
     
 6. ***You can use test experiments  on remote machine***
-    
-    ---
-    
-
 ## Conclusion
 
 Following these steps ensures a secure and efficient connection between your computers. Every mistake is a chance to learn and improve your SSH skills.

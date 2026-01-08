@@ -6,10 +6,6 @@ tags: ["migrated"]
 date: 2025-12-28
 featuredImage: "https://source.unsplash.com/1600x900/?network,server"
 ---
-
-
-
-
 # SSH Tunneling
 
 **New to SSH?** Check out my intro blog:
@@ -19,9 +15,6 @@ featuredImage: "https://source.unsplash.com/1600x900/?network,server"
 ## What is SSH Tunneling?
 
 SSH Tunneling is like building a **secure underground pipe** between two computers. Imagine two laptops — one in Lahore and the other in Karachi — and we want to connect them **even if they are on different networks** or behind **NAT/firewalls**. With SSH tunneling, you can **securely forward a port** from one machine to another **over the internet** without exposing ports directly to the world.
-
----
-
 ## Why SSH Tunneling Instead of Simple SSH Port Forwarding?
 
 Traditional **SSH Port Forwarding** only works **if the other device is on the same network or has a public IP**. But often:
@@ -51,9 +44,6 @@ We have two laptops:
     
 
 We’ll build a tunnel so **Haris can SSH into Dawood’s laptop**, even if they’re on **completely different networks**.
-
----
-
 ## 🛠️ Step-by-Step Guide
 
 ### 🔍 Step 1: Check SSH is Enabled on Dawood’s Laptop
@@ -164,9 +154,6 @@ rsync -avz -e "ssh -p 5678" dawood@serveo.net:~/remote_folder ~/local_folder
 
 **P.S.**  
 If you spot any mistakes, please don't hesitate to point them out. We're all here to learn together! 😊
-
----
-
 **Haris**  
 FAST (NUCES)  
 BS Computer Science | Class of 2027

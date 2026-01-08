@@ -6,16 +6,9 @@ tags: ["migrated"]
 date: 2025-09-12
 featuredImage: "https://source.unsplash.com/1600x900/?ai,machine-learning"
 ---
-
-
-
-
 # Probability and Statistics for AI
 
 **Math for AI: Probability and Statistics with a Computer Science Perspective (Using Python)**
-
----
-
 ### Introduction
 
 After exploring Linear Algebra for AI, the next logical step in building a strong foundation for Artificial Intelligence is understanding **Probability and Statistics**. These two branches of mathematics are essential for reasoning under uncertainty, which is at the heart of most AI applications.
@@ -34,9 +27,6 @@ In pure math, we usually deal with small-scale values (e.g., 10–20 values), wh
     
 
 They help us model and analyze uncertainty, a core concern in most computing problems.
-
----
-
 ### Getting Started with Python for Stats & Probability
 
 We’ll use **Python** as it's general-purpose and well-supported for scientific computing.
@@ -79,10 +69,6 @@ conda install jupyterlab pandas matplotlib
 * `pandas`: For structured data manipulation.
     
 * `matplotlib`: For plotting graphs and visualizations.
-    
-
----
-
 ### Understanding Data Types
 
 In this course, we deal with two types of data:
@@ -95,9 +81,6 @@ In this course, we deal with two types of data:
 **Organic data** is especially relevant in computing as it reflects real-world system behavior.
 
 In machine learning, data must often be **i.i.d. (independent and identically distributed)** for modeling.
-
----
-
 ### One-Hot Encoding
 
 When comparing categorical variables (e.g., male vs. female), one-hot vectors are used to represent them numerically without implying order or magnitude:
@@ -111,15 +94,9 @@ Example:
 This avoids incorrect assumptions like "greater = male" and "smaller = female" which may happen if scalar values are used.
 
 If we represent unordered categorical data as scalars instead of arrays, we **distort the structure and meaning** of that data.
-
----
-
 ### Foundations of Probability
 
 Probability is **axiomatic** — based on agreed-upon rules that help us model uncertainty. It’s not about proving what's true, but about agreeing on how to handle unknowns.
-
----
-
 ### Topics and Their Computer Science, Hardware & Software Perspectives
 
 Probability and statistics touch almost every aspect of computing. Below is a brief overview of key topics in this domain, described from three perspectives: computer science use cases, hardware impact, and software support.
@@ -127,7 +104,12 @@ Probability and statistics touch almost every aspect of computing. Below is a br
 These concepts help build intelligent systems that make decisions, process uncertainty, and handle large-scale data.
 
 | Topic | Description | Computer Science Perspective | Hardware Perspective | Software Perspective |
-| --- | --- | --- | --- | --- |
+|
+|
+|
+|
+|
+|
 | Data Types | Different forms of data: structured, unstructured | Organize and clean datasets | Efficient memory access | pandas, NumPy |
 | One-Hot Vectors | Binary representation for categories | Preprocessing for ML models | Stored efficiently in RAM | Used in embeddings, TensorFlow |
 | Histograms & Visualizations | Graphical summary of data distribution | Detect patterns and anomalies | GPU acceleration for big data | matplotlib, seaborn |
@@ -143,9 +125,6 @@ These concepts help build intelligent systems that make decisions, process uncer
 | Expected Values | Long-run average outcomes | Policy evaluation in RL | Summation using vector units | NumPy, torch.mean |
 | KL Divergence | Measure of distribution difference | Regularization, GANs | Log-sum-exp ops on GPU | PyTorch, TensorFlow |
 | Bayesian Inference | Probabilistic belief update | Uncertainty-aware learning | Monte Carlo simulations | PyMC3, NumPyro, Edward |
-
----
-
 ### Summary
 
 * Probability and statistics are crucial for **making decisions under uncertainty**, which is common in all computing systems.

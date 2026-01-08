@@ -6,10 +6,6 @@ tags: ["migrated"]
 date: 2025-12-24
 featuredImage: "https://source.unsplash.com/1600x900/?tech,hardware"
 ---
-
-
-
-
 # The Building Blocks of Modern Computing
 
 ### What is a Thread?
@@ -17,12 +13,6 @@ featuredImage: "https://source.unsplash.com/1600x900/?tech,hardware"
 Before diving into the concept of threads, let’s consider a common example. Imagine a company named **X** with four employees. Each employee is assigned their own task, and they upload their completed work to a shared database. These tasks might range from creating an entire application to completing a small part of it. At the end of the day, all their contributions combine to form the final application. In this analogy, each employee represents a **thread**, while the company represents the **process**.
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZEylfCI_oZbyb5d0fQzQVbQSxy6ILbktlqRJsPfOH1CNVvy6Y2MjLNwSP4qeOhH0ul3ThOYR7g_yrHsC06Kf6Nrzkf8YUMwEUE_8m4XhULTXZGL8Q8XH6ZPAcHhBBf932ikaxQiC-sAEKtJHfyccRHGdPG1h8Y87WgQ7Hkw_1QFEjkIjXod6TC_U-VlDc/w431-h243/Thread%20exp.png align="left")
-
-  
- 
-
----
-
 ### Key Terms in Threading
 
 1. **Single-threaded Process**:  
@@ -30,16 +20,9 @@ Before diving into the concept of threads, let’s consider a common example. Im
     
 2. **Multi-threaded Process**:  
     In a multi-threaded process, multiple threads work together, with each thread handling a specific part of the sequence of operations. The combined effort of these threads results in the completion of the task.
-    
-
----
-
 ### Shared Resources in Threads
 
 All threads within the same process share certain resources, such as code or heap memory. This concept is referred to as **shared resources**.
-
----
-
 ### Program vs. Process
 
 * **Program**: A program is a set of instructions written to perform a task.
@@ -47,13 +30,6 @@ All threads within the same process share certain resources, such as code or hea
 * **Process**: A process is the actual execution of a program. Multiple processes can be associated with the same program.
     
 * ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcZ36rJJHjMCClndN6pw5WNQU15kK4EjAVvGLnIxeAay9eIScsBHwHTlUFlHOHEOheFSBE6x4Pz-YQ6BfNp2-UqPfsOqgr6v7zhKko9ppgO07bdqQ8MXHi6qYtATGXZY76zHLbeyMgj7wD8TIoiwv28Jsmwbhfofez84h3IBNJMII2LKstlEsAXIeLrEBc/w362-h299/Screenshot_20250105_171435.png align="left")
-    
-      
-     
-    
-
----
-
 ### Understanding Parallelism
 
 You may have heard terms like **quad-core** or **octa-core** processors. These terms indicate the number of threads a processor can handle simultaneously:
@@ -64,9 +40,6 @@ You may have heard terms like **quad-core** or **octa-core** processors. These t
     
 
 Although it seems like multiple threads are running at the same time, in reality, the processor activates only a few threads at any given moment. This creates the **illusion** of parallel execution.
-
----
-
 ### Parallel vs. Concurrent Threads
 
 * **Parallel Threads**: These threads run simultaneously on separate CPU cores.
@@ -75,18 +48,9 @@ Although it seems like multiple threads are running at the same time, in reality
     
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj60LlEF7yWplA5y8FzM1WtW5lrsU1z6IqVAuzPtnvuz7kUmcTJCUhjv7tp-7ECM7T8q0HBZQAVMyjmRt_YGu2dm-vPXKvu22gN7Q4G5NY8wIJpsuTw0zTIXZ1unbNM_ogagO1lwVykl-MVs0F6CI9Z5J-Dq8qTE7BGSgQPgzR400jO4YOVJRUR1UvwjFa7/w361-h374/Screenshot_20250105_171621.png align="left")
-
-  
- 
-
----
-
 ### Role of the Scheduler
 
 To minimize the waiting time in concurrent threads, the **operating system scheduler** ensures efficient distribution of processing time among threads. The scheduler assigns priority levels and manages the execution of threads according to a set of predefined rules, thereby optimizing performance.
-
----
-
 ### Let's move how to check  in manjaro linux:-
 
 ### Check Total Threads (CPU Threads):

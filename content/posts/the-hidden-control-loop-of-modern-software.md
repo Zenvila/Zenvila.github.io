@@ -6,10 +6,6 @@ tags: ["migrated"]
 date: 2025-12-09
 featuredImage: "https://source.unsplash.com/1600x900/?tech,hardware"
 ---
-
-
-
-
 # The Hidden Control Loop of Modern Software
 
 ### Introduction
@@ -20,9 +16,6 @@ This is where **Asynchronous (async) programming** comes in. Async isn’t just 
 
 **Synchronous (Sync):** Tasks run **one after another**, each must finish before the next starts.  
 **Asynchronous (Async):** Tasks can **overlap in time**, allowing the CPU to handle other work while waiting.
-
----
-
 ### What is Async Programming?
 
 In traditional (synchronous) code:
@@ -39,10 +32,6 @@ In async programming:
 * While one task waits, the CPU does other work.
     
 * Result → smooth multitasking without needing multiple CPUs/threads.
-    
-
----
-
 ### Async and Control Theory
 
 Control theory ensures systems remain **stable** by reacting quickly to changes. Delayed feedback can make a physical system unstable.
@@ -59,10 +48,6 @@ Example:
 * A robot running sync code → can’t read sensors until motor stops. Unstable.
     
 * A robot with async → reads sensors + moves simultaneously. Stable.
-    
-
----
-
 ### Async in LLM Applications (AI)
 
 One of the best examples today is **Large Language Models (LLMs)**:
@@ -84,9 +69,6 @@ Other AI benefits:
     
 
 Without async, tools like ChatGPT would feel like waiting in a long bank queue.
-
----
-
 ### Async in Broader Computer Science
 
 Async bridges **software and hardware**:
@@ -107,9 +89,6 @@ Async bridges **software and hardware**:
         
 
 It’s a unifying technique across **operating systems, software frameworks, and applications**.
-
----
-
 ### Demo: Async in Action
 
 ```python-repl
@@ -125,7 +104,8 @@ async def async_llm_request(name):
     await asyncio.sleep(3)
     print(f"{name} response ready")
 
-# --- Synchronous version ---
+#
+Synchronous version
 def sync_main():
     start = time.time()
     for i in range(1, 4):
@@ -133,7 +113,8 @@ def sync_main():
     end = time.time()
     print(f"Synchronous total time: {end - start:.2f} seconds")
 
-# --- Asynchronous version ---
+#
+Asynchronous version
 async def async_main():
     start = time.time()
     tasks = [async_llm_request(f"Request {i}") for i in range(1, 4)]
@@ -142,10 +123,14 @@ async def async_main():
     print(f"Asynchronous total time: {end - start:.2f} seconds")
 
 # Run demo
-print("\n--- Sync Execution ---")
+print("\n
+Sync Execution
+")
 sync_main()
 
-print("\n--- Async Execution ---")
+print("\n
+Async Execution
+")
 asyncio.run(async_main())
 ```
 
@@ -157,9 +142,6 @@ Result:
     
 
 Just like in real AI servers → async cuts waiting time dramatically.
-
----
-
 ### Conclusion
 
 Async programming isn’t just about speed. It’s about:

@@ -6,10 +6,6 @@ tags: ["migrated"]
 date: 2025-12-03
 featuredImage: "https://source.unsplash.com/1600x900/?linux,server"
 ---
-
-
-
-
 # Step-by-Step Arch Linux Installation & Post-Setup
 
 # Complete Arch Linux Installation and Configuration Guide
@@ -17,9 +13,6 @@ featuredImage: "https://source.unsplash.com/1600x900/?linux,server"
 ## Introduction
 
 This guide provides a step-by-step process for installing Arch Linux and setting up essential configurations, including networking, user management, and software installation. This is a minimal setup guide without any graphical user interface (GUI) installation.
-
----
-
 ## Step 1: Boot Into Arch Linux Live Environment
 
 Boot from the Arch Linux installation media and verify the internet connection using:
@@ -29,9 +22,6 @@ ping -c 3 archlinux.org
 ```
 
 If it fails, follow network setup steps below.
-
----
-
 ## Step 2: Set Up Network Connection
 
 List available network interfaces:
@@ -73,9 +63,6 @@ Verify connection again:
 ```bash
 ping -c 3 archlinux.org
 ```
-
----
-
 ## Step 3: Partition and Format the Disk
 
 Check available disks:
@@ -96,9 +83,6 @@ Create partitions and format them:
 mkfs.ext4 /dev/sdX1  # Format root partition
 mkfs.vfat -F32 /dev/sdX2  # Format EFI partition (if using UEFI)
 ```
-
----
-
 ## Step 4: Mount and Install Arch Linux
 
 ```bash
@@ -111,9 +95,6 @@ Generate fstab:
 ```bash
 genfstab -U /mnt >> /mnt/etc/fstab
 ```
-
----
-
 ## Step 5: System Configuration
 
 Chroot into the new system:
@@ -142,9 +123,6 @@ Set hostname:
 ```bash
 echo "archlinux" > /etc/hostname
 ```
-
----
-
 ## Step 6: Set Root Password and Create User
 
 ```bash
@@ -169,9 +147,6 @@ Uncomment:
 ```bash
 %dawood ALL=(ALL:ALL) ALL
 ```
-
----
-
 ## Step 7: Install and Configure Bootloader
 
 For systemd-boot (UEFI):
@@ -203,9 +178,6 @@ Exit chroot and reboot:
 exit
 reboot
 ```
-
----
-
 ## Step 8: Post-Installation Configurations
 
 Login as the new user:
@@ -225,9 +197,6 @@ Check internet:
 ```bash
 ping -c 3 archlinux.org
 ```
-
----
-
 ## Step 9: Install Essential Packages
 
 ```bash
@@ -240,9 +209,6 @@ Set Neofetch to run on terminal start:
 ```bash
 echo "neofetch" >> ~/.bashrc
 ```
-
----
-
 ## Step 10: Utilities Installation
 
 ```bash
@@ -269,9 +235,6 @@ Verify Yay installation:
 yay --version
 yay -Syu
 ```
-
----
-
 ## Step 11: Install and Configure SSH (Optional)
 
 ```bash
@@ -290,17 +253,11 @@ Connect via SSH:
 ```bash
 ssh dawood@your-ip-address
 ```
-
----
-
 ## Conclusion
 
 With these steps, you've successfully installed Arch Linux, set up networking, created a user, installed X11, configured WezTerm, installed essential software, and enabled SSH for remote access.
 
 Enjoy your minimal and efficient Arch Linux setup!
-
----
-
 **Haris**  
 **FAST (NUCES)**  
 **BS Computer Science | Class of 2027**

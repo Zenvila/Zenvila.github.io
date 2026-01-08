@@ -6,27 +6,17 @@ tags: ["migrated"]
 date: 2025-05-20
 featuredImage: "https://source.unsplash.com/1600x900/?docker,container"
 ---
-
-
-
-
 # Kubernetes Using Minikube on Arch Linux
 
 ### Introduction
 
 Kubernetes is one of the most powerful and popular container orchestration tools used to manage containers, pods, and clusters. In this post, we’ll walk step-by-step through the fundamentals of Kubernetes, and by the end, we’ll deploy a simple Ubuntu application using Minikube locally on Arch Linux.
-
----
-
 ## 🧠 What is Kubernetes?
 
 Kubernetes (K8s) is an open-source container orchestration platform developed by Google and now maintained by the CNCF (Cloud Native Computing Foundation).  
 It automates the deployment, scaling, and management of containerized applications.
 
 Think of it as an orchestrator for Docker containers — instead of running containers manually, Kubernetes manages everything for you.
-
----
-
 ## 🛠️ Understanding the Architecture
 
 Kubernetes has a **master node** and **worker nodes**.
@@ -39,9 +29,6 @@ Kubernetes has a **master node** and **worker nodes**.
     
 
 You only need to manage the master node (via scripts or kubectl), and it takes care of the rest!
-
----
-
 ### 📍 Real-World Scenario
 
 Let’s say someone makes a request to your frontend (a frontend container). The **API server** receives this request and checks in the **cluster** for available containers.
@@ -60,9 +47,6 @@ There’s also a **controller manager** that monitors all nodes and pods. It ens
 
 > In short:  
 > **Clusters** contain multiple **nodes**, each node contains **pods**, and each pod contains one or more **containers**.
-
----
-
 ## 🧩 Kubernetes Core Concepts
 
 ### 🔹 What is a Pod?
@@ -76,9 +60,6 @@ There’s also a **controller manager** that monitors all nodes and pods. It ens
 
 **Why use Pods?**  
 They wrap your container and allow Kubernetes to manage them effectively.
-
----
-
 ### 🔹 What is a Deployment?
 
 * A **higher-level object** that manages pods.
@@ -90,10 +71,6 @@ They wrap your container and allow Kubernetes to manage them effectively.
     * **Rolling updates**
         
     * **Scaling**
-        
-
----
-
 ### 🔹 What is a Service?
 
 * A way to **expose your pods** to the network.
@@ -106,17 +83,10 @@ They wrap your container and allow Kubernetes to manage them effectively.
 * `NodePort` – Access via node IP + port
     
 * `LoadBalancer` – Uses an external cloud-based load balancer
-    
-
----
-
 ### 🔹 What is a ConfigMap?
 
 A **ConfigMap** stores key-value configuration data that your app can use.  
 It allows you to **separate config from code**, making updates easier without rebuilding your container.
-
----
-
 ### 🔹 What is a Secret?
 
 A **Secret** is used to store **sensitive information** like:
@@ -129,16 +99,10 @@ A **Secret** is used to store **sensitive information** like:
     
 
 It’s like a secure vault within your cluster for credentials.
-
----
-
 ### 🔹 What are Rolling Updates?
 
 **Rolling updates** allow you to update applications **without downtime**.  
 It gradually replaces old pods with new ones, so some instances are always available to serve users.
-
----
-
 ## 💻 Setting Up Kubernetes on Arch Linux with Minikube
 
 ### ✅ Why Minikube?
@@ -147,9 +111,6 @@ It gradually replaces old pods with new ones, so some instances are always avail
 It provides a lightweight and portable environment to experiment with Kubernetes without needing a cloud provider.
 
 > Think of Minikube as a lab where you can learn Kubernetes hands-on.
-
----
-
 ### ✅ Why not jump directly to kubectl?
 
 Because:
@@ -159,10 +120,6 @@ Because:
 * It does **not set up a cluster** itself.
     
 * Minikube **creates the cluster**, while `kubectl` **controls it**.
-    
-
----
-
 ## 🔧 Install Minikube and kubectl on Arch Linux
 
 Run the following command:
@@ -290,10 +247,7 @@ spec:
     ```yaml
     kubectl delete -f ubuntu-pod.yaml
     ```
-    
-    ---
-    
-    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1750050643399/3c551b37-cd10-4899-9856-61b891b41ec2.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1750050643399/3c551b37-cd10-4899-9856-61b891b41ec2.png align="center")
     
     ## Conclusion:
     
@@ -313,9 +267,6 @@ spec:
 
 **P.S.**  
 If you spot any mistakes, please don't hesitate to point them out. We're all here to learn together! 😊
-
----
-
 **Haris**  
 FAST (NUCES)  
 BS Computer Science | Class of 2027

@@ -6,18 +6,11 @@ tags: ["migrated"]
 date: 2025-02-09
 featuredImage: "https://source.unsplash.com/1600x900/?cloud,infrastructure"
 ---
-
-
-
-
 # CI/CD (Github ACtions)
 
 # Understanding GitHub Actions with CI/CD (Ubuntu + Docker)
 
 In this blog post, we'll learn what GitHub Actions is, what CI/CD means, and how to implement a real-world automated software workflow using GitHub Actions on a sample Node.js project. Everything is explained clearly with theory, purpose, file structure, and commands.
-
----
-
 ## What is GitHub Actions?
 
 **GitHub Actions** is a platform to **automate software workflows** like testing, building, or deploying your code. It's not a CI/CD tool itself, but it enables automation where **CI/CD** is one of the many workflows.
@@ -38,9 +31,6 @@ But what if:
     
 
 GitHub Actions gives you an **"Actions" tab** where you can **see every deployment** and whether your push was successful. That background process of validating, testing, and deploying is called a **workflow**.
-
----
-
 ## What is an Event?
 
 An **event** is a trigger that causes a GitHub workflow to run.  
@@ -51,23 +41,18 @@ Examples:
 * A pull request is opened
     
 * A schedule is reached (cron jobs)
-    
-
----
-
 ## What is CI/CD?
 
 | Term | Meaning |
-| --- | --- |
+|
+|
+|
 | CI (Continuous Integration) | Automatically test code after every push |
 | CD (Continuous Delivery/Deployment) | Automatically build and deploy the app if tests pass |
 
 CI/CD ensures software updates are **automatic**, **reliable**, and **repeatable**.
 
 > GitHub Actions runs workflows inside a **temporary Ubuntu machine** (called a "runner").
-
----
-
 ## Are GitHub Actions OS Dependent?
 
 No. GitHub Actions is **not system dependent**. You can choose the operating system via:
@@ -79,9 +64,6 @@ runs-on: ubuntu-latest     # or windows-latest, macos-latest
 GitHub creates a **virtual machine (VM)** based on your config, installs dependencies, runs your code, and deletes the VM.
 
 > Your code is tested according to the test cases you provide. This step is called **CI**. If successful, it proceeds to **CD**, which builds a container and deploys the app.
-
----
-
 ## Let’s Do It Practically (CI + CD)
 
 ### Project Structure
@@ -96,9 +78,6 @@ ubuntu-ci-cd/       # Main directory
     └── workflows/
         └── ci-cd.yml  # Workflow definition
 ```
-
----
-
 ## File-by-File Breakdown
 
 ### 1\. `index.js`
@@ -116,9 +95,6 @@ module.exports = hello;
 ```
 
 **Why:** This is the code to test and deploy.
-
----
-
 ### 2\. `index.test.js`
 
 **Purpose:**
@@ -135,9 +111,6 @@ test('says hello to Zen', () => {
 ```
 
 **Why:** This is used for **CI**. If tests fail, deployment is skipped.
-
----
-
 ### 3\. `package.json`
 
 **Purpose:**
@@ -163,10 +136,6 @@ test('says hello to Zen', () => {
 * Declares dependencies
     
 * Tells GitHub how to run tests
-    
-
----
-
 ### 4\. `Dockerfile`
 
 **Purpose:**
@@ -188,10 +157,6 @@ CMD ["npm", "test"]
 * Containerizes your app
     
 * Makes it deployable to DockerHub/Kubernetes, etc.
-    
-
----
-
 ### 5\. `.github/workflows/ci-cd.yml`
 
 **Purpose:**
@@ -230,9 +195,6 @@ jobs:
       - name: Run container (simulate deploy)
         run: docker run --rm ubuntu-test-app
 ```
-
----
-
 ## Local Testing
 
 ```bash
@@ -248,9 +210,6 @@ docker build -t ubuntu-test-app .
 # Run container
 docker run --rm ubuntu-test-app
 ```
-
----
-
 ## Remote Testing with GitHub Actions
 
 ```bash
@@ -265,31 +224,27 @@ git push -u origin main
 GitHub will trigger `.github/workflows/ci-cd.yml` automatically.
 
 > Go to `Actions` tab in your GitHub repo to see logs and status.
-
----
-
 ## Summary Table
 
 | File | Role | Purpose |
-| --- | --- | --- |
+|
+|
+|
+|
 | `index.js` | App code | Code you want to test/deploy |
 | `index.test.js` | Test file | Runs automatically to check code |
 | `package.json` | Config file | Declares dependencies & scripts |
 | `Dockerfile` | Build instructions | Builds Docker image with Ubuntu |
 | `ci-cd.yml` | Workflow | Automates test + build + deploy |
-
----
-
 ## GitHub Actions: Operating System Runners
 
 | `runs-on:` | GitHub Runner VM |
-| --- | --- |
+|
+|
+|
 | `ubuntu-latest` | Ubuntu 22.04 |
 | `windows-latest` | Windows Server |
 | `macos-latest` | macOS Big Sur/Catalina |
-
----
-
 ## Why CI Might Fail in GitHub Actions
 
 * Bug in your code
@@ -300,9 +255,6 @@ GitHub will trigger `.github/workflows/ci-cd.yml` automatically.
     
 
 This has nothing to do with Arch or Ubuntu. It’s logic-related.
-
----
-
 Now you know:
 
 * What GitHub Actions is

@@ -6,18 +6,11 @@ tags: ["migrated"]
 date: 2025-12-05
 featuredImage: "https://source.unsplash.com/1600x900/?cloud,infrastructure"
 ---
-
-
-
-
 # Terraform and Ansible
 
 ## Infrastructure Provisioning and Configuration (Local System Setup)
 
 Now, in the next topic of this series, we will explore **Terraform**.
-
----
-
 ### What is Terraform?
 
 Terraform allows you to **automate and manage your infrastructure and platforms** that run on your servers. It is **open-source** and uses a **declarative approach**—you define *what* end result you want, unlike imperative tools, which define *how* to get there step-by-step.
@@ -29,9 +22,6 @@ You’ve started a project and want to deploy several servers to run a microserv
 
 In this case, the DevOps engineer prepares and provisions the infrastructure, and the developer deploys the software on it. So, where does Terraform come in?  
 Terraform is used in the **first part**—**infrastructure provisioning**.
-
----
-
 ### What is the Difference Between Terraform and Ansible?
 
 By definition, they may sound similar. Both are **Infrastructure-as-Code (IaC)** tools used for **provisioning**, **configuring**, and **managing infrastructure**.
@@ -46,19 +36,10 @@ However:
 Ansible is more **mature**, while Terraform is **relatively newer** and more advanced in orchestration.
 
 In **best DevOps practices**, both tools are used together to cover the **entire setup end-to-end**.
-
----
-
 ## Provisioning and Configuration with Terraform and Ansible (Locally)
 
 We'll now build and deploy a service locally using Terraform and Ansible.
-
----
-
 ## Provisioning: Terraform Creates Ubuntu Container with SSH
-
----
-
 ### Step 1: Install Required Packages
 
 ```yaml
@@ -71,9 +52,6 @@ Make sure Docker is running:
 sudo systemctl start docker
 sudo systemctl enable docker
 ```
-
----
-
 ### Step 2: Generate SSH Key (if not already)
 
 ```yaml
@@ -90,15 +68,14 @@ This creates:
 **Explanation:**
 
 | Part | Explanation |
-| --- | --- |
+|
+|
+|
 | `ssh-keygen` | Creates SSH key pairs |
 | `-t rsa` | Uses RSA encryption |
 | `-f ~/.ssh/id_rsa` | Saves private key here |
 | `-q` | Quiet mode |
 | `-N ""` | No passphrase (empty password) |
-
----
-
 ### [`main.tf`](http://main.tf)
 
 ```yaml
@@ -133,9 +110,6 @@ resource "docker_container" "ubuntu_container" {
   ]
 }
 ```
-
----
-
 ### [`versions.tf`](http://versions.tf)
 
 ```yaml
@@ -148,18 +122,12 @@ terraform {
   required_version = ">= 1.0.0"
 }
 ```
-
----
-
 ### Initialize and Apply Terraform
 
 ```yaml
 terraform init
 terraform apply -auto-approve
 ```
-
----
-
 ### Confirm Container and SSH Access
 
 ```yaml
@@ -180,9 +148,6 @@ ssh root@127.0.0.1 -p 2222
 ```
 
 If you get a shell, SSH works.
-
----
-
 ### Check Internet in Container
 
 ```yaml
@@ -198,36 +163,26 @@ apt update
 ```
 
 Now your internet inside the container should work.
-
----
-
 ## Configuration: Ansible to Set Up Apache in Ubuntu Container
 
 Now that we have provisioned the infrastructure locally, we move to the next step: **configuring it using Ansible.**
-
----
-
 ### Create Ansible Directory
 
 ```yaml
 mkdir ansible && cd ansible
 ```
-
----
-
 ### Create Inventory File – `inventory.ini`
 
 ```yaml
 [web]
 localhost ansible_host=127.0.0.1 ansible_port=2222 ansible_user=root ansible_password=root ansible_connection=ssh ansible_ssh_common_args='-o StrictHostKeyChecking=no'
 ```
-
----
-
 ### Explanation of Inventory
 
 | Line | Description |
-| --- | --- |
+|
+|
+|
 | `[web]` | Group name |
 | [`localhost`](http://localhost) | Logical hostname |
 | `ansible_host=127.0.0.1` | IP address |
@@ -236,13 +191,9 @@ localhost ansible_host=127.0.0.1 ansible_port=2222 ansible_user=root ansible_pas
 | `ansible_password=root` | Password |
 | `ansible_connection=ssh` | Connection type |
 | `ansible_ssh_common_args=...` | Skip manual key confirmation |
-
----
-
 ### Create Playbook – `install_apache.yml`
 
 ```yaml
----
 - name: Install and start Apache Web Server via raw shell commands
   hosts: web
   gather_facts: no
@@ -260,9 +211,6 @@ localhost ansible_host=127.0.0.1 ansible_port=2222 ansible_user=root ansible_pas
     - name: Verify Apache is running
       raw: service apache2 status || true
 ```
-
----
-
 ### Run the Playbook
 
 Make sure you're inside the `ansible/` directory:
@@ -270,9 +218,6 @@ Make sure you're inside the `ansible/` directory:
 ```yaml
 bashCopyEditansible-playbook -i inventory.ini install_apache.yml
 ```
-
----
-
 ### Test Apache
 
 ```yaml
@@ -280,9 +225,6 @@ curl http://127.0.0.1:2222
 ```
 
 You should see the default **Apache welcome page**.
-
----
-
 ## Summary: What You’ve Achieved
 
 1. Provisioned an Ubuntu container with SSH using **Terraform**
@@ -290,10 +232,6 @@ You should see the default **Apache welcome page**.
 2. Installed and started Apache inside it using **Ansible**
     
 3. Verified that **Apache is running and serving web pages**
-    
-
----
-
 ## Conclusion
 
 This blog demonstrated how to integrate **Terraform** and **Ansible** to provision and configure a local server environment. Terraform handled the creation of the containerized infrastructure, while Ansible managed the configuration tasks such as installing and starting Apache.

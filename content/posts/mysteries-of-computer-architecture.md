@@ -6,34 +6,18 @@ tags: ["migrated"]
 date: 2025-07-10
 featuredImage: "https://source.unsplash.com/1600x900/?tech,hardware"
 ---
-
-
-
-
 # Mysteries of Computer Architecture
 
                             **Computer Architecture and Organization**
-
----
-
 **Introduction:**
 
 Ever wondered how computers actually work? Most of us start with little to no understanding, myself included. That curiosity led me to delve into the realm of Computer Architecture and Organization (COA). Through this blog, I aim to bridge the gap in understanding computer hardware and how it collaborates with software, making it easier for everyone to comprehend.
-
----
-
 **Computer Architecture:**
 
 Computer architecture focuses on the fundamental behavior of computer systems. It involves designing and implementing various parts of a computer to ensure they work together seamlessly.
-
----
-
 **Computer Organization:**
 
 On the other hand, computer organization deals with the structural relationships within a computer system. It focuses on how operational attributes are connected to realize the architectural specifications.
-
----
-
 **Key Components:**
 
 1. **Processors:**
@@ -47,10 +31,6 @@ On the other hand, computer organization deals with the structural relationships
 3. **I/O Peripherals:**
     
     Input and output devices facilitate communication between the computer and the external world. They allow users to input data and receive output from the computer system.
-    
-
----
-
 **Architectural Concepts:**
 
 1. **ISA (Instruction Set Architecture) vs. HSA (Hardware Set Architecture):**
@@ -73,11 +53,7 @@ On the other hand, computer organization deals with the structural relationships
     
     ***To check visually:*** 
     
-    [https://en.wikipedia.org/wiki/Harvard\_architecture](https://www.blogger.com/u/1/#) 
-    
-
----
-
+    [https://en.wikipedia.org/wiki/Harvard\_architecture](https://www.blogger.com/u/1/#)
 **Conclusion:**
 
 In today's modern era, we predominantly use the Non-Von Neumann architecture, also known as the Harvard architecture. While computer architecture encompasses a vast array of topics, this blog covers crucial points to enhance understanding. Stay tuned for future blogs where I delve deeper into topics such as classification and memory.

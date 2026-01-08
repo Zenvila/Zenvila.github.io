@@ -6,10 +6,6 @@ tags: ["migrated"]
 date: 2025-06-15
 featuredImage: "https://source.unsplash.com/1600x900/?ai,machine-learning"
 ---
-
-
-
-
 # Linear Algebra for AI
 
 ### What Does Math Have to Do with Machine Learning?
@@ -18,13 +14,7 @@ All programming involves math at some level — and machine learning is no excep
 In fact, **machine learning is programming by optimization**, and to understand optimization, we need **mathematics**.
 
 To understand what optimization is, how it works, and how machines learn, we need a strong mathematical foundation.
-
----
-
 In this series, we will cover the **first mathematical tool: Linear Algebra**, which plays a major role in understanding optimization and its use in machine learning.
-
----
-
 ## Linear Algebra
 
 Linear algebra helps us understand:
@@ -34,10 +24,6 @@ Linear algebra helps us understand:
 * How **data** is structured
     
 * How **models** are built and computed
-    
-
----
-
 ### Takeaway for Today
 
 **Linear Algebra is important**, and it is not the same as high-school algebra.
@@ -51,10 +37,6 @@ Because it is the **mathematics of arrays** — and in machine learning, everyth
 * The **models** are collections of arrays
     
 * Even the **internal computations** of these models are performed using arrays
-    
-
----
-
 ## What Is the Role of Linear Algebra in GPUs?
 
 **GPUs** (Graphics Processing Units) are designed to perform many small math operations in parallel. Most of these operations are linear algebra tasks, like:
@@ -78,22 +60,17 @@ GPUs are perfect for this because:
 * They can do the **same math operation on thousands of numbers at once**
     
 * Linear algebra is **highly parallel**, making it a natural fit
-    
-
----
-
 ## What Type of Linear Algebra Is Used in GPUs?
 
 | Concept | Description |
-| --- | --- |
+|
+|
+|
 | **Vectors** | Lists of numbers (1D) |
 | **Matrices** | Tables of numbers (2D) |
 | **Matrix Multiplication** | Core for transforming data and neural net calculations |
 | **Dot Product** | Used in graphics and ML to calculate similarity |
 | **Transpose, Inverse** | Used in transformations and solving equations |
-
----
-
 ## Real AI Example
 
 In deep learning:
@@ -106,9 +83,6 @@ In deep learning:
     
 
 The GPU is the engine that performs these operations quickly.
-
----
-
 ## What Is the Role of Linear Algebra in AI?
 
 Linear algebra is the **engine of AI**.  
@@ -121,10 +95,6 @@ AI works with numbers, and linear algebra gives us a clean way to:
 * **Transform data** (rotate, scale, combine)
     
 * **Learn patterns** (using matrix multiplications and updates)
-    
-
----
-
 ## Simple Example
 
 A **black and white image** is just a **grid of numbers** (pixel brightness) — this is a matrix.
@@ -137,33 +107,29 @@ To process the image:
     
 
 The same applies to **text** and **audio** — everything is turned into matrices or vectors.
-
----
-
 ## Algorithms from Linear Algebra Used in AI
 
 | Algorithm / Concept | Use in AI | Example |
-| --- | --- | --- |
+|
+|
+|
+|
 | **Matrix Multiplication** | Core of neural networks | Input × Weights = Output |
 | **Dot Product** | Measures similarity | Word embeddings similarity |
 | **Eigenvalues/Eigenvectors** | Dimensionality reduction (PCA) | Compress high-dimensional data |
 | **Singular Value Decomposition (SVD)** | Recommendation systems | Netflix/movie suggestions |
 | **LU / QR Decomposition** | Solving systems of equations | Optimization problems |
 | **Transpose, Inverse** | Reshaping and solving systems | Reversing transformations |
-
----
-
 ## Comparison & Transformation
 
 | Without Linear Algebra | With Linear Algebra |
-| --- | --- |
+|
+|
+|
 | Raw data handled manually | Data represented as matrices |
 | Hard to find patterns | Easy to apply transformations |
 | Slow calculations | Fast parallel operations on GPUs |
 | Hard to scale to big data | Scales well using matrix operations |
-
----
-
 ## Summary
 
 * Linear Algebra is the **core language of AI**
@@ -173,10 +139,6 @@ The same applies to **text** and **audio** — everything is turned into matrice
 * It is used deeply in both **hardware (GPU)** and **software (code)**
     
 * Key operations like **dot products, matrix multiplication, decompositions** power every AI model
-    
-
----
-
 ## Hardware Perspective (GPU & CPU)
 
 * GPUs **love matrices**: They can process **thousands of matrix multiplications at once**
@@ -196,10 +158,6 @@ So when your model runs `input × weights`, the GPU does this **fast and in para
 * Training a neural network with **1 million weights** may take **hours on a CPU**, but **minutes on a GPU**
     
 * Processing an image with **1,000,000 pixel values × 10,000 weights** is handled much faster on a GPU
-    
-
----
-
 ## Software Perspective (AI Libraries & Code)
 
 AI frameworks like **TensorFlow**, **PyTorch**, and **NumPy** are built on top of **linear algebra libraries** such as:
@@ -223,9 +181,6 @@ Even if you don’t see the math, it’s all **vectors, matrices, and dot produc
 
 **Example**:  
 **Word2Vec** converts words into vectors and finds **similarity** using the **dot product** — powered entirely by linear algebra.
-
----
-
 ## Conclusion
 
 Linear Algebra is **not optional** — it's essential for understanding how machine learning models are built, trained, and deployed.  

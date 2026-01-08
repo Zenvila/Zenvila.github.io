@@ -6,10 +6,6 @@ tags: ["migrated"]
 date: 2025-10-12
 featuredImage: "https://source.unsplash.com/1600x900/?cloud,infrastructure"
 ---
-
-
-
-
 # Puppet – Automating Infrastructure Configuration
 
 ### What is Puppet?
@@ -43,10 +39,6 @@ featuredImage: "https://source.unsplash.com/1600x900/?cloud,infrastructure"
 * **Puppet Master:** Central server distributing configurations.
     
 * **Modules/Manifests:** Code defining resource states.
-    
-
----
-
 ### Setting Up Puppet
 
                       To set up Puppet, you need a master server (Puppet Master) and one or more agent servers (Puppet Agents). Here’s a simplified guide:

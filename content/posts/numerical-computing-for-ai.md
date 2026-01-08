@@ -6,10 +6,6 @@ tags: ["migrated"]
 date: 2025-08-28
 featuredImage: "https://source.unsplash.com/1600x900/?ai,machine-learning"
 ---
-
-
-
-
 # Numerical Computing for AI
 
 ## Introduction
@@ -29,9 +25,6 @@ Take Newton's Second Law:
 This works well with two variables. But if we add a third object and try to calculate a radius or interaction, it becomes difficult to solve analytically. That’s where numerical methods come in. These methods use approximations to solve problems that are too complex for traditional analytical solutions. These approximations are very close to the actual answers.
 
 So why do we need approximations? Because analytical methods are only feasible for limited objects. For large-scale problems, mathematicians use numerical methods, and when these methods are implemented via computers, it's called **numerical computation**.
-
----
-
 ## Scalars and Vectors
 
 To begin understanding numerical computing, we start with the concepts of scalars and vectors.
@@ -46,15 +39,9 @@ To begin understanding numerical computing, we start with the concepts of scalar
 A **matrix** is not just rows and columns; it acts as a transformer of vectors.
 
 When a matrix is multiplied by a vector, the result is a new vector that represents a transformation — involving direction, magnitude, or both. Entire fields like ML and computer vision are built upon these transformations.
-
----
-
 ## Linearity
 
 What is linearity? Suppose we have two parallel lines. If, after applying a matrix transformation, the lines remain parallel and preserve the origin, this is **linearity**.
-
----
-
 ## Eigenvectors and Eigenvalues
 
 * **Eigenvector**: A special vector that doesn’t change direction when a transformation (matrix) is applied. Only the magnitude changes.
@@ -76,10 +63,6 @@ What is linearity? Suppose we have two parallel lines. If, after applying a matr
 * Eigenvectors = direction of patterns
     
 * Eigenvalues = strength of those patterns
-    
-
----
-
 ## Scalars, Vectors, Matrices, and Tensors
 
 * Scalars are single numbers.
@@ -89,10 +72,6 @@ What is linearity? Suppose we have two parallel lines. If, after applying a matr
 * Matrices are collections of vectors.
     
 * Tensors are higher-dimensional collections of matrices.
-    
-
----
-
 ## Floating-Point Representation
 
 How does a computer store floating-point numbers like 10.665?
@@ -115,9 +94,6 @@ Parts:
 10.665 in binary: `1010.1010101...` becomes `1.010101 × 2^3`
 
 **Dynamic Decimal Point**: Allows storing both very large and very small numbers using exponents.
-
----
-
 ## Hardware Perspective
 
 * **FPU (Floating-Point Unit)**: Special circuit in the CPU for float operations.
@@ -127,10 +103,6 @@ Parts:
 * **Instruction Set**: Includes operations like FADD, FMUL.
     
 * **Precision Modes**: FP16, FP32, FP64 (used in AI)
-    
-
----
-
 ## Software Perspective
 
 Handled by programming languages and libraries.
@@ -157,10 +129,6 @@ y = np.float64(10.665)
 * NumPy, SciPy, TensorFlow handle precision, rounding, and overflow/underflow automatically.
     
 * Errors and warnings can be managed using `np.seterr()`
-    
-
----
-
 ## HDF5 Format
 
 * Used when working with Keras/TensorFlow.
@@ -170,10 +138,6 @@ y = np.float64(10.665)
 * More scalable than NumPy arrays (which reside entirely in memory).
     
 * Can load parts of the dataset dynamically from disk (like SSD), improving memory efficiency.
-    
-
----
-
 ## Distance Metrics
 
 ### Euclidean Distance
@@ -196,10 +160,6 @@ y = np.float64(10.665)
 * Used in: sparse data (text, images), Lasso Regression
     
 * Weakness: ignores angles and direction
-    
-
----
-
 ## Matrix Decomposition Methods
 
 ### LU Decomposition (Doolittle)
@@ -227,10 +187,6 @@ y = np.float64(10.665)
 * For symmetric positive-definite matrices
     
 * Used in Gaussian processes, Kalman filters
-    
-
----
-
 ## Gauss-Seidel Method
 
 * Iterative method to solve Ax = b
@@ -245,10 +201,6 @@ y = np.float64(10.665)
 * Sparse systems like recommendation engines
     
 * Reinforcement learning with constraints
-    
-
----
-
 ## Root Finding
 
 * Find x such that f(x) = 0
@@ -260,10 +212,6 @@ y = np.float64(10.665)
     * Newton-Raphson Method: uses derivatives
         
     * Secant Method: approximates without derivatives
-        
-
----
-
 ## Intermediate Value Theorem
 
 If a continuous function changes sign between two points a and b, then it must cross zero somewhere between them.
@@ -271,10 +219,6 @@ If a continuous function changes sign between two points a and b, then it must c
 * Foundation of Bisection Method
     
 * Guarantees solution in a given interval
-    
-
----
-
 ## Newton’s Method (Root Finding)
 
 Uses:
@@ -284,10 +228,6 @@ Uses:
 * Fast convergence, but needs derivative
     
 * Inspired gradient descent in ML
-    
-
----
-
 ## Interpolation
 
 * Estimate value between known data points
@@ -306,10 +246,6 @@ Uses:
 * Builds a polynomial that fits multiple points
     
 * Flexible and used to smooth curves
-    
-
----
-
 ## Taylor Series
 
 * Approximates complex functions using polynomials
@@ -321,10 +257,6 @@ Uses:
     * Approximating sin(x), e^x
         
     * Solving differential equations
-        
-
----
-
 ## Numerical Differentiation
 
 * Estimate derivatives using data points
@@ -336,10 +268,6 @@ Uses:
     * Optimization
         
     * Training ML models
-        
-
----
-
 ## Gradient Descent
 
 * Method for minimizing errors
@@ -357,10 +285,6 @@ Uses:
 * Used in training neural networks
     
 * Libraries handle this internally (e.g., TensorFlow, PyTorch)
-    
-
----
-
 ## Sanity Check
 
 * Quick test to verify if results make basic sense
@@ -368,10 +292,6 @@ Uses:
 * Prevents obvious errors
     
 * Used in data validation, debugging, and before/after training
-    
-
----
-
 **P.S:**if you spot any mistakes, feel free to point them out — we’re all here to learn together! 😊
 
 **Haris**  
