@@ -47,12 +47,24 @@
   </section>
 
   {{/* Terms Grid */}}
-  {{ if gt (len .Data.Terms) 0 }}
-    <section class="w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3 mt-10">
-      {{ range .Data.Terms }}
-        {{ partial "term-link/card.html" . }}
-      {{ end }}
-    </section>
+  {{ if .Data.Terms }}
+    {{ $termsCount := 0 }}
+    {{ range .Data.Terms }}
+      {{ $termsCount = add $termsCount 1 }}
+    {{ end }}
+    {{ if gt $termsCount 0 }}
+      <section class="w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3 mt-10">
+        {{ range .Data.Terms }}
+          {{ partial "term-link/card.html" . }}
+        {{ end }}
+      </section>
+    {{ else }}
+      <section class="mt-10 prose dark:prose-invert">
+        <p class="py-8 border-t">
+          <em>{{ i18n "taxonomy.no_terms" | emojify }}</em>
+        </p>
+      </section>
+    {{ end }}
   {{ else }}
     <section class="mt-10 prose dark:prose-invert">
       <p class="py-8 border-t">
