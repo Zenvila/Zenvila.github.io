@@ -2,10 +2,11 @@
 title: "Kubernetes Multi Node Real World Workflows"
 draft: false
 layout: "article"
-tags: ["Kubernetes", "Networking", "Linux"]
+tags: ["Kubernetes", "DevOps"]
 date: 2025-05-11
 featuredImage: "https://source.unsplash.com/1600x900/?docker,container"
 ---
+
 # Kubernetes (Multi-node + Real-World Workflows)
 
 ## Kubernetes (Multi-node + Real-World Workflows)

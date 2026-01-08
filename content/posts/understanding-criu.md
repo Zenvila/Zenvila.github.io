@@ -2,10 +2,11 @@
 title: "Understanding Criu"
 draft: false
 layout: "article"
-tags: ["Docker", "Networking", "Linux"]
+tags: ["Docker", "Linux", "Cloud"]
 date: 2025-12-13
 featuredImage: "https://source.unsplash.com/1600x900/?linux,server"
 ---
+
 # Understanding CRIU
 
 Let’s understand what CRIU actually is. To make it simple, think about story-based games. Have you ever noticed how games let us save our progress and later load the game from the same spot? That’s just like what CRIU does, but for real processes running on Linux.

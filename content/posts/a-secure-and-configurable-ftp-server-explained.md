@@ -2,10 +2,11 @@
 title: "A Secure And Configurable Ftp Server Explained"
 draft: false
 layout: "article"
-tags: ["Security", "Networking", "Linux"]
+tags: ["Networking", "Technology"]
 date: 2025-01-18
 featuredImage: "https://source.unsplash.com/1600x900/?network,security"
 ---
+
 # A Secure & Configurable FTP Server Explained
 
 ## What is ProFTPD?

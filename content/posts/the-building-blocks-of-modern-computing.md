@@ -6,6 +6,7 @@ tags: ["Networking", "Cloud", "Architecture"]
 date: 2025-12-24
 featuredImage: "https://source.unsplash.com/1600x900/?tech,hardware"
 ---
+
 # The Building Blocks of Modern Computing
 
 ### What is a Thread?

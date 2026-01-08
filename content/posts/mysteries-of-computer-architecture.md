@@ -2,10 +2,11 @@
 title: "Mysteries Of Computer Architecture"
 draft: false
 layout: "article"
-tags: ["Security", "Networking", "Architecture"]
+tags: ["Linux", "System Administration"]
 date: 2025-07-10
 featuredImage: "https://source.unsplash.com/1600x900/?tech,hardware"
 ---
+
 # Mysteries of Computer Architecture
 
                             **Computer Architecture and Organization**

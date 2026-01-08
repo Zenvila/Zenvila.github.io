@@ -2,10 +2,11 @@
 title: "Machine Learning And Its Tools"
 draft: false
 layout: "article"
-tags: ["AI/ML", "Python", "Architecture"]
+tags: ["AI/ML", "Data Science"]
 date: 2025-06-01
 featuredImage: "https://source.unsplash.com/1600x900/?ai,machine-learning"
 ---
+
 # Machine Learning and Its Tools
 
 ## What is AI?

@@ -2,10 +2,11 @@
 title: "Introduction To Docker"
 draft: false
 layout: "article"
-tags: ["Docker", "Networking", "Linux"]
+tags: ["Docker", "Containers"]
 date: 2025-04-15
 featuredImage: "https://source.unsplash.com/1600x900/?docker,container"
 ---
+
 # Introduction to Docker
 
  **Getting Started with Docker on Arch Linux**

@@ -6,6 +6,7 @@ tags: ["Networking", "Linux"]
 date: 2025-12-09
 featuredImage: "https://source.unsplash.com/1600x900/?network,server"
 ---
+
 # System Monitoring
 
 [Back to home](https://hashnode.com/)

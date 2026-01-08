@@ -2,10 +2,11 @@
 title: "Numerical Computing For Ai"
 draft: false
 layout: "article"
-tags: ["AI/ML", "Architecture"]
+tags: ["AI/ML", "Data Science"]
 date: 2025-08-28
 featuredImage: "https://source.unsplash.com/1600x900/?ai,machine-learning"
 ---
+
 # Numerical Computing for AI
 
 ## Introduction

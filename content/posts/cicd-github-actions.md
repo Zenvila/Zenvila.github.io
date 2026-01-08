@@ -2,10 +2,11 @@
 title: "Cicd Github Actions"
 draft: false
 layout: "article"
-tags: ["Docker", "CI/CD", "Linux"]
+tags: ["CI/CD", "Technology"]
 date: 2025-02-09
 featuredImage: "https://source.unsplash.com/1600x900/?cloud,infrastructure"
 ---
+
 # CI/CD (Github ACtions)
 
 # Understanding GitHub Actions with CI/CD (Ubuntu + Docker)

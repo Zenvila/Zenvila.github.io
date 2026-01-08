@@ -2,10 +2,11 @@
 title: "Docker Evolution In The Ai Era"
 draft: false
 layout: "article"
-tags: ["Kubernetes", "Security", "Testing"]
+tags: ["Docker", "Containers"]
 date: 2025-03-20
 featuredImage: "https://source.unsplash.com/1600x900/?docker,container"
 ---
+
 # Docker Evolution in the AI Era
 
 # From Simple Containers to Modern AI Workflows

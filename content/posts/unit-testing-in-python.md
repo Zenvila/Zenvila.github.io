@@ -2,10 +2,11 @@
 title: "Unit Testing In Python"
 draft: false
 layout: "article"
-tags: ["Networking", "Testing", "Python"]
+tags: ["Testing", "Technology"]
 date: 2025-12-08
 featuredImage: "https://source.unsplash.com/1600x900/?tech,coding"
 ---
+
 # Unit Testing in Python
 
 #  A Must-Know for Every Programmer

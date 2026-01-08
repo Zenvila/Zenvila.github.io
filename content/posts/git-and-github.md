@@ -2,10 +2,11 @@
 title: "Git And Github"
 draft: false
 layout: "article"
-tags: ["Security", "Networking", "Linux"]
+tags: ["Git", "Technology"]
 date: 2025-03-28
 featuredImage: "https://source.unsplash.com/1600x900/?tech,coding"
 ---
+
 # Git and GitHub
 
 **Introduction:** 

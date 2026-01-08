@@ -2,10 +2,11 @@
 title: "Terraform And Ansible"
 draft: false
 layout: "article"
-tags: ["Docker", "DevOps", "Networking"]
+tags: ["DevOps", "Technology"]
 date: 2025-12-05
 featuredImage: "https://source.unsplash.com/1600x900/?cloud,infrastructure"
 ---
+
 # Terraform and Ansible
 
 ## Infrastructure Provisioning and Configuration (Local System Setup)
