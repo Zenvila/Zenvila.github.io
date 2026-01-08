@@ -1,5 +1,6 @@
 ---
 
+
 title: "Super Store Management System"
 summary: "Web-based store management system for inventory and sales tracking."
 date: 2023-10-15
@@ -11,7 +12,9 @@ showDate: false
 layout: "project"
 
 
+
 ---
+
 
 
 

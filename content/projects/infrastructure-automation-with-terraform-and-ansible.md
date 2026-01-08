@@ -1,5 +1,6 @@
 ---
 
+
 title: "Infrastructure Automation with Terraform and Ansible"
 summary: "Provisioned Docker-based Ubuntu environment using Terraform and configured Apache web server with Ansible for end-to-end infrastructure automation."
 date: 2025-06-01
@@ -11,7 +12,9 @@ showDate: false
 layout: "project"
 
 
+
 ---
+
 
 
 

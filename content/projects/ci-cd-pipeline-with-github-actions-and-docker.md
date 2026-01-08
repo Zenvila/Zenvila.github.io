@@ -1,15 +1,18 @@
 ---
+
 title: "CI/CD Pipeline with GitHub Actions and Docker"
 summary: "Complete CI/CD pipeline using GitHub Actions, Docker, and Ubuntu runners with automated testing and containerized deployment."
 date: 2025-06-01
-featureimage: "https://zenvila.github.io/images/projects/cicd-pipeline-with-github-actions-and-docker.jpeg"
+featureimage: "https://zenvila.github.io/images/projects/ci-cd-pipeline-with-github-actions-and-docker.jpeg"
 draft: false
 tags: ['CI/CD', 'Docker', 'GitHub Actions', 'DevOps']
 externalUrl: ""
 showDate: false
 layout: "project"
 
+
 ---
+
 
 
 ## The Challenge

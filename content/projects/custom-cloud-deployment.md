@@ -1,5 +1,6 @@
 ---
 
+
 title: "Custom Cloud Deployment"
 summary: "Built fully functional, self-hosted cloud environment powered by Ubuntu Server 22.04 LTS with Monit for real-time monitoring and alerts."
 date: 2025-02-15
@@ -11,7 +12,9 @@ showDate: false
 layout: "project"
 
 
+
 ---
+
 
 
 
