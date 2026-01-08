@@ -2,7 +2,7 @@
 title: "Monit Deployment"
 summary: "Implemented Monit for server monitoring and automation of error detection with fine-tuned alert mechanisms for system stability."
 date: 2025-01-01
-featuredImage: "/images/projects/monit-deployment.jpeg"
+featureimage: "/images/projects/monit-deployment.jpeg"
 draft: false
 tags: ['Linux', 'Monitoring', 'System Administration']
 externalUrl: ""
