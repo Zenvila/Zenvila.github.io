@@ -28,3 +28,9 @@ hotlinkFeatureImage = true
   showReadingTime = true
   layoutBackgroundBlur = false
   layoutBackgroundHeaderSpace = true
+
+[list]
+  showHero = true
+  heroStyle = "background"
+  layoutBackgroundBlur = false
+  layoutBackgroundHeaderSpace = true
