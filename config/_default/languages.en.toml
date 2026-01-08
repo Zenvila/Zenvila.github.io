@@ -13,7 +13,7 @@ title = "Zenvila"
 [params.author]
   name = "Haris Shahzad"
   image = "https://zenvila.github.io/images/profile.jpg"
-  headline = "Self Learner | Systems & Robotics |"
+  headline = "Self Learner | Systems & Robotics"
   bio = "Passionate about Automation, Robotics & Linux."
   links = [
     { github = "https://github.com/zenvila" },

@@ -35,5 +35,7 @@ hotlinkFeatureImage = true
   layoutBackgroundBlur = false
   layoutBackgroundHeaderSpace = true
   cardView = true
+  groupByYear = false
+  orderByWeight = true
 
 enableSearch = true
