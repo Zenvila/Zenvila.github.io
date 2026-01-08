@@ -3,9 +3,10 @@ title: "Http11 Vs Http2 Vs Http3"
 draft: false
 layout: "article"
 tags: ["migrated"]
-date: 2025-04-14
-featuredImage: "https://source.unsplash.com/1600x900/?network,server"
+date: 2025-04-18
+featuredImage: "https://source.unsplash.com/1600x900/?network,security"
 ---
+
 
 # HTTP/1.1 vs. HTTP/2 vs. HTTP/3
 

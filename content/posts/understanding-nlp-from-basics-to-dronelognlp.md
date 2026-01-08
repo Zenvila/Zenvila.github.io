@@ -3,9 +3,10 @@ title: "Understanding Nlp From Basics To Dronelognlp"
 draft: false
 layout: "article"
 tags: ["migrated"]
-date: 2025-12-04
+date: 2025-12-22
 featuredImage: "https://source.unsplash.com/1600x900/?ai,machine-learning"
 ---
+
 
 # Understanding NLP — From Basics to DroneLogNLP
 

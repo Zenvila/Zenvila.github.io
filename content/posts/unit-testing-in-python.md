@@ -3,9 +3,10 @@ title: "Unit Testing In Python"
 draft: false
 layout: "article"
 tags: ["migrated"]
-date: 2025-12-03
-featuredImage: "https://source.unsplash.com/1600x900/?tech,coding"
+date: 2025-12-08
+featuredImage: "https://source.unsplash.com/1600x900/?network,server"
 ---
+
 
 # Unit Testing in Python
 

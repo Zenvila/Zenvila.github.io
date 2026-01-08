@@ -3,9 +3,10 @@ title: "Git And Github"
 draft: false
 layout: "article"
 tags: ["migrated"]
-date: 2025-03-25
-featuredImage: "https://source.unsplash.com/1600x900/?tech,coding"
+date: 2025-03-28
+featuredImage: "https://source.unsplash.com/1600x900/?network,security"
 ---
+
 
 # Git and GitHub
 

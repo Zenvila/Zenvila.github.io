@@ -3,9 +3,10 @@ title: "System Monitoring"
 draft: false
 layout: "article"
 tags: ["migrated"]
-date: 2025-12-16
+date: 2025-12-09
 featuredImage: "https://source.unsplash.com/1600x900/?network,server"
 ---
+
 
 # System Monitoring
 

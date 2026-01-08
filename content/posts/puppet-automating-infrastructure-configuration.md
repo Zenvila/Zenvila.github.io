@@ -3,9 +3,10 @@ title: "Puppet Automating Infrastructure Configuration"
 draft: false
 layout: "article"
 tags: ["migrated"]
-date: 2025-10-27
-featuredImage: "https://source.unsplash.com/1600x900/?cloud,infrastructure"
+date: 2025-10-12
+featuredImage: "https://source.unsplash.com/1600x900/?docker,container"
 ---
+
 
 # Puppet – Automating Infrastructure Configuration
 

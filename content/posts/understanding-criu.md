@@ -3,9 +3,10 @@ title: "Understanding Criu"
 draft: false
 layout: "article"
 tags: ["migrated"]
-date: 2025-12-17
-featuredImage: "https://source.unsplash.com/1600x900/?linux,server"
+date: 2025-12-13
+featuredImage: "https://source.unsplash.com/1600x900/?docker,container"
 ---
+
 
 # Understanding CRIU
 

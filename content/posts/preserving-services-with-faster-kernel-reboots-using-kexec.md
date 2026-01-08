@@ -3,9 +3,10 @@ title: "Preserving Services With Faster Kernel Reboots Using Kexec"
 draft: false
 layout: "article"
 tags: ["migrated"]
-date: 2025-08-12
+date: 2025-08-19
 featuredImage: "https://source.unsplash.com/1600x900/?docker,container"
 ---
+
 
 # Preserving Services with Faster Kernel Reboots Using Kexec
 

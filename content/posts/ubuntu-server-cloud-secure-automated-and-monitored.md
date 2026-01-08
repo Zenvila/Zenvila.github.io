@@ -3,9 +3,10 @@ title: "Ubuntu Server Cloud Secure Automated And Monitored"
 draft: false
 layout: "article"
 tags: ["migrated"]
-date: 2025-12-15
-featuredImage: "https://source.unsplash.com/1600x900/?linux,server"
+date: 2025-12-05
+featuredImage: "https://source.unsplash.com/1600x900/?network,server"
 ---
+
 
 # Ubuntu Server Cloud: Secure, Automated, and Monitored
 

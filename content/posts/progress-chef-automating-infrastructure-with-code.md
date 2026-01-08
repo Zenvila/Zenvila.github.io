@@ -3,9 +3,10 @@ title: "Progress Chef Automating Infrastructure With Code"
 draft: false
 layout: "article"
 tags: ["migrated"]
-date: 2025-09-13
-featuredImage: "https://source.unsplash.com/1600x900/?cloud,infrastructure"
+date: 2025-09-17
+featuredImage: "https://source.unsplash.com/1600x900/?docker,container"
 ---
+
 
 # Progress Chef – Automating Infrastructure with Code
 

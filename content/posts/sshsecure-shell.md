@@ -3,9 +3,10 @@ title: "Sshsecure Shell"
 draft: false
 layout: "article"
 tags: ["migrated"]
-date: 2025-12-08
-featuredImage: "https://source.unsplash.com/1600x900/?linux,server"
+date: 2025-12-27
+featuredImage: "https://source.unsplash.com/1600x900/?network,server"
 ---
+
 
 # SSH(Secure Shell )
 

@@ -3,9 +3,10 @@ title: "Cryptography"
 draft: false
 layout: "article"
 tags: ["migrated"]
-date: 2025-02-12
-featuredImage: "https://source.unsplash.com/1600x900/?network,server"
+date: 2025-02-16
+featuredImage: "https://source.unsplash.com/1600x900/?docker,container"
 ---
+
 
 # Cryptography
 
