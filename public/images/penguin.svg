@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Tux Penguin Body -->
+  <ellipse cx="50" cy="65" rx="30" ry="25" fill="#000"/>
+  <!-- Tux Penguin Belly -->
+  <ellipse cx="50" cy="65" rx="20" ry="18" fill="#fff"/>
+  <!-- Tux Penguin Head -->
+  <circle cx="50" cy="35" r="20" fill="#000"/>
+  <!-- Tux Penguin Eyes -->
+  <circle cx="45" cy="32" r="3" fill="#fff"/>
+  <circle cx="55" cy="32" r="3" fill="#fff"/>
+  <circle cx="45" cy="32" r="1.5" fill="#000"/>
+  <circle cx="55" cy="32" r="1.5" fill="#000"/>
+  <!-- Tux Penguin Beak -->
+  <path d="M 50 38 L 45 42 L 55 42 Z" fill="#ffa500"/>
+  <!-- Tux Penguin Feet -->
+  <ellipse cx="40" cy="88" rx="8" ry="5" fill="#ffa500"/>
+  <ellipse cx="60" cy="88" rx="8" ry="5" fill="#ffa500"/>
+  <!-- Tux Penguin Wings -->
+  <ellipse cx="25" cy="60" rx="12" ry="18" fill="#000"/>
+  <ellipse cx="75" cy="60" rx="12" ry="18" fill="#000"/>
+</svg>

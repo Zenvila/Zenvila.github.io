@@ -1,11 +1,15 @@
 ---
+
 title: "Unit Testing In Python"
 draft: false
 layout: "article"
 tags: ["Testing", "Technology", "Data Science"]
 date: 2025-12-08
-featuredImage: "https://source.unsplash.com/1600x900/?tech,coding"
+featureimage: "https://zenvila.github.io/images/posts/unit-testing-in-python.jpeg"
+featuredImage: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&q=80&w=1600"
+
 ---
+
 # Unit Testing in Python
 
 #  A Must-Know for Every Programmer

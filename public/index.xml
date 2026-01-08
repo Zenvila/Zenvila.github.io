@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Zenvila</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on Zenvila</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 Haris Shahzad</copyright>
+    <lastBuildDate>Sat, 20 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Cicd Github Actions</title>
+      <link>http://localhost:1313/posts/cicd-github-actions/</link>
+      <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/cicd-github-actions/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Unit Testing In Python</title>
+      <link>http://localhost:1313/posts/unit-testing-in-python/</link>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/unit-testing-in-python/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Step By Step Arch Linux Installation And Post Setup 1  Deleted</title>
+      <link>http://localhost:1313/posts/step-by-step-arch-linux-installation-and-post-setup-1--deleted/</link>
+      <pubDate>Sun, 23 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/step-by-step-arch-linux-installation-and-post-setup-1--deleted/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Introduction To Docker</title>
+      <link>http://localhost:1313/posts/introduction-to-docker/</link>
+      <pubDate>Tue, 04 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/introduction-to-docker/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Cryptography</title>
+      <link>http://localhost:1313/posts/cryptography/</link>
+      <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/cryptography/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>DroneLogNLP: Real Time Semantic Analysis of Drone Logs</title>
+      <link>http://localhost:1313/projects/dronelognlp-real-time-semantic-analysis-of-drone-logs/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/dronelognlp-real-time-semantic-analysis-of-drone-logs/</guid>
+      <description>Transforms raw drone logs into semantic embeddings using Sentence Transformers for meaning-based search and analysis.</description>
+      
+    </item>
+    
+    <item>
+      <title>Understanding Criu</title>
+      <link>http://localhost:1313/posts/understanding-criu/</link>
+      <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/understanding-criu/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Build Your First Docker Swarm Cluster</title>
+      <link>http://localhost:1313/posts/build-your-first-docker-swarm-cluster/</link>
+      <pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/build-your-first-docker-swarm-cluster/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>AI-Powered Web Vulnerability Scanner</title>
+      <link>http://localhost:1313/projects/ai-powered-web-vulnerability-scanner/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/ai-powered-web-vulnerability-scanner/</guid>
+      <description>AI-driven vulnerability scanner that automates penetration testing by generating fuzzing commands and using NLP to analyze terminal outputs.</description>
+      
+    </item>
+    
+    <item>
+      <title>Machine Learning And Its Tools</title>
+      <link>http://localhost:1313/posts/machine-learning-and-its-tools/</link>
+      <pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/machine-learning-and-its-tools/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Smart Real Estate Investor</title>
+      <link>http://localhost:1313/projects/smart-real-estate-investor/</link>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/smart-real-estate-investor/</guid>
+      <description>Data-driven real estate investment analysis platform that scrapes property data and implements predictive models for ROI and investment risk assessment.</description>
+      
+    </item>
+    
+    <item>
+      <title>The Hidden Control Loop Of Modern Software</title>
+      <link>http://localhost:1313/posts/the-hidden-control-loop-of-modern-software/</link>
+      <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/the-hidden-control-loop-of-modern-software/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Lightweight PDF-based RAG System with LLaMA 3.1 8B</title>
+      <link>http://localhost:1313/projects/lightweight-pdf-based-rag-system-with-llama-31-8b/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/lightweight-pdf-based-rag-system-with-llama-31-8b/</guid>
+      <description>Fully Dockerized Retrieval-Augmented Generation system using LLaMA 3.1 8B with INT4 quantization for offline PDF question answering.</description>
+      
+    </item>
+    
+    <item>
+      <title>ViD-LLM Powered Visual Question Answering System</title>
+      <link>http://localhost:1313/projects/vid-llm-powered-visual-question-answering-system/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/vid-llm-powered-visual-question-answering-system/</guid>
+      <description>Local Visual Question Answering system using Salesforce/blip-vqa-base model deployed on CPU with Gradio interface for real-time multimodal reasoning.</description>
+      
+    </item>
+    
+    <item>
+      <title>System Monitoring</title>
+      <link>http://localhost:1313/posts/system-monitoring/</link>
+      <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/system-monitoring/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sshsecure Shell</title>
+      <link>http://localhost:1313/posts/sshsecure-shell/</link>
+      <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/sshsecure-shell/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>CI/CD Pipeline with GitHub Actions and Docker</title>
+      <link>http://localhost:1313/projects/ci-cd-pipeline-with-github-actions-and-docker/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/ci-cd-pipeline-with-github-actions-and-docker/</guid>
+      <description>Complete CI/CD pipeline using GitHub Actions, Docker, and Ubuntu runners with automated testing and containerized deployment.</description>
+      
+    </item>
+    
+    <item>
+      <title>Infrastructure Automation with Terraform and Ansible</title>
+      <link>http://localhost:1313/projects/infrastructure-automation-with-terraform-and-ansible/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/infrastructure-automation-with-terraform-and-ansible/</guid>
+      <description>Provisioned Docker-based Ubuntu environment using Terraform and configured Apache web server with Ansible for end-to-end infrastructure automation.</description>
+      
+    </item>
+    
+    <item>
+      <title>Multi-Node Kubernetes Cluster Using Kind</title>
+      <link>http://localhost:1313/projects/multi-node-kubernetes-cluster-using-kind/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/multi-node-kubernetes-cluster-using-kind/</guid>
+      <description>Set up and configured a multi-node Kubernetes cluster using Kind with Deployments, Services, Ingress, ConfigMaps, Secrets, and Helm charts.</description>
+      
+    </item>
+    
+    <item>
+      <title>ZenChat – Fully Dockerized Flask Chat Application</title>
+      <link>http://localhost:1313/projects/zenchat---fully-dockerized-flask-chat-application/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/zenchat---fully-dockerized-flask-chat-application/</guid>
+      <description>Lightweight real-time chat application using Flask and SQLite3, fully containerized with Docker for portable deployment.</description>
+      
+    </item>
+    
+    <item>
+      <title>ZenWallet – Dockerized MERN Stack Wallet Tracker</title>
+      <link>http://localhost:1313/projects/zenwallet---dockerized-mern-stack-wallet-tracker/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/zenwallet---dockerized-mern-stack-wallet-tracker/</guid>
+      <description>Full-stack wallet tracking application built with MERN stack and fully containerized with Docker Compose for multi-service orchestration.</description>
+      
+    </item>
+    
+    <item>
+      <title>Git And Github</title>
+      <link>http://localhost:1313/posts/git-and-github/</link>
+      <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/git-and-github/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Automated Timetable Management System</title>
+      <link>http://localhost:1313/projects/automated-timetable-management-system/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/automated-timetable-management-system/</guid>
+      <description>Web-based system to eliminate manual PDF searching for class or exam timetables with personalized access and admin management panel.</description>
+      
+    </item>
+    
+    <item>
+      <title>Running Arm Raspberry Pi On Your Pc Without Hardware</title>
+      <link>http://localhost:1313/posts/running-arm-raspberry-pi-on-your-pc-without-hardware/</link>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/running-arm-raspberry-pi-on-your-pc-without-hardware/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>The Building Blocks Of Modern Computing</title>
+      <link>http://localhost:1313/posts/the-building-blocks-of-modern-computing/</link>
+      <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/the-building-blocks-of-modern-computing/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Ubuntu Server Cloud Secure Automated And Monitored</title>
+      <link>http://localhost:1313/posts/ubuntu-server-cloud-secure-automated-and-monitored/</link>
+      <pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/ubuntu-server-cloud-secure-automated-and-monitored/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Docker Swarm Cluster Deployment on Multi-Node Architecture</title>
+      <link>http://localhost:1313/projects/docker-swarm-cluster-deployment-on-multi-node-architecture/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/docker-swarm-cluster-deployment-on-multi-node-architecture/</guid>
+      <description>Built Docker Swarm cluster using two physical machines running Arch Linux with manager and worker nodes for container orchestration.</description>
+      
+    </item>
+    
+    <item>
+      <title>Kubernetes Multi Node Real World Workflows</title>
+      <link>http://localhost:1313/posts/kubernetes-multi-node-real-world-workflows/</link>
+      <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/kubernetes-multi-node-real-world-workflows/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Preserving Services with Faster Kernel Reboots Using Kexec</title>
+      <link>http://localhost:1313/projects/preserving-services-with-faster-kernel-reboots-using-kexec/</link>
+      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/preserving-services-with-faster-kernel-reboots-using-kexec/</guid>
+      <description>Updated kernel without rebooting using Kexec for seamless kernel switching and Live Kernel Patching for dynamic bug fixes, reducing boot times by 50%.</description>
+      
+    </item>
+    
+    <item>
+      <title>Voice Over Internet Protocol Voip</title>
+      <link>http://localhost:1313/posts/voice-over-internet-protocol-voip/</link>
+      <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/voice-over-internet-protocol-voip/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Expense Tracker</title>
+      <link>http://localhost:1313/projects/expense-tracker/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/expense-tracker/</guid>
+      <description>Web application for managing income and expenses with secure login, transaction tracking, and graphical data visualization.</description>
+      
+    </item>
+    
+    <item>
+      <title>Custom Cloud Deployment</title>
+      <link>http://localhost:1313/projects/custom-cloud-deployment/</link>
+      <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/custom-cloud-deployment/</guid>
+      <description>Built fully functional, self-hosted cloud environment powered by Ubuntu Server 22.04 LTS with Monit for real-time monitoring and alerts.</description>
+      
+    </item>
+    
+    <item>
+      <title>Understanding Nlp From Basics To Dronelognlp</title>
+      <link>http://localhost:1313/posts/understanding-nlp-from-basics-to-dronelognlp/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/understanding-nlp-from-basics-to-dronelognlp/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Step By Step Arch Linux Installation And Post Setup</title>
+      <link>http://localhost:1313/posts/step-by-step-arch-linux-installation-and-post-setup/</link>
+      <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/step-by-step-arch-linux-installation-and-post-setup/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>VoIP (FreePBX&#43;Twilio&#43;Vapi)</title>
+      <link>http://localhost:1313/projects/voip-freepbx-twilio-vapi/</link>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/voip-freepbx-twilio-vapi/</guid>
+      <description>Designed and deployed a scalable Voice over IP (VoIP) telecommunication system bridging local infrastructure with the global telephone network (PSTN).</description>
+      
+    </item>
+    
+    <item>
+      <title>Cloud-Integrated Enterprise VoIP Infrastructure</title>
+      <link>http://localhost:1313/projects/voip-infrastructure/</link>
+      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/voip-infrastructure/</guid>
+      <description>Designed and deployed a scalable Voice over IP (VoIP) telecommunication system bridging local infrastructure with the global telephone network (PSTN).</description>
+      
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>http://localhost:1313/posts/hello-world/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Monit Deployment</title>
+      <link>http://localhost:1313/projects/monit-deployment/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/monit-deployment/</guid>
+      <description>Implemented Monit for server monitoring and automation of error detection with fine-tuned alert mechanisms for system stability.</description>
+      
+    </item>
+    
+    <item>
+      <title>Docker Evolution In The Ai Era</title>
+      <link>http://localhost:1313/posts/docker-evolution-in-the-ai-era/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/docker-evolution-in-the-ai-era/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>LLM Voice Assistant</title>
+      <link>http://localhost:1313/projects/llm-voice-assistant/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/llm-voice-assistant/</guid>
+      <description>LLM-powered voice assistant with object recognition using webcam, integrating OpenAI API and Google API for real-time analysis.</description>
+      
+    </item>
+    
+    <item>
+      <title>Puppet Automating Infrastructure Configuration</title>
+      <link>http://localhost:1313/posts/puppet-automating-infrastructure-configuration/</link>
+      <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/puppet-automating-infrastructure-configuration/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Probability And Statistics For Ai</title>
+      <link>http://localhost:1313/posts/probability-and-statistics-for-ai/</link>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/probability-and-statistics-for-ai/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Http11 Vs Http2 Vs Http3</title>
+      <link>http://localhost:1313/posts/http11-vs-http2-vs-http3/</link>
+      <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/http11-vs-http2-vs-http3/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Numerical Computing For Ai</title>
+      <link>http://localhost:1313/posts/numerical-computing-for-ai/</link>
+      <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/numerical-computing-for-ai/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Cryptography with RSA and OpenSSL</title>
+      <link>http://localhost:1313/projects/cryptography-with-rsa-and-openssl/</link>
+      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/cryptography-with-rsa-and-openssl/</guid>
+      <description>Configured virtual environment with Ubuntu, Kali Linux, and Windows. Generated RSA key pairs, performed encryption/decryption, and set up Certificate Authority (CA).</description>
+      
+    </item>
+    
+    <item>
+      <title>Mysteries Of Computer Architecture</title>
+      <link>http://localhost:1313/posts/mysteries-of-computer-architecture/</link>
+      <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/mysteries-of-computer-architecture/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Preserving Services With Faster Kernel Reboots Using Kexec</title>
+      <link>http://localhost:1313/posts/preserving-services-with-faster-kernel-reboots-using-kexec/</link>
+      <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/preserving-services-with-faster-kernel-reboots-using-kexec/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Kubernetes Using Minikube On Arch Linux</title>
+      <link>http://localhost:1313/posts/kubernetes-using-minikube-on-arch-linux/</link>
+      <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/kubernetes-using-minikube-on-arch-linux/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>FAST Aggregate Calculator</title>
+      <link>http://localhost:1313/projects/fast-aggregate-calculator/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/fast-aggregate-calculator/</guid>
+      <description>Deployed aggregate calculator for FAST entry test scores during internship to help students compute their entry test scores.</description>
+      
+    </item>
+    
+    <item>
+      <title>Risc Vs Cisc Which Powers Your Devices</title>
+      <link>http://localhost:1313/posts/risc-vs-cisc-which-powers-your-devices/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/risc-vs-cisc-which-powers-your-devices/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Voice over IP (VoIP) Setup</title>
+      <link>http://localhost:1313/projects/voice-over-ip-voip-setup/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/voice-over-ip-voip-setup/</guid>
+      <description>Set up Ubuntu as VoIP server with Asterisk, created clients for IP-based communication, and deployed on AWS EC2 with Docker containerization.</description>
+      
+    </item>
+    
+    <item>
+      <title>Arithmetic Logic Unit (ALU)</title>
+      <link>http://localhost:1313/projects/arithmetic-logic-unit-alu/</link>
+      <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/arithmetic-logic-unit-alu/</guid>
+      <description>Developed ALU capable of performing addition, subtraction, and multiplication for Digital Logic Design course final project.</description>
+      
+    </item>
+    
+    <item>
+      <title>Rsync</title>
+      <link>http://localhost:1313/posts/rsync/</link>
+      <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/rsync/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Programming for Cyber Security</title>
+      <link>http://localhost:1313/projects/programming-for-cyber-security/</link>
+      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/programming-for-cyber-security/</guid>
+      <description>Developed four Python scripts for brute-force simulation, data scraping, IP extraction, and DNS port confirmation for cybersecurity analysis.</description>
+      
+    </item>
+    
+    <item>
+      <title>A Secure And Configurable Ftp Server Explained</title>
+      <link>http://localhost:1313/posts/a-secure-and-configurable-ftp-server-explained/</link>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/a-secure-and-configurable-ftp-server-explained/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Progress Chef Automating Infrastructure With Code</title>
+      <link>http://localhost:1313/posts/progress-chef-automating-infrastructure-with-code/</link>
+      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/progress-chef-automating-infrastructure-with-code/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Airline Management System</title>
+      <link>http://localhost:1313/projects/airline-management-system/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/airline-management-system/</guid>
+      <description>Database management system for airline operations with booking and management features.</description>
+      
+    </item>
+    
+    <item>
+      <title>Terraform And Ansible</title>
+      <link>http://localhost:1313/posts/terraform-and-ansible/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/terraform-and-ansible/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ARM Embedded AI Lab on PC using Hypervisor</title>
+      <link>http://localhost:1313/projects/arm-embedded-ai-lab-on-pc-using-hypervisor/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/arm-embedded-ai-lab-on-pc-using-hypervisor/</guid>
+      <description>Simulated ARM64 systems on PC using hypervisor for embedded AI testing in drones, robotics, and aerospace without physical hardware.</description>
+      
+    </item>
+    
+    <item>
+      <title>Ssh Tunneling</title>
+      <link>http://localhost:1313/posts/ssh-tunneling/</link>
+      <pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/ssh-tunneling/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Super Store Management System</title>
+      <link>http://localhost:1313/projects/super-store-management-system/</link>
+      <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/super-store-management-system/</guid>
+      <description>Web-based store management system for inventory and sales tracking.</description>
+      
+    </item>
+    
+    <item>
+      <title>My Journey With Oracle Cloud Infrastructure Oci Foundations Associate 2025</title>
+      <link>http://localhost:1313/posts/my-journey-with-oracle-cloud-infrastructure-oci-foundations-associate-2025/</link>
+      <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/my-journey-with-oracle-cloud-infrastructure-oci-foundations-associate-2025/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Linear Algebra For Ai</title>
+      <link>http://localhost:1313/posts/linear-algebra-for-ai/</link>
+      <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/linear-algebra-for-ai/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

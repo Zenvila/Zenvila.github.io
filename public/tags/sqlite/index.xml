@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SQLite on Zenvila</title>
+    <link>http://localhost:1313/tags/sqlite/</link>
+    <description>Recent content in SQLite on Zenvila</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 Haris Shahzad</copyright>
+    <lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/sqlite/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Automated Timetable Management System</title>
+      <link>http://localhost:1313/projects/automated-timetable-management-system/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/automated-timetable-management-system/</guid>
+      <description>Web-based system to eliminate manual PDF searching for class or exam timetables with personalized access and admin management panel.</description>
+      
+    </item>
+    
+    <item>
+      <title>Expense Tracker</title>
+      <link>http://localhost:1313/projects/expense-tracker/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/expense-tracker/</guid>
+      <description>Web application for managing income and expenses with secure login, transaction tracking, and graphical data visualization.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

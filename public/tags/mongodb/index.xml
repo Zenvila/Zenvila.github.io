@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MongoDB on Zenvila</title>
+    <link>http://localhost:1313/tags/mongodb/</link>
+    <description>Recent content in MongoDB on Zenvila</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 Haris Shahzad</copyright>
+    <lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/mongodb/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ZenWallet – Dockerized MERN Stack Wallet Tracker</title>
+      <link>http://localhost:1313/projects/zenwallet---dockerized-mern-stack-wallet-tracker/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/zenwallet---dockerized-mern-stack-wallet-tracker/</guid>
+      <description>Full-stack wallet tracking application built with MERN stack and fully containerized with Docker Compose for multi-service orchestration.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

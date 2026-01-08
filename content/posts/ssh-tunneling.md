@@ -1,11 +1,15 @@
 ---
+
 title: "Ssh Tunneling"
 draft: false
 layout: "article"
 tags: ["Networking", "Technology", "System Administration"]
 date: 2023-11-16
-featuredImage: "https://source.unsplash.com/1600x900/?network,server"
+featureimage: "https://zenvila.github.io/images/posts/ssh-tunneling.jpeg"
+featuredImage: "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?auto=format&fit=crop&q=80&w=1600"
+
 ---
+
 # SSH Tunneling
 
 **New to SSH?** Check out my intro blog:

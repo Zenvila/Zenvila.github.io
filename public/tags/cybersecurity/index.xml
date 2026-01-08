@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cybersecurity on Zenvila</title>
+    <link>http://localhost:1313/tags/cybersecurity/</link>
+    <description>Recent content in Cybersecurity on Zenvila</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 Haris Shahzad</copyright>
+    <lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AI-Powered Web Vulnerability Scanner</title>
+      <link>http://localhost:1313/projects/ai-powered-web-vulnerability-scanner/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/ai-powered-web-vulnerability-scanner/</guid>
+      <description>AI-driven vulnerability scanner that automates penetration testing by generating fuzzing commands and using NLP to analyze terminal outputs.</description>
+      
+    </item>
+    
+    <item>
+      <title>Programming for Cyber Security</title>
+      <link>http://localhost:1313/projects/programming-for-cyber-security/</link>
+      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/programming-for-cyber-security/</guid>
+      <description>Developed four Python scripts for brute-force simulation, data scraping, IP extraction, and DNS port confirmation for cybersecurity analysis.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

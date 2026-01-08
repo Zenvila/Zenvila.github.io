@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Development on Zenvila</title>
+    <link>http://localhost:1313/tags/web-development/</link>
+    <description>Recent content in Web Development on Zenvila</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 Haris Shahzad</copyright>
+    <lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ZenChat – Fully Dockerized Flask Chat Application</title>
+      <link>http://localhost:1313/projects/zenchat---fully-dockerized-flask-chat-application/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/zenchat---fully-dockerized-flask-chat-application/</guid>
+      <description>Lightweight real-time chat application using Flask and SQLite3, fully containerized with Docker for portable deployment.</description>
+      
+    </item>
+    
+    <item>
+      <title>Automated Timetable Management System</title>
+      <link>http://localhost:1313/projects/automated-timetable-management-system/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/automated-timetable-management-system/</guid>
+      <description>Web-based system to eliminate manual PDF searching for class or exam timetables with personalized access and admin management panel.</description>
+      
+    </item>
+    
+    <item>
+      <title>Expense Tracker</title>
+      <link>http://localhost:1313/projects/expense-tracker/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/expense-tracker/</guid>
+      <description>Web application for managing income and expenses with secure login, transaction tracking, and graphical data visualization.</description>
+      
+    </item>
+    
+    <item>
+      <title>FAST Aggregate Calculator</title>
+      <link>http://localhost:1313/projects/fast-aggregate-calculator/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/fast-aggregate-calculator/</guid>
+      <description>Deployed aggregate calculator for FAST entry test scores during internship to help students compute their entry test scores.</description>
+      
+    </item>
+    
+    <item>
+      <title>Airline Management System</title>
+      <link>http://localhost:1313/projects/airline-management-system/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/airline-management-system/</guid>
+      <description>Database management system for airline operations with booking and management features.</description>
+      
+    </item>
+    
+    <item>
+      <title>Super Store Management System</title>
+      <link>http://localhost:1313/projects/super-store-management-system/</link>
+      <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/super-store-management-system/</guid>
+      <description>Web-based store management system for inventory and sales tracking.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

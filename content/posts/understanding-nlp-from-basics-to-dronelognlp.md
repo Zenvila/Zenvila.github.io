@@ -1,11 +1,15 @@
 ---
+
 title: "Understanding Nlp From Basics To Dronelognlp"
 draft: false
 layout: "article"
 tags: ["AI/ML", "Data Science", "Programming"]
 date: 2025-02-01
-featuredImage: "https://source.unsplash.com/1600x900/?ai,machine-learning"
+featureimage: "https://zenvila.github.io/images/posts/understanding-nlp-from-basics-to-dronelognlp.jpeg"
+featuredImage: "https://images.unsplash.com/photo-1555421689-3f034debb7a6?auto=format&fit=crop&q=80&w=1600"
+
 ---
+
 # Understanding NLP — From Basics to DroneLogNLP
 
 ## What is NLP (Natural Language Processing)?

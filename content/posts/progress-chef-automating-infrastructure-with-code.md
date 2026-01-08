@@ -1,11 +1,15 @@
 ---
+
 title: "Progress Chef Automating Infrastructure With Code"
 draft: false
 layout: "article"
 tags: ["CI/CD", "DevOps", "Security"]
 date: 2024-03-05
-featuredImage: "https://source.unsplash.com/1600x900/?cloud,infrastructure"
+featureimage: "https://zenvila.github.io/images/posts/progress-chef-automating-infrastructure-with-code.jpeg"
+featuredImage: "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?auto=format&fit=crop&q=80&w=1600"
+
 ---
+
 # Progress Chef – Automating Infrastructure with Code
 
  **Introduction to Progress Chef**

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FreePBX on Zenvila</title>
+    <link>http://localhost:1313/tags/freepbx/</link>
+    <description>Recent content in FreePBX on Zenvila</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 Haris Shahzad</copyright>
+    <lastBuildDate>Thu, 09 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/freepbx/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>VoIP (FreePBX&#43;Twilio&#43;Vapi)</title>
+      <link>http://localhost:1313/projects/voip-freepbx-twilio-vapi/</link>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/voip-freepbx-twilio-vapi/</guid>
+      <description>Designed and deployed a scalable Voice over IP (VoIP) telecommunication system bridging local infrastructure with the global telephone network (PSTN).</description>
+      
+    </item>
+    
+    <item>
+      <title>Cloud-Integrated Enterprise VoIP Infrastructure</title>
+      <link>http://localhost:1313/projects/voip-infrastructure/</link>
+      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/voip-infrastructure/</guid>
+      <description>Designed and deployed a scalable Voice over IP (VoIP) telecommunication system bridging local infrastructure with the global telephone network (PSTN).</description>
+      
+    </item>
+    
+  </channel>
+</rss>

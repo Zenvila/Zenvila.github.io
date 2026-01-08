@@ -1,11 +1,15 @@
 ---
+
 title: "The Hidden Control Loop Of Modern Software"
 draft: false
 layout: "article"
 tags: ["Security", "Python", "Architecture"]
 date: 2025-07-08
-featuredImage: "https://source.unsplash.com/1600x900/?tech,hardware"
+featureimage: "https://zenvila.github.io/images/posts/the-hidden-control-loop-of-modern-software.jpeg"
+featuredImage: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&q=80&w=1600"
+
 ---
+
 # The Hidden Control Loop of Modern Software
 
 ### Introduction

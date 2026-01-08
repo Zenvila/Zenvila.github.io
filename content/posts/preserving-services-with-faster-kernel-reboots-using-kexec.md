@@ -1,11 +1,15 @@
 ---
+
 title: "Preserving Services With Faster Kernel Reboots Using Kexec"
 draft: false
 layout: "article"
 tags: ["Security", "Linux", "Cloud"]
 date: 2024-08-28
-featuredImage: "https://source.unsplash.com/1600x900/?docker,container"
+featureimage: "https://zenvila.github.io/images/posts/preserving-services-with-faster-kernel-reboots-using-kexec.jpeg"
+featuredImage: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&q=80&w=1600"
+
 ---
+
 # Preserving Services with Faster Kernel Reboots Using Kexec
 
 # **Improving the Kexec Boot Time**

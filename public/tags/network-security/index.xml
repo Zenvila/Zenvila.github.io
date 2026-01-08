@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Network Security on Zenvila</title>
+    <link>http://localhost:1313/tags/network-security/</link>
+    <description>Recent content in Network Security on Zenvila</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 Haris Shahzad</copyright>
+    <lastBuildDate>Fri, 15 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/network-security/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Programming for Cyber Security</title>
+      <link>http://localhost:1313/projects/programming-for-cyber-security/</link>
+      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/programming-for-cyber-security/</guid>
+      <description>Developed four Python scripts for brute-force simulation, data scraping, IP extraction, and DNS port confirmation for cybersecurity analysis.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

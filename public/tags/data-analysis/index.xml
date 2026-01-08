@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Analysis on Zenvila</title>
+    <link>http://localhost:1313/tags/data-analysis/</link>
+    <description>Recent content in Data Analysis on Zenvila</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 Haris Shahzad</copyright>
+    <lastBuildDate>Tue, 15 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/data-analysis/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Smart Real Estate Investor</title>
+      <link>http://localhost:1313/projects/smart-real-estate-investor/</link>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/smart-real-estate-investor/</guid>
+      <description>Data-driven real estate investment analysis platform that scrapes property data and implements predictive models for ROI and investment risk assessment.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

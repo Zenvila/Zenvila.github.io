@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ARM on Zenvila</title>
+    <link>http://localhost:1313/tags/arm/</link>
+    <description>Recent content in ARM on Zenvila</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 Haris Shahzad</copyright>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/arm/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ARM Embedded AI Lab on PC using Hypervisor</title>
+      <link>http://localhost:1313/projects/arm-embedded-ai-lab-on-pc-using-hypervisor/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/arm-embedded-ai-lab-on-pc-using-hypervisor/</guid>
+      <description>Simulated ARM64 systems on PC using hypervisor for embedded AI testing in drones, robotics, and aerospace without physical hardware.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

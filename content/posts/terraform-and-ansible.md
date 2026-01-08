@@ -1,11 +1,15 @@
 ---
+
 title: "Terraform And Ansible"
 draft: false
 layout: "article"
 tags: ["DevOps", "Technology", "Containers"]
 date: 2024-01-15
-featuredImage: "https://source.unsplash.com/1600x900/?cloud,infrastructure"
+featureimage: "https://zenvila.github.io/images/posts/terraform-and-ansible.jpeg"
+featuredImage: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&q=80&w=1600"
+
 ---
+
 # Terraform and Ansible
 
 ## Infrastructure Provisioning and Configuration (Local System Setup)

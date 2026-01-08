@@ -1,11 +1,15 @@
 ---
+
 title: "Kubernetes Multi Node Real World Workflows"
 draft: false
 layout: "article"
 tags: ["Kubernetes", "DevOps", "Containers"]
 date: 2025-03-24
-featuredImage: "https://source.unsplash.com/1600x900/?docker,container"
+featureimage: "https://zenvila.github.io/images/posts/kubernetes-multi-node-real-world-workflows.jpeg"
+featuredImage: "https://images.unsplash.com/photo-1667372393119-c85c020799a3?auto=format&fit=crop&q=80&w=1600"
+
 ---
+
 # Kubernetes (Multi-node + Real-World Workflows)
 
 ## Kubernetes (Multi-node + Real-World Workflows)

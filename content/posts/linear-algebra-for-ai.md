@@ -1,11 +1,15 @@
 ---
+
 title: "Linear Algebra For Ai"
 draft: false
 layout: "article"
 tags: ["AI/ML", "Data Science", "Programming"]
 date: 2023-09-08
-featuredImage: "https://source.unsplash.com/1600x900/?ai,machine-learning"
+featureimage: "https://zenvila.github.io/images/posts/linear-algebra-for-ai.jpeg"
+featuredImage: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?auto=format&fit=crop&q=80&w=1600"
+
 ---
+
 # Linear Algebra for AI
 
 ### What Does Math Have to Do with Machine Learning?

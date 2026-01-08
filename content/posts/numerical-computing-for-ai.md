@@ -1,11 +1,15 @@
 ---
+
 title: "Numerical Computing For Ai"
 draft: false
 layout: "article"
 tags: ["AI/ML", "Data Science", "Programming"]
 date: 2024-10-18
-featuredImage: "https://source.unsplash.com/1600x900/?ai,machine-learning"
+featureimage: "https://zenvila.github.io/images/posts/numerical-computing-for-ai.jpeg"
+featuredImage: "https://images.unsplash.com/photo-1509228468518-180dd4864904?auto=format&fit=crop&q=80&w=1600"
+
 ---
+
 # Numerical Computing for AI
 
 ## Introduction

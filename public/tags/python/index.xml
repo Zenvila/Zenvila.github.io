@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Zenvila</title>
+    <link>http://localhost:1313/tags/python/</link>
+    <description>Recent content in Python on Zenvila</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 Haris Shahzad</copyright>
+    <lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>DroneLogNLP: Real Time Semantic Analysis of Drone Logs</title>
+      <link>http://localhost:1313/projects/dronelognlp-real-time-semantic-analysis-of-drone-logs/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/dronelognlp-real-time-semantic-analysis-of-drone-logs/</guid>
+      <description>Transforms raw drone logs into semantic embeddings using Sentence Transformers for meaning-based search and analysis.</description>
+      
+    </item>
+    
+    <item>
+      <title>AI-Powered Web Vulnerability Scanner</title>
+      <link>http://localhost:1313/projects/ai-powered-web-vulnerability-scanner/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/ai-powered-web-vulnerability-scanner/</guid>
+      <description>AI-driven vulnerability scanner that automates penetration testing by generating fuzzing commands and using NLP to analyze terminal outputs.</description>
+      
+    </item>
+    
+    <item>
+      <title>Smart Real Estate Investor</title>
+      <link>http://localhost:1313/projects/smart-real-estate-investor/</link>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/smart-real-estate-investor/</guid>
+      <description>Data-driven real estate investment analysis platform that scrapes property data and implements predictive models for ROI and investment risk assessment.</description>
+      
+    </item>
+    
+    <item>
+      <title>The Hidden Control Loop Of Modern Software</title>
+      <link>http://localhost:1313/posts/the-hidden-control-loop-of-modern-software/</link>
+      <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/the-hidden-control-loop-of-modern-software/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ViD-LLM Powered Visual Question Answering System</title>
+      <link>http://localhost:1313/projects/vid-llm-powered-visual-question-answering-system/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/vid-llm-powered-visual-question-answering-system/</guid>
+      <description>Local Visual Question Answering system using Salesforce/blip-vqa-base model deployed on CPU with Gradio interface for real-time multimodal reasoning.</description>
+      
+    </item>
+    
+    <item>
+      <title>ZenChat – Fully Dockerized Flask Chat Application</title>
+      <link>http://localhost:1313/projects/zenchat---fully-dockerized-flask-chat-application/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/zenchat---fully-dockerized-flask-chat-application/</guid>
+      <description>Lightweight real-time chat application using Flask and SQLite3, fully containerized with Docker for portable deployment.</description>
+      
+    </item>
+    
+    <item>
+      <title>Automated Timetable Management System</title>
+      <link>http://localhost:1313/projects/automated-timetable-management-system/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/automated-timetable-management-system/</guid>
+      <description>Web-based system to eliminate manual PDF searching for class or exam timetables with personalized access and admin management panel.</description>
+      
+    </item>
+    
+    <item>
+      <title>Expense Tracker</title>
+      <link>http://localhost:1313/projects/expense-tracker/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/expense-tracker/</guid>
+      <description>Web application for managing income and expenses with secure login, transaction tracking, and graphical data visualization.</description>
+      
+    </item>
+    
+    <item>
+      <title>LLM Voice Assistant</title>
+      <link>http://localhost:1313/projects/llm-voice-assistant/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/llm-voice-assistant/</guid>
+      <description>LLM-powered voice assistant with object recognition using webcam, integrating OpenAI API and Google API for real-time analysis.</description>
+      
+    </item>
+    
+    <item>
+      <title>Programming for Cyber Security</title>
+      <link>http://localhost:1313/projects/programming-for-cyber-security/</link>
+      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/programming-for-cyber-security/</guid>
+      <description>Developed four Python scripts for brute-force simulation, data scraping, IP extraction, and DNS port confirmation for cybersecurity analysis.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

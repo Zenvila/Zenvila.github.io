@@ -1,11 +1,15 @@
 ---
+
 title: "My Journey With Oracle Cloud Infrastructure Oci Foundations Associate 2025"
 draft: false
 layout: "article"
 tags: ["Cloud", "Technology", "Data Science"]
 date: 2023-09-27
-featuredImage: "https://source.unsplash.com/1600x900/?cloud,infrastructure"
+featureimage: "https://zenvila.github.io/images/posts/my-journey-with-oracle-cloud-infrastructure-oci-foundations-associate-2025.jpeg"
+featuredImage: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&q=80&w=1600"
+
 ---
+
 # My Journey with Oracle Cloud Infrastructure (OCI) Foundations Associate 2025
 
 Recently, I completed the **Oracle Cloud Infrastructure (OCI) 2025 Foundations Associate (1Z0-1085-25)** certification — a beginner-level course designed to help learners understand the fundamentals of Oracle Cloud and how it supports modern digital transformation.

@@ -1,11 +1,15 @@
 ---
+
 title: "Cryptography"
 draft: false
 layout: "article"
 tags: ["Security", "Technology", "Data Science"]
 date: 2025-10-31
-featuredImage: "https://source.unsplash.com/1600x900/?network,security"
+featureimage: "https://zenvila.github.io/images/posts/cryptography.jpeg"
+featuredImage: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&q=80&w=1600"
+
 ---
+
 # Cryptography
 
 Cryptography is the science of securing information by converting it into unreadable formats for unauthorized users while ensuring it can still be read by those with the correct decryption keys. Two significant components in modern cryptographic systems are OpenSSL and RSA, both widely used for securing data transmissions, especially over the internet.

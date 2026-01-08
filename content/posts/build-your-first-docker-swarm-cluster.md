@@ -1,11 +1,15 @@
 ---
+
 title: "Build Your First Docker Swarm Cluster"
 draft: false
 layout: "article"
 tags: ["Docker", "Containers", "DevOps"]
 date: 2025-09-06
-featuredImage: "https://source.unsplash.com/1600x900/?docker,container"
+featureimage: "https://zenvila.github.io/images/posts/build-your-first-docker-swarm-cluster.jpeg"
+featuredImage: "https://images.unsplash.com/photo-1524235338165-c276b42b9472?auto=format&fit=crop&q=80&w=1600"
+
 ---
+
 # Build Your First Docker Swarm Cluster
 
 If you're new to Docker and eager to dive into container orchestration, you've come to the right place. Before jumping into Docker Swarm, it’s essential to first understand **what Docker is** and **how Docker Compose works**. These foundational tools will help you grasp the power of Docker Swarm more effectively.

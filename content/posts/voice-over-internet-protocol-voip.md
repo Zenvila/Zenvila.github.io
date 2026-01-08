@@ -1,11 +1,15 @@
 ---
+
 title: "Voice Over Internet Protocol Voip"
 draft: false
 layout: "article"
 tags: ["Networking", "Technology", "System Administration"]
 date: 2025-03-03
-featuredImage: "https://source.unsplash.com/1600x900/?network,security"
+featureimage: "https://zenvila.github.io/images/posts/voice-over-internet-protocol-voip.jpeg"
+featuredImage: "https://images.unsplash.com/photo-1544197150-b99a580bbcbf?auto=format&fit=crop&q=80&w=1600"
+
 ---
+
 # Voice over Internet Protocol (VOIP)
 
 ### Voice over Internet Protocol (VOIP)

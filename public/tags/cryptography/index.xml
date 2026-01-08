@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cryptography on Zenvila</title>
+    <link>http://localhost:1313/tags/cryptography/</link>
+    <description>Recent content in Cryptography on Zenvila</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 Haris Shahzad</copyright>
+    <lastBuildDate>Tue, 15 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/cryptography/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Cryptography with RSA and OpenSSL</title>
+      <link>http://localhost:1313/projects/cryptography-with-rsa-and-openssl/</link>
+      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/cryptography-with-rsa-and-openssl/</guid>
+      <description>Configured virtual environment with Ubuntu, Kali Linux, and Windows. Generated RSA key pairs, performed encryption/decryption, and set up Certificate Authority (CA).</description>
+      
+    </item>
+    
+  </channel>
+</rss>

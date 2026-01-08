@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on Zenvila</title>
+    <link>http://localhost:1313/tags/linux/</link>
+    <description>Recent content in Linux on Zenvila</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 Haris Shahzad</copyright>
+    <lastBuildDate>Sun, 23 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Step By Step Arch Linux Installation And Post Setup 1  Deleted</title>
+      <link>http://localhost:1313/posts/step-by-step-arch-linux-installation-and-post-setup-1--deleted/</link>
+      <pubDate>Sun, 23 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/step-by-step-arch-linux-installation-and-post-setup-1--deleted/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Understanding Criu</title>
+      <link>http://localhost:1313/posts/understanding-criu/</link>
+      <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/understanding-criu/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>System Monitoring</title>
+      <link>http://localhost:1313/posts/system-monitoring/</link>
+      <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/system-monitoring/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Multi-Node Kubernetes Cluster Using Kind</title>
+      <link>http://localhost:1313/projects/multi-node-kubernetes-cluster-using-kind/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/multi-node-kubernetes-cluster-using-kind/</guid>
+      <description>Set up and configured a multi-node Kubernetes cluster using Kind with Deployments, Services, Ingress, ConfigMaps, Secrets, and Helm charts.</description>
+      
+    </item>
+    
+    <item>
+      <title>Running Arm Raspberry Pi On Your Pc Without Hardware</title>
+      <link>http://localhost:1313/posts/running-arm-raspberry-pi-on-your-pc-without-hardware/</link>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/running-arm-raspberry-pi-on-your-pc-without-hardware/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Ubuntu Server Cloud Secure Automated And Monitored</title>
+      <link>http://localhost:1313/posts/ubuntu-server-cloud-secure-automated-and-monitored/</link>
+      <pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/ubuntu-server-cloud-secure-automated-and-monitored/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Docker Swarm Cluster Deployment on Multi-Node Architecture</title>
+      <link>http://localhost:1313/projects/docker-swarm-cluster-deployment-on-multi-node-architecture/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/docker-swarm-cluster-deployment-on-multi-node-architecture/</guid>
+      <description>Built Docker Swarm cluster using two physical machines running Arch Linux with manager and worker nodes for container orchestration.</description>
+      
+    </item>
+    
+    <item>
+      <title>Custom Cloud Deployment</title>
+      <link>http://localhost:1313/projects/custom-cloud-deployment/</link>
+      <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/custom-cloud-deployment/</guid>
+      <description>Built fully functional, self-hosted cloud environment powered by Ubuntu Server 22.04 LTS with Monit for real-time monitoring and alerts.</description>
+      
+    </item>
+    
+    <item>
+      <title>Step By Step Arch Linux Installation And Post Setup</title>
+      <link>http://localhost:1313/posts/step-by-step-arch-linux-installation-and-post-setup/</link>
+      <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/step-by-step-arch-linux-installation-and-post-setup/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>VoIP (FreePBX&#43;Twilio&#43;Vapi)</title>
+      <link>http://localhost:1313/projects/voip-freepbx-twilio-vapi/</link>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/voip-freepbx-twilio-vapi/</guid>
+      <description>Designed and deployed a scalable Voice over IP (VoIP) telecommunication system bridging local infrastructure with the global telephone network (PSTN).</description>
+      
+    </item>
+    
+    <item>
+      <title>Cloud-Integrated Enterprise VoIP Infrastructure</title>
+      <link>http://localhost:1313/projects/voip-infrastructure/</link>
+      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/voip-infrastructure/</guid>
+      <description>Designed and deployed a scalable Voice over IP (VoIP) telecommunication system bridging local infrastructure with the global telephone network (PSTN).</description>
+      
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>http://localhost:1313/posts/hello-world/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Monit Deployment</title>
+      <link>http://localhost:1313/projects/monit-deployment/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/monit-deployment/</guid>
+      <description>Implemented Monit for server monitoring and automation of error detection with fine-tuned alert mechanisms for system stability.</description>
+      
+    </item>
+    
+    <item>
+      <title>Cryptography with RSA and OpenSSL</title>
+      <link>http://localhost:1313/projects/cryptography-with-rsa-and-openssl/</link>
+      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/cryptography-with-rsa-and-openssl/</guid>
+      <description>Configured virtual environment with Ubuntu, Kali Linux, and Windows. Generated RSA key pairs, performed encryption/decryption, and set up Certificate Authority (CA).</description>
+      
+    </item>
+    
+    <item>
+      <title>Mysteries Of Computer Architecture</title>
+      <link>http://localhost:1313/posts/mysteries-of-computer-architecture/</link>
+      <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/mysteries-of-computer-architecture/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Preserving Services With Faster Kernel Reboots Using Kexec</title>
+      <link>http://localhost:1313/posts/preserving-services-with-faster-kernel-reboots-using-kexec/</link>
+      <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/preserving-services-with-faster-kernel-reboots-using-kexec/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Rsync</title>
+      <link>http://localhost:1313/posts/rsync/</link>
+      <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/rsync/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

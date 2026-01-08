@@ -1,11 +1,15 @@
 ---
+
 title: "Machine Learning And Its Tools"
 draft: false
 layout: "article"
 tags: ["AI/ML", "Data Science", "Programming"]
 date: 2025-07-30
-featuredImage: "https://source.unsplash.com/1600x900/?ai,machine-learning"
+featureimage: "https://zenvila.github.io/images/posts/machine-learning-and-its-tools.jpeg"
+featuredImage: "https://images.unsplash.com/photo-1527474305487-b87b222841cc?auto=format&fit=crop&q=80&w=1600"
+
 ---
+
 # Machine Learning and Its Tools
 
 ## What is AI?

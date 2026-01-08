@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science on Zenvila</title>
+    <link>http://localhost:1313/tags/data-science/</link>
+    <description>Recent content in Data Science on Zenvila</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 Haris Shahzad</copyright>
+    <lastBuildDate>Mon, 08 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Unit Testing In Python</title>
+      <link>http://localhost:1313/posts/unit-testing-in-python/</link>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/unit-testing-in-python/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Cryptography</title>
+      <link>http://localhost:1313/posts/cryptography/</link>
+      <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/cryptography/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Machine Learning And Its Tools</title>
+      <link>http://localhost:1313/posts/machine-learning-and-its-tools/</link>
+      <pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/machine-learning-and-its-tools/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Understanding Nlp From Basics To Dronelognlp</title>
+      <link>http://localhost:1313/posts/understanding-nlp-from-basics-to-dronelognlp/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/understanding-nlp-from-basics-to-dronelognlp/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Probability And Statistics For Ai</title>
+      <link>http://localhost:1313/posts/probability-and-statistics-for-ai/</link>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/probability-and-statistics-for-ai/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Numerical Computing For Ai</title>
+      <link>http://localhost:1313/posts/numerical-computing-for-ai/</link>
+      <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/numerical-computing-for-ai/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Mysteries Of Computer Architecture</title>
+      <link>http://localhost:1313/posts/mysteries-of-computer-architecture/</link>
+      <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/mysteries-of-computer-architecture/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Risc Vs Cisc Which Powers Your Devices</title>
+      <link>http://localhost:1313/posts/risc-vs-cisc-which-powers-your-devices/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/risc-vs-cisc-which-powers-your-devices/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>My Journey With Oracle Cloud Infrastructure Oci Foundations Associate 2025</title>
+      <link>http://localhost:1313/posts/my-journey-with-oracle-cloud-infrastructure-oci-foundations-associate-2025/</link>
+      <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/my-journey-with-oracle-cloud-infrastructure-oci-foundations-associate-2025/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Linear Algebra For Ai</title>
+      <link>http://localhost:1313/posts/linear-algebra-for-ai/</link>
+      <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/linear-algebra-for-ai/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

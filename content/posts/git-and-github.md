@@ -1,11 +1,15 @@
 ---
+
 title: "Git And Github"
 draft: false
 layout: "article"
 tags: ["Git", "Technology", "System Administration"]
 date: 2025-05-31
-featuredImage: "https://source.unsplash.com/1600x900/?tech,coding"
+featureimage: "https://zenvila.github.io/images/posts/git-and-github.jpeg"
+featuredImage: "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?auto=format&fit=crop&q=80&w=1600"
+
 ---
+
 # Git and GitHub
 
 **Introduction:** 

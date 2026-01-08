@@ -1,11 +1,15 @@
 ---
+
 title: "Mysteries Of Computer Architecture"
 draft: false
 layout: "article"
 tags: ["Linux", "System Administration", "Data Science"]
 date: 2024-09-19
-featuredImage: "https://source.unsplash.com/1600x900/?tech,hardware"
+featureimage: "https://zenvila.github.io/images/posts/mysteries-of-computer-architecture.jpeg"
+featuredImage: "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&q=80&w=1600"
+
 ---
+
 # Mysteries of Computer Architecture
 
                             **Computer Architecture and Organization**

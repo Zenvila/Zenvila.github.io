@@ -1,11 +1,15 @@
 ---
+
 title: "Http11 Vs Http2 Vs Http3"
 draft: false
 layout: "article"
 tags: ["Networking", "Technology", "System Administration"]
 date: 2024-10-24
-featuredImage: "https://source.unsplash.com/1600x900/?network,security"
+featureimage: "https://zenvila.github.io/images/posts/http11-vs-http2-vs-http3.jpeg"
+featuredImage: "https://images.unsplash.com/photo-1558494949-efdeb6bf80d1?auto=format&fit=crop&q=80&w=1600"
+
 ---
+
 # HTTP/1.1 vs. HTTP/2 vs. HTTP/3
 
 A Comprehensive Comparison  Web protocols have evolved significantly over the years, and the three most commonly used versions today are **HTTP/1.1**, **HTTP/2**, and **HTTP/3**. These protocols govern how data is transmitted over the web, and each version brings improvements to speed, security, and reliability.

@@ -1,11 +1,15 @@
 ---
+
 title: "The Building Blocks Of Modern Computing"
 draft: false
 layout: "article"
 tags: ["Networking", "Cloud", "Architecture"]
 date: 2025-04-11
-featuredImage: "https://source.unsplash.com/1600x900/?tech,hardware"
+featureimage: "https://zenvila.github.io/images/posts/the-building-blocks-of-modern-computing.jpeg"
+featuredImage: "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&q=80&w=1600"
+
 ---
+
 # The Building Blocks of Modern Computing
 
 ### What is a Thread?

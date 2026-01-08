@@ -1,11 +1,15 @@
 ---
+
 title: "Puppet Automating Infrastructure Configuration"
 draft: false
 layout: "article"
 tags: ["Docker", "DevOps", "Containers"]
 date: 2024-11-17
-featuredImage: "https://source.unsplash.com/1600x900/?cloud,infrastructure"
+featureimage: "https://zenvila.github.io/images/posts/puppet-automating-infrastructure-configuration.jpeg"
+featuredImage: "https://images.unsplash.com/photo-1516110833967-0b5716ca1387?auto=format&fit=crop&q=80&w=1600"
+
 ---
+
 # Puppet – Automating Infrastructure Configuration
 
 ### What is Puppet?

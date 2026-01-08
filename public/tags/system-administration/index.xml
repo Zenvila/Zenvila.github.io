@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>System Administration on Zenvila</title>
+    <link>http://localhost:1313/tags/system-administration/</link>
+    <description>Recent content in System Administration on Zenvila</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 Haris Shahzad</copyright>
+    <lastBuildDate>Sun, 23 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/system-administration/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Step By Step Arch Linux Installation And Post Setup 1  Deleted</title>
+      <link>http://localhost:1313/posts/step-by-step-arch-linux-installation-and-post-setup-1--deleted/</link>
+      <pubDate>Sun, 23 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/step-by-step-arch-linux-installation-and-post-setup-1--deleted/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>System Monitoring</title>
+      <link>http://localhost:1313/posts/system-monitoring/</link>
+      <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/system-monitoring/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sshsecure Shell</title>
+      <link>http://localhost:1313/posts/sshsecure-shell/</link>
+      <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/sshsecure-shell/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Git And Github</title>
+      <link>http://localhost:1313/posts/git-and-github/</link>
+      <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/git-and-github/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Ubuntu Server Cloud Secure Automated And Monitored</title>
+      <link>http://localhost:1313/posts/ubuntu-server-cloud-secure-automated-and-monitored/</link>
+      <pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/ubuntu-server-cloud-secure-automated-and-monitored/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Preserving Services with Faster Kernel Reboots Using Kexec</title>
+      <link>http://localhost:1313/projects/preserving-services-with-faster-kernel-reboots-using-kexec/</link>
+      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/preserving-services-with-faster-kernel-reboots-using-kexec/</guid>
+      <description>Updated kernel without rebooting using Kexec for seamless kernel switching and Live Kernel Patching for dynamic bug fixes, reducing boot times by 50%.</description>
+      
+    </item>
+    
+    <item>
+      <title>Voice Over Internet Protocol Voip</title>
+      <link>http://localhost:1313/posts/voice-over-internet-protocol-voip/</link>
+      <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/voice-over-internet-protocol-voip/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Step By Step Arch Linux Installation And Post Setup</title>
+      <link>http://localhost:1313/posts/step-by-step-arch-linux-installation-and-post-setup/</link>
+      <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/step-by-step-arch-linux-installation-and-post-setup/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Monit Deployment</title>
+      <link>http://localhost:1313/projects/monit-deployment/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/monit-deployment/</guid>
+      <description>Implemented Monit for server monitoring and automation of error detection with fine-tuned alert mechanisms for system stability.</description>
+      
+    </item>
+    
+    <item>
+      <title>Probability And Statistics For Ai</title>
+      <link>http://localhost:1313/posts/probability-and-statistics-for-ai/</link>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/probability-and-statistics-for-ai/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Http11 Vs Http2 Vs Http3</title>
+      <link>http://localhost:1313/posts/http11-vs-http2-vs-http3/</link>
+      <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/http11-vs-http2-vs-http3/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Mysteries Of Computer Architecture</title>
+      <link>http://localhost:1313/posts/mysteries-of-computer-architecture/</link>
+      <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/mysteries-of-computer-architecture/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>A Secure And Configurable Ftp Server Explained</title>
+      <link>http://localhost:1313/posts/a-secure-and-configurable-ftp-server-explained/</link>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/a-secure-and-configurable-ftp-server-explained/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Ssh Tunneling</title>
+      <link>http://localhost:1313/posts/ssh-tunneling/</link>
+      <pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/ssh-tunneling/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

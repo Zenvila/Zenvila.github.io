@@ -1,11 +1,15 @@
 ---
+
 title: "Running Arm Raspberry Pi On Your Pc Without Hardware"
 draft: false
 layout: "article"
 tags: ["Networking", "Linux", "Architecture"]
 date: 2025-04-24
-featuredImage: "https://source.unsplash.com/1600x900/?linux,hardware"
+featureimage: "https://zenvila.github.io/images/posts/running-arm-raspberry-pi-on-your-pc-without-hardware.jpeg"
+featuredImage: "https://images.unsplash.com/photo-1551808525-51a94da548ce?auto=format&fit=crop&q=80&w=1600"
+
 ---
+
 # Running ARM (Raspberry Pi) on Your PC Without Hardware
 
 ## Why This Matters

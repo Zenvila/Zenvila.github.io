@@ -1,11 +1,15 @@
 ---
+
 title: "Risc Vs Cisc Which Powers Your Devices"
 draft: false
 layout: "article"
 tags: ["Architecture", "Technology", "Data Science"]
 date: 2024-07-01
-featuredImage: "https://source.unsplash.com/1600x900/?network,server"
+featureimage: "https://zenvila.github.io/images/posts/risc-vs-cisc-which-powers-your-devices.jpeg"
+featuredImage: "https://images.unsplash.com/photo-1591405351990-4726e331f141?auto=format&fit=crop&q=80&w=1600"
+
 ---
+
 # RISC vs. CISC: Which Powers Your Devices?
 
 ### **RISC vs. CISC: Understanding the Core of Computer Architecture**

@@ -1,11 +1,15 @@
 ---
+
 title: "Cicd Github Actions"
 draft: false
 layout: "article"
 tags: ["CI/CD", "Technology", "Containers"]
 date: 2025-12-20
-featuredImage: "https://source.unsplash.com/1600x900/?cloud,infrastructure"
+featureimage: "https://zenvila.github.io/images/posts/cicd-github-actions.jpeg"
+featuredImage: "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?auto=format&fit=crop&q=80&w=1600"
+
 ---
+
 # CI/CD (Github ACtions)
 
 # Understanding GitHub Actions with CI/CD (Ubuntu + Docker)

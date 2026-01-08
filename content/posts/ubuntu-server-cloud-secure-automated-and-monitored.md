@@ -1,11 +1,15 @@
 ---
+
 title: "Ubuntu Server Cloud Secure Automated And Monitored"
 draft: false
 layout: "article"
 tags: ["Linux", "System Administration", "Open Source"]
 date: 2025-04-08
-featuredImage: "https://source.unsplash.com/1600x900/?network,server"
+featureimage: "https://zenvila.github.io/images/posts/ubuntu-server-cloud-secure-automated-and-monitored.jpeg"
+featuredImage: "https://images.unsplash.com/photo-1558494949-efdeb6bf80d1?auto=format&fit=crop&q=80&w=1600"
+
 ---
+
 # Ubuntu Server Cloud: Secure, Automated, and Monitored
 
 # **Setting Up a Cloud on Ubuntu Server**

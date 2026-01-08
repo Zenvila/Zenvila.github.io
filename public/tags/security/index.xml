@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Security on Zenvila</title>
+    <link>http://localhost:1313/tags/security/</link>
+    <description>Recent content in Security on Zenvila</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 Haris Shahzad</copyright>
+    <lastBuildDate>Fri, 31 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Cryptography</title>
+      <link>http://localhost:1313/posts/cryptography/</link>
+      <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/cryptography/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>The Hidden Control Loop Of Modern Software</title>
+      <link>http://localhost:1313/posts/the-hidden-control-loop-of-modern-software/</link>
+      <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/the-hidden-control-loop-of-modern-software/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Cryptography with RSA and OpenSSL</title>
+      <link>http://localhost:1313/projects/cryptography-with-rsa-and-openssl/</link>
+      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/cryptography-with-rsa-and-openssl/</guid>
+      <description>Configured virtual environment with Ubuntu, Kali Linux, and Windows. Generated RSA key pairs, performed encryption/decryption, and set up Certificate Authority (CA).</description>
+      
+    </item>
+    
+    <item>
+      <title>Preserving Services With Faster Kernel Reboots Using Kexec</title>
+      <link>http://localhost:1313/posts/preserving-services-with-faster-kernel-reboots-using-kexec/</link>
+      <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/preserving-services-with-faster-kernel-reboots-using-kexec/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Rsync</title>
+      <link>http://localhost:1313/posts/rsync/</link>
+      <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/rsync/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Progress Chef Automating Infrastructure With Code</title>
+      <link>http://localhost:1313/posts/progress-chef-automating-infrastructure-with-code/</link>
+      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/progress-chef-automating-infrastructure-with-code/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

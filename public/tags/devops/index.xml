@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DevOps on Zenvila</title>
+    <link>http://localhost:1313/tags/devops/</link>
+    <description>Recent content in DevOps on Zenvila</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 Haris Shahzad</copyright>
+    <lastBuildDate>Tue, 04 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/devops/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Introduction To Docker</title>
+      <link>http://localhost:1313/posts/introduction-to-docker/</link>
+      <pubDate>Tue, 04 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/introduction-to-docker/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Build Your First Docker Swarm Cluster</title>
+      <link>http://localhost:1313/posts/build-your-first-docker-swarm-cluster/</link>
+      <pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/build-your-first-docker-swarm-cluster/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>CI/CD Pipeline with GitHub Actions and Docker</title>
+      <link>http://localhost:1313/projects/ci-cd-pipeline-with-github-actions-and-docker/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/ci-cd-pipeline-with-github-actions-and-docker/</guid>
+      <description>Complete CI/CD pipeline using GitHub Actions, Docker, and Ubuntu runners with automated testing and containerized deployment.</description>
+      
+    </item>
+    
+    <item>
+      <title>Infrastructure Automation with Terraform and Ansible</title>
+      <link>http://localhost:1313/projects/infrastructure-automation-with-terraform-and-ansible/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/infrastructure-automation-with-terraform-and-ansible/</guid>
+      <description>Provisioned Docker-based Ubuntu environment using Terraform and configured Apache web server with Ansible for end-to-end infrastructure automation.</description>
+      
+    </item>
+    
+    <item>
+      <title>Multi-Node Kubernetes Cluster Using Kind</title>
+      <link>http://localhost:1313/projects/multi-node-kubernetes-cluster-using-kind/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/multi-node-kubernetes-cluster-using-kind/</guid>
+      <description>Set up and configured a multi-node Kubernetes cluster using Kind with Deployments, Services, Ingress, ConfigMaps, Secrets, and Helm charts.</description>
+      
+    </item>
+    
+    <item>
+      <title>Kubernetes Multi Node Real World Workflows</title>
+      <link>http://localhost:1313/posts/kubernetes-multi-node-real-world-workflows/</link>
+      <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/kubernetes-multi-node-real-world-workflows/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Docker Evolution In The Ai Era</title>
+      <link>http://localhost:1313/posts/docker-evolution-in-the-ai-era/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/docker-evolution-in-the-ai-era/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Puppet Automating Infrastructure Configuration</title>
+      <link>http://localhost:1313/posts/puppet-automating-infrastructure-configuration/</link>
+      <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/puppet-automating-infrastructure-configuration/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Kubernetes Using Minikube On Arch Linux</title>
+      <link>http://localhost:1313/posts/kubernetes-using-minikube-on-arch-linux/</link>
+      <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/kubernetes-using-minikube-on-arch-linux/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Progress Chef Automating Infrastructure With Code</title>
+      <link>http://localhost:1313/posts/progress-chef-automating-infrastructure-with-code/</link>
+      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/progress-chef-automating-infrastructure-with-code/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Terraform And Ansible</title>
+      <link>http://localhost:1313/posts/terraform-and-ansible/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/terraform-and-ansible/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

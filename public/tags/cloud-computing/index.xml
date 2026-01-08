@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloud Computing on Zenvila</title>
+    <link>http://localhost:1313/tags/cloud-computing/</link>
+    <description>Recent content in Cloud Computing on Zenvila</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 Haris Shahzad</copyright>
+    <lastBuildDate>Sat, 15 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/cloud-computing/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Custom Cloud Deployment</title>
+      <link>http://localhost:1313/projects/custom-cloud-deployment/</link>
+      <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/custom-cloud-deployment/</guid>
+      <description>Built fully functional, self-hosted cloud environment powered by Ubuntu Server 22.04 LTS with Monit for real-time monitoring and alerts.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

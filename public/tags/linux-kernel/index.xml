@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux Kernel on Zenvila</title>
+    <link>http://localhost:1313/tags/linux-kernel/</link>
+    <description>Recent content in Linux Kernel on Zenvila</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 Haris Shahzad</copyright>
+    <lastBuildDate>Sat, 15 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/linux-kernel/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Preserving Services with Faster Kernel Reboots Using Kexec</title>
+      <link>http://localhost:1313/projects/preserving-services-with-faster-kernel-reboots-using-kexec/</link>
+      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/preserving-services-with-faster-kernel-reboots-using-kexec/</guid>
+      <description>Updated kernel without rebooting using Kexec for seamless kernel switching and Live Kernel Patching for dynamic bug fixes, reducing boot times by 50%.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
