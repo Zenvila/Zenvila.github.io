@@ -2,7 +2,7 @@
 title: "Airline Management System"
 summary: "Database management system for airline operations with booking and management features."
 date: 2024-03-01
-featureimage: "/images/projects/airline-management-system.jpeg"
+featureimage: "images/projects/airline-management-system.jpeg"
 draft: false
 tags: ['Database', 'Web Development']
 externalUrl: ""
