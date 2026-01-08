@@ -111,10 +111,23 @@
             {{ end }}
             {{ if $authorImage }}
               <div class="flex-shrink-0">
-                {{ if (or (strings.HasPrefix . "http:") (strings.HasPrefix . "https:")) (and site.Params.hotlinkFeatureImage (strings.HasPrefix . "http")) }}
+                {{ $isURL := or (strings.HasPrefix . "http:") (strings.HasPrefix . "https:") }}
+                {{ $isHotlink := and $isURL site.Params.hotlinkFeatureImage }}
+                {{ if $isHotlink }}
                   <img
                     class="h-32 w-32 md:h-40 md:w-40 rounded-full border-4 border-cyan-400/30 shadow-lg"
                     src="{{ $authorImage }}"
+                    alt="{{ $.Site.Params.Author.name | default `Author` }}"
+                    width="160"
+                    height="160">
+                {{ else if $isURL }}
+                  {{ $final := $authorImage }}
+                  {{ if not (or $disableImageOptimization (eq $authorImage.MediaType.SubType "svg")) }}
+                    {{ $final = $authorImage.Fill "320x320 q96" }}
+                  {{ end }}
+                  <img
+                    class="h-32 w-32 md:h-40 md:w-40 rounded-full border-4 border-cyan-400/30 shadow-lg"
+                    src="{{ $final.RelPermalink }}"
                     alt="{{ $.Site.Params.Author.name | default `Author` }}"
                     width="160"
                     height="160">
