@@ -8,6 +8,7 @@ featuredImage: "https://source.unsplash.com/1600x900/?network,server"
 ---
 
 
+
 # Ubuntu Server Cloud: Secure, Automated, and Monitored
 
 # **Setting Up a Cloud on Ubuntu Server**

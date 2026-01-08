@@ -4,8 +4,9 @@ draft: false
 layout: "article"
 tags: ["migrated"]
 date: 2025-02-09
-featuredImage: "https://source.unsplash.com/1600x900/?docker,container"
+featuredImage: "https://source.unsplash.com/1600x900/?cloud,infrastructure"
 ---
+
 
 
 # CI/CD (Github ACtions)

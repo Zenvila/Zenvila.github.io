@@ -8,6 +8,7 @@ featuredImage: "https://source.unsplash.com/1600x900/?ai,machine-learning"
 ---
 
 
+
 # Linear Algebra for AI
 
 ### What Does Math Have to Do with Machine Learning?

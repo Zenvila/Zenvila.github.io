@@ -8,6 +8,7 @@ featuredImage: "https://source.unsplash.com/1600x900/?network,security"
 ---
 
 
+
 # HTTP/1.1 vs. HTTP/2 vs. HTTP/3
 
 A Comprehensive Comparison  Web protocols have evolved significantly over the years, and the three most commonly used versions today are **HTTP/1.1**, **HTTP/2**, and **HTTP/3**. These protocols govern how data is transmitted over the web, and each version brings improvements to speed, security, and reliability.
