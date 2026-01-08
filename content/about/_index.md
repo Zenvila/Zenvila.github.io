@@ -1,9 +1,9 @@
 ---
-title: "About"
+title: "About Me"
 showHero: true
 showAuthor: true
 showDate: false
-heroStyle: "background-with-author"
+heroStyle: "background"
 featureimage: "https://zenvila.github.io/background.jpg"
 ---
 

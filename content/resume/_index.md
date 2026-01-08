@@ -1,10 +1,10 @@
 ---
 title: "Resume"
 showHero: true
-showAuthor: true
+showAuthor: false
 showDate: false
 showTitle: false
-heroStyle: "background-with-author"
+heroStyle: "background"
 featureimage: "https://zenvila.github.io/background.jpg"
 ---
 
