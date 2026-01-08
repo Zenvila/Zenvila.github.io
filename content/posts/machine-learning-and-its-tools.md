@@ -2,7 +2,7 @@
 title: "Machine Learning And Its Tools"
 draft: false
 layout: "article"
-tags: ["migrated"]
+tags: ["AI/ML", "Python", "Architecture"]
 date: 2025-06-01
 featuredImage: "https://source.unsplash.com/1600x900/?ai,machine-learning"
 ---

@@ -2,7 +2,7 @@
 title: "Running Arm Raspberry Pi On Your Pc Without Hardware"
 draft: false
 layout: "article"
-tags: ["migrated"]
+tags: ["AI/ML", "Networking", "Linux"]
 date: 2025-11-20
 featuredImage: "https://source.unsplash.com/1600x900/?linux,hardware"
 ---

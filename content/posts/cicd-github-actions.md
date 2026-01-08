@@ -2,7 +2,7 @@
 title: "Cicd Github Actions"
 draft: false
 layout: "article"
-tags: ["migrated"]
+tags: ["Docker", "CI/CD", "Linux"]
 date: 2025-02-09
 featuredImage: "https://source.unsplash.com/1600x900/?cloud,infrastructure"
 ---

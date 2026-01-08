@@ -2,7 +2,7 @@
 title: "Kubernetes Multi Node Real World Workflows"
 draft: false
 layout: "article"
-tags: ["migrated"]
+tags: ["Kubernetes", "Networking", "Linux"]
 date: 2025-05-11
 featuredImage: "https://source.unsplash.com/1600x900/?docker,container"
 ---

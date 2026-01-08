@@ -2,7 +2,7 @@
 title: "Risc Vs Cisc Which Powers Your Devices"
 draft: false
 layout: "article"
-tags: ["migrated"]
+tags: ["Networking", "Architecture"]
 date: 2025-10-05
 featuredImage: "https://source.unsplash.com/1600x900/?network,server"
 ---

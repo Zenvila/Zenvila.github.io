@@ -2,7 +2,7 @@
 title: "Puppet Automating Infrastructure Configuration"
 draft: false
 layout: "article"
-tags: ["migrated"]
+tags: ["Docker", "DevOps"]
 date: 2025-10-12
 featuredImage: "https://source.unsplash.com/1600x900/?cloud,infrastructure"
 ---

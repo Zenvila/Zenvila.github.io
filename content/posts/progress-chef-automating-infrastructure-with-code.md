@@ -2,7 +2,7 @@
 title: "Progress Chef Automating Infrastructure With Code"
 draft: false
 layout: "article"
-tags: ["migrated"]
+tags: ["CI/CD", "DevOps", "Security"]
 date: 2025-09-17
 featuredImage: "https://source.unsplash.com/1600x900/?cloud,infrastructure"
 ---

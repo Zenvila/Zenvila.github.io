@@ -2,7 +2,7 @@
 title: "Http11 Vs Http2 Vs Http3"
 draft: false
 layout: "article"
-tags: ["migrated"]
+tags: ["Security", "Networking", "Linux"]
 date: 2025-04-18
 featuredImage: "https://source.unsplash.com/1600x900/?network,security"
 ---

@@ -2,7 +2,7 @@
 title: "Unit Testing In Python"
 draft: false
 layout: "article"
-tags: ["migrated"]
+tags: ["Networking", "Testing", "Python"]
 date: 2025-12-08
 featuredImage: "https://source.unsplash.com/1600x900/?tech,coding"
 ---

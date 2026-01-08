@@ -2,7 +2,7 @@
 title: "The Hidden Control Loop Of Modern Software"
 draft: false
 layout: "article"
-tags: ["migrated"]
+tags: ["CI/CD", "Networking", "Architecture"]
 date: 2025-12-09
 featuredImage: "https://source.unsplash.com/1600x900/?tech,hardware"
 ---

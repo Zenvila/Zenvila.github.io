@@ -35,3 +35,5 @@ hotlinkFeatureImage = true
   layoutBackgroundBlur = false
   layoutBackgroundHeaderSpace = true
   cardView = true
+
+enableSearch = true

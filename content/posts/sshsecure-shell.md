@@ -2,7 +2,7 @@
 title: "Sshsecure Shell"
 draft: false
 layout: "article"
-tags: ["migrated"]
+tags: ["Networking", "Linux"]
 date: 2025-12-27
 featuredImage: "https://source.unsplash.com/1600x900/?network,security"
 ---

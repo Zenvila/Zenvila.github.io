@@ -2,7 +2,7 @@
 title: "Introduction To Docker"
 draft: false
 layout: "article"
-tags: ["migrated"]
+tags: ["Docker", "Networking", "Linux"]
 date: 2025-04-15
 featuredImage: "https://source.unsplash.com/1600x900/?docker,container"
 ---

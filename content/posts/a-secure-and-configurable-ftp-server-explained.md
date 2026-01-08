@@ -2,7 +2,7 @@
 title: "A Secure And Configurable Ftp Server Explained"
 draft: false
 layout: "article"
-tags: ["migrated"]
+tags: ["Security", "Networking", "Linux"]
 date: 2025-01-18
 featuredImage: "https://source.unsplash.com/1600x900/?network,security"
 ---

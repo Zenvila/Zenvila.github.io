@@ -2,7 +2,7 @@
 title: "Cryptography"
 draft: false
 layout: "article"
-tags: ["migrated"]
+tags: ["Security", "Networking", "Testing"]
 date: 2025-02-16
 featuredImage: "https://source.unsplash.com/1600x900/?network,security"
 ---

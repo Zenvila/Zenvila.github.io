@@ -2,7 +2,7 @@
 title: "Docker Evolution In The Ai Era"
 draft: false
 layout: "article"
-tags: ["migrated"]
+tags: ["Kubernetes", "Security", "Testing"]
 date: 2025-03-20
 featuredImage: "https://source.unsplash.com/1600x900/?docker,container"
 ---

@@ -2,7 +2,7 @@
 title: "Numerical Computing For Ai"
 draft: false
 layout: "article"
-tags: ["migrated"]
+tags: ["AI/ML", "Architecture"]
 date: 2025-08-28
 featuredImage: "https://source.unsplash.com/1600x900/?ai,machine-learning"
 ---
