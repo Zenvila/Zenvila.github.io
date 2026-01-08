@@ -1,8 +1,6 @@
 colorScheme = "blowfish"
 defaultTheme = "dark"
 
-defaultBackgroundImage = "https://zenvila.github.io/background.jpg"
-defaultFeaturedImage = "https://zenvila.github.io/background.jpg"
 hotlinkFeatureImage = true
 
 [homepage]
@@ -39,6 +37,5 @@ hotlinkFeatureImage = true
   cardView = true
   groupByYear = false
   orderByWeight = true
-  defaultBackgroundImage = "https://zenvila.github.io/background.jpg"
 
 enableSearch = true
