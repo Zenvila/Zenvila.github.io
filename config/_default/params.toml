@@ -39,5 +39,6 @@ hotlinkFeatureImage = true
   cardView = true
   groupByYear = false
   orderByWeight = true
+  defaultBackgroundImage = "https://zenvila.github.io/background.jpg"
 
 enableSearch = true
