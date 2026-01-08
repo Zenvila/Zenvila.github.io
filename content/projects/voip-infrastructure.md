@@ -1,13 +1,17 @@
 ---
+
 title: "Cloud-Integrated Enterprise VoIP Infrastructure"
 summary: "Designed and deployed a scalable Voice over IP (VoIP) telecommunication system bridging local infrastructure with the global telephone network (PSTN)."
 date: 2025-01-08
+featuredImage: "/images/projects/cloud-integrated-enterprise-voip-infrastructure.jpeg"
 draft: false
 tags: ["VoIP", "Linux", "Twilio", "Asterisk", "Networking", "FreePBX"]
 externalUrl: ""
 showDate: false
 layout: "project"
+
 ---
+
 
 ## The Challenge
 

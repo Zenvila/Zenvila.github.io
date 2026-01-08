@@ -1,13 +1,17 @@
 ---
+
 title: "Automated Timetable Management System"
 summary: "Web-based system to eliminate manual PDF searching for class or exam timetables with personalized access and admin management panel."
 date: 2025-05-01
+featuredImage: "/images/projects/automated-timetable-management-system.jpeg"
 draft: false
 tags: ['Python', 'SQLite', 'Web Development']
 externalUrl: ""
 showDate: false
 layout: "project"
+
 ---
+
 
 ## The Challenge
 

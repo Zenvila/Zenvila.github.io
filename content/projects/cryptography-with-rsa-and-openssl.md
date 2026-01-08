@@ -1,13 +1,17 @@
 ---
+
 title: "Cryptography with RSA and OpenSSL"
 summary: "Configured virtual environment with Ubuntu, Kali Linux, and Windows. Generated RSA key pairs, performed encryption/decryption, and set up Certificate Authority (CA)."
 date: 2024-10-15
+featuredImage: "/images/projects/cryptography-with-rsa-and-openssl.jpeg"
 draft: false
 tags: ['Cryptography', 'Linux', 'OpenSSL', 'Security']
 externalUrl: ""
 showDate: false
 layout: "project"
+
 ---
+
 
 ## The Challenge
 
