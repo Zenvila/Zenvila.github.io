@@ -1,6 +1,10 @@
 colorScheme = "blowfish"
 defaultTheme = "dark"
 
+defaultBackgroundImage = "https://zenvila.github.io/background.png"
+defaultFeaturedImage = "https://zenvila.github.io/background.png"
+hotlinkFeatureImage = true
+
 [homepage]
   layout = "background"
   homepageImage = "https://zenvila.github.io/background.png"
@@ -19,5 +23,8 @@ defaultTheme = "dark"
   showDate = true
   showAuthor = false
   showHero = true
+  heroStyle = "background"
   showTaxonomies = true
   showReadingTime = true
+  layoutBackgroundBlur = false
+  layoutBackgroundHeaderSpace = true

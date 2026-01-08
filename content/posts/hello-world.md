@@ -5,7 +5,8 @@ draft: false
 description: "This is my first post on my new portfolio!"
 tags: ["welcome", "linux"]
 showHero: true
-featureimage: "https://zenvila.github.io/background.jpg"
+heroStyle: "background"
+featureimage: "https://zenvila.github.io/background.png"
 ---
 
 Welcome to my new digital garden! 🚀

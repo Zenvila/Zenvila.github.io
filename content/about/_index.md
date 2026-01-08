@@ -4,7 +4,7 @@ showHero: true
 showAuthor: true
 showDate: false
 heroStyle: "background"
-featureimage: "https://zenvila.github.io/images/profile.jpg"
+featureimage: "https://zenvila.github.io/background.png"
 ---
 
 ## The Builder's Mindset
