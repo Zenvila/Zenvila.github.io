@@ -6,9 +6,6 @@ tags: ["CI/CD", "Technology", "Containers"]
 date: 2025-12-20
 featuredImage: "https://source.unsplash.com/1600x900/?cloud,infrastructure"
 ---
-
-
-
 # CI/CD (Github ACtions)
 
 # Understanding GitHub Actions with CI/CD (Ubuntu + Docker)

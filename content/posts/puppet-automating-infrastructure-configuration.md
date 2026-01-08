@@ -6,9 +6,6 @@ tags: ["Docker", "DevOps", "Containers"]
 date: 2024-11-17
 featuredImage: "https://source.unsplash.com/1600x900/?cloud,infrastructure"
 ---
-
-
-
 # Puppet – Automating Infrastructure Configuration
 
 ### What is Puppet?

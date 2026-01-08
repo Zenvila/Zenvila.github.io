@@ -6,9 +6,6 @@ tags: ["Linux", "System Administration", "Data Science"]
 date: 2024-09-19
 featuredImage: "https://source.unsplash.com/1600x900/?tech,hardware"
 ---
-
-
-
 # Mysteries of Computer Architecture
 
                             **Computer Architecture and Organization**

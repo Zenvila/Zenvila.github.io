@@ -6,9 +6,6 @@ tags: ["AI/ML", "Data Science", "Programming"]
 date: 2024-10-18
 featuredImage: "https://source.unsplash.com/1600x900/?ai,machine-learning"
 ---
-
-
-
 # Numerical Computing for AI
 
 ## Introduction

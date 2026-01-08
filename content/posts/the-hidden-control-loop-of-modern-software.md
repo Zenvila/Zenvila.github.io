@@ -6,9 +6,6 @@ tags: ["Security", "Python", "Architecture"]
 date: 2025-07-08
 featuredImage: "https://source.unsplash.com/1600x900/?tech,hardware"
 ---
-
-
-
 # The Hidden Control Loop of Modern Software
 
 ### Introduction

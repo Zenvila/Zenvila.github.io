@@ -6,9 +6,6 @@ tags: ["Testing", "Technology", "Data Science"]
 date: 2025-12-08
 featuredImage: "https://source.unsplash.com/1600x900/?tech,coding"
 ---
-
-
-
 # Unit Testing in Python
 
 #  A Must-Know for Every Programmer

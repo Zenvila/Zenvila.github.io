@@ -6,9 +6,6 @@ tags: ["Kubernetes", "DevOps", "Containers"]
 date: 2024-07-28
 featuredImage: "https://source.unsplash.com/1600x900/?docker,container"
 ---
-
-
-
 # Kubernetes Using Minikube on Arch Linux
 
 ### Introduction

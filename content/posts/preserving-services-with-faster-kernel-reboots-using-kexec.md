@@ -6,9 +6,6 @@ tags: ["Security", "Linux", "Cloud"]
 date: 2024-08-28
 featuredImage: "https://source.unsplash.com/1600x900/?docker,container"
 ---
-
-
-
 # Preserving Services with Faster Kernel Reboots Using Kexec
 
 # **Improving the Kexec Boot Time**

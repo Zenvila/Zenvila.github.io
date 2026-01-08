@@ -6,9 +6,6 @@ tags: ["Git", "Technology", "System Administration"]
 date: 2025-05-31
 featuredImage: "https://source.unsplash.com/1600x900/?tech,coding"
 ---
-
-
-
 # Git and GitHub
 
 **Introduction:** 

@@ -6,9 +6,6 @@ tags: ["Security", "Networking", "Linux"]
 date: 2024-04-13
 featuredImage: "https://source.unsplash.com/1600x900/?network,security"
 ---
-
-
-
 # Rsync
 
                                        **Efficient File Transfer and Synchronization**

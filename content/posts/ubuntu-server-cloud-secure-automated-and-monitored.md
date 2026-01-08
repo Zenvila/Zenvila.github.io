@@ -6,9 +6,6 @@ tags: ["Linux", "System Administration", "Open Source"]
 date: 2025-04-08
 featuredImage: "https://source.unsplash.com/1600x900/?network,server"
 ---
-
-
-
 # Ubuntu Server Cloud: Secure, Automated, and Monitored
 
 # **Setting Up a Cloud on Ubuntu Server**

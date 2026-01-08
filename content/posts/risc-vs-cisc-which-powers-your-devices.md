@@ -6,9 +6,6 @@ tags: ["Architecture", "Technology", "Data Science"]
 date: 2024-07-01
 featuredImage: "https://source.unsplash.com/1600x900/?network,server"
 ---
-
-
-
 # RISC vs. CISC: Which Powers Your Devices?
 
 ### **RISC vs. CISC: Understanding the Core of Computer Architecture**

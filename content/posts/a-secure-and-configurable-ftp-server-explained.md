@@ -6,9 +6,6 @@ tags: ["Networking", "Technology", "System Administration"]
 date: 2024-03-11
 featuredImage: "https://source.unsplash.com/1600x900/?network,security"
 ---
-
-
-
 # A Secure & Configurable FTP Server Explained
 
 ## What is ProFTPD?

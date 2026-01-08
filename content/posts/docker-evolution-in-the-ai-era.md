@@ -6,9 +6,6 @@ tags: ["Docker", "Containers", "DevOps"]
 date: 2024-12-10
 featuredImage: "https://source.unsplash.com/1600x900/?docker,container"
 ---
-
-
-
 # Docker Evolution in the AI Era
 
 # From Simple Containers to Modern AI Workflows
