@@ -3,9 +3,10 @@ title: "Voice Over Internet Protocol Voip"
 draft: false
 layout: "article"
 tags: ["Networking", "Technology", "System Administration"]
-date: 2025-12-24
+date: 2025-03-03
 featuredImage: "https://source.unsplash.com/1600x900/?network,security"
 ---
+
 
 
 # Voice over Internet Protocol (VOIP)

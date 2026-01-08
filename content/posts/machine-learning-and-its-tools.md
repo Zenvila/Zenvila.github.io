@@ -3,9 +3,10 @@ title: "Machine Learning And Its Tools"
 draft: false
 layout: "article"
 tags: ["AI/ML", "Data Science", "Programming"]
-date: 2025-06-01
+date: 2025-07-30
 featuredImage: "https://source.unsplash.com/1600x900/?ai,machine-learning"
 ---
+
 
 
 # Machine Learning and Its Tools

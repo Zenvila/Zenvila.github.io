@@ -3,9 +3,10 @@ title: "Sshsecure Shell"
 draft: false
 layout: "article"
 tags: ["Networking", "Technology", "System Administration"]
-date: 2025-12-27
+date: 2025-06-26
 featuredImage: "https://source.unsplash.com/1600x900/?network,security"
 ---
+
 
 
 # SSH(Secure Shell )

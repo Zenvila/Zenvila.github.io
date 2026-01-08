@@ -3,9 +3,10 @@ title: "Linear Algebra For Ai"
 draft: false
 layout: "article"
 tags: ["AI/ML", "Data Science", "Programming"]
-date: 2025-06-15
+date: 2023-09-08
 featuredImage: "https://source.unsplash.com/1600x900/?ai,machine-learning"
 ---
+
 
 
 # Linear Algebra for AI

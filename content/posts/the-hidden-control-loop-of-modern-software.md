@@ -3,9 +3,10 @@ title: "The Hidden Control Loop Of Modern Software"
 draft: false
 layout: "article"
 tags: ["Security", "Python", "Architecture"]
-date: 2025-12-09
+date: 2025-07-08
 featuredImage: "https://source.unsplash.com/1600x900/?tech,hardware"
 ---
+
 
 
 # The Hidden Control Loop of Modern Software

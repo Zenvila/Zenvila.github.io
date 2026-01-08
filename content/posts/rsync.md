@@ -3,9 +3,10 @@ title: "Rsync"
 draft: false
 layout: "article"
 tags: ["Security", "Networking", "Linux"]
-date: 2025-11-20
+date: 2024-04-13
 featuredImage: "https://source.unsplash.com/1600x900/?network,security"
 ---
+
 
 
 # Rsync

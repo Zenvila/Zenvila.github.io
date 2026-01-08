@@ -22,13 +22,3 @@
   name = "Tags"
   pageRef = "tags"
   weight = 50
-
-[[main]]
-  name = "Categories"
-  pageRef = "categories"
-  weight = 60
-
-[[main]]
-  name = "Authors"
-  pageRef = "authors"
-  weight = 70

@@ -3,9 +3,10 @@ title: "Docker Evolution In The Ai Era"
 draft: false
 layout: "article"
 tags: ["Docker", "Containers", "DevOps"]
-date: 2025-03-20
+date: 2024-12-10
 featuredImage: "https://source.unsplash.com/1600x900/?docker,container"
 ---
+
 
 
 # Docker Evolution in the AI Era

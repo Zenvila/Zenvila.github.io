@@ -3,9 +3,10 @@ title: "Step By Step Arch Linux Installation And Post Setup 1  Deleted"
 draft: false
 layout: "article"
 tags: ["Linux", "System Administration", "Open Source"]
-date: 2025-12-09
+date: 2025-11-23
 featuredImage: "https://source.unsplash.com/1600x900/?linux,server"
 ---
+
 
 
 # Step-by-Step Arch Linux Installation & Post-Setup

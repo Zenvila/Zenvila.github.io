@@ -3,9 +3,10 @@ title: "Understanding Criu"
 draft: false
 layout: "article"
 tags: ["Docker", "Linux", "Cloud"]
-date: 2025-12-13
+date: 2025-09-25
 featuredImage: "https://source.unsplash.com/1600x900/?linux,server"
 ---
+
 
 
 # Understanding CRIU

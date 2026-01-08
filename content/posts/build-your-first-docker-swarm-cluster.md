@@ -3,9 +3,10 @@ title: "Build Your First Docker Swarm Cluster"
 draft: false
 layout: "article"
 tags: ["Docker", "Containers", "DevOps"]
-date: 2025-01-06
+date: 2025-09-06
 featuredImage: "https://source.unsplash.com/1600x900/?docker,container"
 ---
+
 
 
 # Build Your First Docker Swarm Cluster

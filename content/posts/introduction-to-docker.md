@@ -3,9 +3,10 @@ title: "Introduction To Docker"
 draft: false
 layout: "article"
 tags: ["Docker", "Containers", "DevOps"]
-date: 2025-04-15
+date: 2025-11-04
 featuredImage: "https://source.unsplash.com/1600x900/?docker,container"
 ---
+
 
 
 # Introduction to Docker

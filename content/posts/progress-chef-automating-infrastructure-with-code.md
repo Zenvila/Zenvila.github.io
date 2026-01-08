@@ -3,9 +3,10 @@ title: "Progress Chef Automating Infrastructure With Code"
 draft: false
 layout: "article"
 tags: ["CI/CD", "DevOps", "Security"]
-date: 2025-09-17
+date: 2024-03-05
 featuredImage: "https://source.unsplash.com/1600x900/?cloud,infrastructure"
 ---
+
 
 
 # Progress Chef – Automating Infrastructure with Code
