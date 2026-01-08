@@ -1,0 +1,33 @@
+/* Custom CSS for Tags Layout - 4-5 tags per row */
+.taxonomy-terms-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 1rem;
+    width: 100%;
+}
+
+/* Ensure consistent spacing on all screen sizes */
+@media (min-width: 640px) {
+    .taxonomy-terms-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (min-width: 768px) {
+    .taxonomy-terms-grid {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+@media (min-width: 1024px) {
+    .taxonomy-terms-grid {
+        grid-template-columns: repeat(4, 1fr);
+    }
+}
+
+@media (min-width: 1280px) {
+    .taxonomy-terms-grid {
+        grid-template-columns: repeat(5, 1fr);
+    }
+}
+
