@@ -19,11 +19,17 @@ I engineered a hybrid solution using **FreePBX** as the internal Private Branch 
 
 ### Key Implementation Details
 
-1. **Twilio Elastic SIP Trunking:** Configured the Termination and Origination URIs to route calls dynamically. Implemented IP Access Control Lists (ACLs) for security.
+1. **Twilio Elastic SIP Trunking:**
+   - Configured the Termination and Origination URIs to route calls dynamically.
+   - Implemented IP Access Control Lists (ACLs) for security.
 
-2. **Asterisk & FreePBX Engine:** Set up inbound routes to direct customer calls to specific departments via IVR ("Press 1 for Support"). Configured outbound routes with failover logic to ensure call reliability.
+2. **Asterisk & FreePBX Engine:**
+   - Set up inbound routes to direct customer calls to specific departments via IVR ("Press 1 for Support").
+   - Configured outbound routes with failover logic to ensure call reliability.
 
-3. **Protocol & Security:** Optimized SIP packets (UDP/TCP) for low latency voice transmission. Secured the transmission using **TLS** and **SRTP** encryption to prevent eavesdropping.
+3. **Protocol & Security:**
+   - Optimized SIP packets (UDP/TCP) for low latency voice transmission.
+   - Secured the transmission using **TLS** and **SRTP** encryption to prevent eavesdropping.
 
 ## Technologies Used
 
@@ -31,4 +37,3 @@ I engineered a hybrid solution using **FreePBX** as the internal Private Branch 
 * **Cloud Provider:** Twilio (Elastic SIP)
 * **OS:** Linux (CentOS/Debian)
 * **Protocols:** SIP, RTP, TCP/UDP
-
