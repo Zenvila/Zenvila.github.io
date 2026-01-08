@@ -4,8 +4,9 @@ draft: false
 layout: "article"
 tags: ["migrated"]
 date: 2025-12-24
-featuredImage: "https://source.unsplash.com/1600x900/?cloud,infrastructure"
+featuredImage: "https://source.unsplash.com/1600x900/?tech,hardware"
 ---
+
 
 
 

@@ -9,6 +9,7 @@ featuredImage: "https://source.unsplash.com/1600x900/?ai,machine-learning"
 
 
 
+
 # Understanding NLP — From Basics to DroneLogNLP
 
 ## What is NLP (Natural Language Processing)?

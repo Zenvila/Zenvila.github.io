@@ -9,6 +9,7 @@ featuredImage: "https://source.unsplash.com/1600x900/?ai,machine-learning"
 
 
 
+
 # Numerical Computing for AI
 
 ## Introduction

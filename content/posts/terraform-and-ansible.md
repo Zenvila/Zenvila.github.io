@@ -9,6 +9,7 @@ featuredImage: "https://source.unsplash.com/1600x900/?cloud,infrastructure"
 
 
 
+
 # Terraform and Ansible
 
 ## Infrastructure Provisioning and Configuration (Local System Setup)

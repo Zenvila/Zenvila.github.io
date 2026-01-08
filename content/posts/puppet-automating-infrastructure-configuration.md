@@ -9,6 +9,7 @@ featuredImage: "https://source.unsplash.com/1600x900/?cloud,infrastructure"
 
 
 
+
 # Puppet – Automating Infrastructure Configuration
 
 ### What is Puppet?

@@ -9,6 +9,7 @@ featuredImage: "https://source.unsplash.com/1600x900/?network,server"
 
 
 
+
 # RISC vs. CISC: Which Powers Your Devices?
 
 ### **RISC vs. CISC: Understanding the Core of Computer Architecture**
