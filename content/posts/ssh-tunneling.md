@@ -2,10 +2,11 @@
 title: "Ssh Tunneling"
 draft: false
 layout: "article"
-tags: ["Networking", "Technology"]
+tags: ["Networking", "Technology", "System Administration"]
 date: 2025-12-28
 featuredImage: "https://source.unsplash.com/1600x900/?network,server"
 ---
+
 
 # SSH Tunneling
 

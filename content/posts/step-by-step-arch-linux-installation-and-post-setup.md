@@ -2,10 +2,11 @@
 title: "Step By Step Arch Linux Installation And Post Setup"
 draft: false
 layout: "article"
-tags: ["Linux", "System Administration"]
+tags: ["Linux", "System Administration", "Open Source"]
 date: 2025-12-03
 featuredImage: "https://source.unsplash.com/1600x900/?linux,server"
 ---
+
 
 # Step-by-Step Arch Linux Installation & Post-Setup
 

@@ -2,10 +2,11 @@
 title: "Kubernetes Using Minikube On Arch Linux"
 draft: false
 layout: "article"
-tags: ["Kubernetes", "DevOps"]
+tags: ["Kubernetes", "DevOps", "Containers"]
 date: 2025-05-20
 featuredImage: "https://source.unsplash.com/1600x900/?docker,container"
 ---
+
 
 # Kubernetes Using Minikube on Arch Linux
 

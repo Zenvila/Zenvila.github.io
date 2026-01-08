@@ -2,10 +2,11 @@
 title: "Probability And Statistics For Ai"
 draft: false
 layout: "article"
-tags: ["AI/ML", "Data Science"]
+tags: ["AI/ML", "Data Science", "System Administration"]
 date: 2025-09-12
 featuredImage: "https://source.unsplash.com/1600x900/?ai,machine-learning"
 ---
+
 
 # Probability and Statistics for AI
 

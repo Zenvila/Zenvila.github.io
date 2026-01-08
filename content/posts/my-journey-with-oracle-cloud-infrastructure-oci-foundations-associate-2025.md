@@ -2,10 +2,11 @@
 title: "My Journey With Oracle Cloud Infrastructure Oci Foundations Associate 2025"
 draft: false
 layout: "article"
-tags: ["Cloud", "Technology"]
+tags: ["Cloud", "Technology", "Data Science"]
 date: 2025-07-22
 featuredImage: "https://source.unsplash.com/1600x900/?cloud,infrastructure"
 ---
+
 
 # My Journey with Oracle Cloud Infrastructure (OCI) Foundations Associate 2025
 

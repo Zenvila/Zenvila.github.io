@@ -2,10 +2,11 @@
 title: "Cryptography"
 draft: false
 layout: "article"
-tags: ["Security", "Technology"]
+tags: ["Security", "Technology", "Data Science"]
 date: 2025-02-16
 featuredImage: "https://source.unsplash.com/1600x900/?network,security"
 ---
+
 
 # Cryptography
 

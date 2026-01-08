@@ -2,10 +2,11 @@
 title: "Terraform And Ansible"
 draft: false
 layout: "article"
-tags: ["DevOps", "Technology"]
+tags: ["DevOps", "Technology", "Containers"]
 date: 2025-12-05
 featuredImage: "https://source.unsplash.com/1600x900/?cloud,infrastructure"
 ---
+
 
 # Terraform and Ansible
 
