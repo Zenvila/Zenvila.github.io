@@ -54,7 +54,9 @@ I believe in building things that actually work. Every project is an opportunity
 
 ## Contact
 
+<div class="flex flex-wrap gap-4 text-2xl">
 {{< social-icons name="github" url="https://github.com/zenvila" >}}
 {{< social-icons name="linkedin" url="https://linkedin.com/in/haris-shahzad786" >}}
 {{< social-icons name="email" url="mailto:arainharis151@gmail.com" >}}
+</div>
 
