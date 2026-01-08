@@ -33,36 +33,36 @@ def extract_front_matter(content):
     return parts[1], parts[2]
 
 def update_front_matter(front_matter, new_image_path):
-    """Update or add featuredImage in front matter."""
-    # Check if featuredImage already exists
-    if re.search(r'^featuredImage:', front_matter, re.MULTILINE):
+    """Update or add featureimage in front matter."""
+    # Check if featureimage already exists (case insensitive)
+    if re.search(r'^featureimage:', front_matter, re.MULTILINE | re.IGNORECASE):
         # Update existing
         front_matter = re.sub(
-            r'^featuredImage:.*$',
-            f'featuredImage: "{new_image_path}"',
+            r'^featureimage:.*$',
+            f'featureimage: "{new_image_path}"',
             front_matter,
-            flags=re.MULTILINE
+            flags=re.MULTILINE | re.IGNORECASE
         )
     else:
-        # Add new featuredImage before the closing ---
+        # Add new featureimage before the closing ---
         # Find a good place to insert (after date or tags)
         if re.search(r'^date:', front_matter, re.MULTILINE):
             front_matter = re.sub(
                 r'^(date:.*)$',
-                r'\1\nfeaturedImage: "' + new_image_path + '"',
+                r'\1\nfeatureimage: "' + new_image_path + '"',
                 front_matter,
                 flags=re.MULTILINE
             )
         elif re.search(r'^tags:', front_matter, re.MULTILINE):
             front_matter = re.sub(
                 r'^(tags:.*)$',
-                r'\1\nfeaturedImage: "' + new_image_path + '"',
+                r'\1\nfeatureimage: "' + new_image_path + '"',
                 front_matter,
                 flags=re.MULTILINE
             )
         else:
             # Add at the end of front matter
-            front_matter = front_matter.rstrip() + f'\nfeaturedImage: "{new_image_path}"'
+            front_matter = front_matter.rstrip() + f'\nfeatureimage: "{new_image_path}"'
     
     return front_matter
 
