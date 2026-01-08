@@ -6,10 +6,6 @@ tags: ["migrated"]
 date: 2025-12-24
 featuredImage: "https://source.unsplash.com/1600x900/?network,security"
 ---
-
-
-
-
 # Voice over Internet Protocol (VOIP)
 
 ### Voice over Internet Protocol (VOIP)

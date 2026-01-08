@@ -6,10 +6,6 @@ tags: ["migrated"]
 date: 2025-01-18
 featuredImage: "https://source.unsplash.com/1600x900/?network,security"
 ---
-
-
-
-
 # A Secure & Configurable FTP Server Explained
 
 ## What is ProFTPD?
