@@ -1,13 +1,13 @@
 colorScheme = "blowfish"
 defaultTheme = "dark"
 
-defaultBackgroundImage = "https://zenvila.github.io/background.png"
-defaultFeaturedImage = "https://zenvila.github.io/background.png"
+defaultBackgroundImage = "https://zenvila.github.io/background.jpg"
+defaultFeaturedImage = "https://zenvila.github.io/background.jpg"
 hotlinkFeatureImage = true
 
 [homepage]
   layout = "background"
-  homepageImage = "https://zenvila.github.io/background.png"
+  homepageImage = "https://zenvila.github.io/background.jpg"
   showRecent = true     # <--- This adds the posts below your bio!
   showRecentItems = 4
   showMore = true

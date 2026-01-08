@@ -15,5 +15,5 @@
 
 [[main]]
   name = "Resume"
-  url = "/resume.pdf"  # We will upload the PDF later
+  pageRef = "resume"
   weight = 40
