@@ -1,4 +1,5 @@
 ---
+
 title: "Programming for Cyber Security"
 summary: "Developed four Python scripts for brute-force simulation, data scraping, IP extraction, and DNS port confirmation for cybersecurity analysis."
 date: 2024-03-15
@@ -9,7 +10,9 @@ externalUrl: ""
 showDate: false
 layout: "project"
 
+
 ---
+
 
 
 ## The Challenge

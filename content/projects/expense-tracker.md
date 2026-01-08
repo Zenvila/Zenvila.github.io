@@ -1,4 +1,5 @@
 ---
+
 title: "Expense Tracker"
 summary: "Web application for managing income and expenses with secure login, transaction tracking, and graphical data visualization."
 date: 2025-03-01
@@ -9,7 +10,9 @@ externalUrl: ""
 showDate: false
 layout: "project"
 
+
 ---
+
 
 
 ## The Challenge

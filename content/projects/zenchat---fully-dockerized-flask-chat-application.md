@@ -1,4 +1,5 @@
 ---
+
 title: "ZenChat – Fully Dockerized Flask Chat Application"
 summary: "Lightweight real-time chat application using Flask and SQLite3, fully containerized with Docker for portable deployment."
 date: 2025-06-01
@@ -9,7 +10,9 @@ externalUrl: ""
 showDate: false
 layout: "project"
 
+
 ---
+
 
 
 ## The Challenge

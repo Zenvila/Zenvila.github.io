@@ -1,4 +1,5 @@
 ---
+
 title: "ViD-LLM Powered Visual Question Answering System"
 summary: "Local Visual Question Answering system using Salesforce/blip-vqa-base model deployed on CPU with Gradio interface for real-time multimodal reasoning."
 date: 2025-07-01
@@ -9,7 +10,9 @@ externalUrl: ""
 showDate: false
 layout: "project"
 
+
 ---
+
 
 
 ## The Challenge

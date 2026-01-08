@@ -1,4 +1,5 @@
 ---
+
 title: "Airline Management System"
 summary: "Database management system for airline operations with booking and management features."
 date: 2024-03-01
@@ -9,7 +10,9 @@ externalUrl: ""
 showDate: false
 layout: "project"
 
+
 ---
+
 
 
 ## The Challenge

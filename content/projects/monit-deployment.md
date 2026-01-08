@@ -1,4 +1,5 @@
 ---
+
 title: "Monit Deployment"
 summary: "Implemented Monit for server monitoring and automation of error detection with fine-tuned alert mechanisms for system stability."
 date: 2025-01-01
@@ -9,7 +10,9 @@ externalUrl: ""
 showDate: false
 layout: "project"
 
+
 ---
+
 
 
 ## The Challenge
