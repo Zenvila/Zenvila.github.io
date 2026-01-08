@@ -142,11 +142,13 @@
     {{ end }}{{/* End of cardView */}}
   {{/* else: .Pages not greater to zero */}}
   {{ else }}
-    <section class="mt-10 prose dark:prose-invert">
-      <p class="py-8 border-t">
-        <em>{{ i18n "list.no_articles" | emojify }}</em>
-      </p>
-    </section>
+    {{ if ne .Title "Resume" }}
+      <section class="mt-10 prose dark:prose-invert">
+        <p class="py-8 border-t">
+          <em>{{ i18n "list.no_articles" | emojify }}</em>
+        </p>
+      </section>
+    {{ end }}
   {{ end }}
   {{ partial "pagination.html" . }}
 {{ end }}

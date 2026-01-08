@@ -1,0 +1,11 @@
+{{ $name := .Get "name" }}
+{{ $url := .Get "url" }}
+<a
+  class="hover:text-primary-700 dark:hover:text-primary-400 inline-block mr-4 text-2xl"
+  href="{{ $url }}"
+  target="_blank"
+  aria-label="{{ $name | title }}"
+  title="{{ $name | title }}"
+  rel="me noopener noreferrer">
+  <span class="inline-block align-text-bottom">{{ partial "icon.html" $name }}</span>
+</a>

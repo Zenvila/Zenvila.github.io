@@ -3,13 +3,9 @@ title: "Resume"
 showHero: true
 showAuthor: false
 showDate: false
+showTitle: false
 heroStyle: "background"
 featureimage: "https://zenvila.github.io/background.jpg"
----
-
-## Haris Shahzad
-**System Programmer | Self Learner**
-
 ---
 
 ## Education
@@ -58,7 +54,7 @@ I believe in building things that actually work. Every project is an opportunity
 
 ## Contact
 
-- **GitHub:** [github.com/zenvila](https://github.com/zenvila)
-- **LinkedIn:** [linkedin.com/in/haris-shahzad786](https://linkedin.com/in/haris-shahzad786)
-- **Email:** arainharis151@gmail.com
+{{< social-icons name="github" url="https://github.com/zenvila" >}}
+{{< social-icons name="linkedin" url="https://linkedin.com/in/haris-shahzad786" >}}
+{{< social-icons name="email" url="mailto:arainharis151@gmail.com" >}}
 
