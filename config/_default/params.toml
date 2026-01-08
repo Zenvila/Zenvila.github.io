@@ -34,3 +34,4 @@ hotlinkFeatureImage = true
   heroStyle = "background"
   layoutBackgroundBlur = false
   layoutBackgroundHeaderSpace = true
+  cardView = true

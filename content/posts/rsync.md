@@ -3,8 +3,8 @@ title: "Rsync"
 draft: false
 layout: "article"
 tags: ["migrated"]
-date: 2025-11-01
-featuredImage: "https://source.unsplash.com/1600x900/?linux,server"
+date: 2025-11-20
+featuredImage: "https://source.unsplash.com/1600x900/?network,server"
 ---
 
 # Rsync

@@ -3,8 +3,8 @@ title: "Cryptography"
 draft: false
 layout: "article"
 tags: ["migrated"]
-date: 2025-02-02
-featuredImage: "https://source.unsplash.com/1600x900/?tech,coding"
+date: 2025-02-12
+featuredImage: "https://source.unsplash.com/1600x900/?network,server"
 ---
 
 # Cryptography

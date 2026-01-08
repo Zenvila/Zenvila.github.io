@@ -3,7 +3,7 @@ title: "Step By Step Arch Linux Installation And Post Setup"
 draft: false
 layout: "article"
 tags: ["migrated"]
-date: 2025-12-02
+date: 2025-12-10
 featuredImage: "https://source.unsplash.com/1600x900/?linux,server"
 ---
 

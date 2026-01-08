@@ -3,7 +3,7 @@ title: "Probability And Statistics For Ai"
 draft: false
 layout: "article"
 tags: ["migrated"]
-date: 2025-09-01
+date: 2025-09-15
 featuredImage: "https://source.unsplash.com/1600x900/?ai,machine-learning"
 ---
 

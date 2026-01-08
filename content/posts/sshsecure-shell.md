@@ -3,8 +3,8 @@ title: "Sshsecure Shell"
 draft: false
 layout: "article"
 tags: ["migrated"]
-date: 2025-12-02
-featuredImage: "https://source.unsplash.com/1600x900/?ai,machine-learning"
+date: 2025-12-08
+featuredImage: "https://source.unsplash.com/1600x900/?linux,server"
 ---
 
 # SSH(Secure Shell )

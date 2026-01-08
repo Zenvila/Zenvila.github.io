@@ -3,7 +3,7 @@ title: "Kubernetes Using Minikube On Arch Linux"
 draft: false
 layout: "article"
 tags: ["migrated"]
-date: 2025-05-02
+date: 2025-05-21
 featuredImage: "https://source.unsplash.com/1600x900/?docker,container"
 ---
 

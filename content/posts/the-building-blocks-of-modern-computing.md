@@ -3,8 +3,8 @@ title: "The Building Blocks Of Modern Computing"
 draft: false
 layout: "article"
 tags: ["migrated"]
-date: 2025-12-01
-featuredImage: "https://source.unsplash.com/1600x900/?tech,coding"
+date: 2025-12-28
+featuredImage: "https://source.unsplash.com/1600x900/?network,server"
 ---
 
 # The Building Blocks of Modern Computing

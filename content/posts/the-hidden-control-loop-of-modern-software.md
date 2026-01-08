@@ -3,8 +3,8 @@ title: "The Hidden Control Loop Of Modern Software"
 draft: false
 layout: "article"
 tags: ["migrated"]
-date: 2025-12-02
-featuredImage: "https://source.unsplash.com/1600x900/?ai,machine-learning"
+date: 2025-12-03
+featuredImage: "https://source.unsplash.com/1600x900/?tech,coding"
 ---
 
 # The Hidden Control Loop of Modern Software

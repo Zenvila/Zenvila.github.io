@@ -3,7 +3,7 @@ title: "Kubernetes Multi Node Real World Workflows"
 draft: false
 layout: "article"
 tags: ["migrated"]
-date: 2025-05-01
+date: 2025-05-16
 featuredImage: "https://source.unsplash.com/1600x900/?docker,container"
 ---
 

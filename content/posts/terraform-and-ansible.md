@@ -3,8 +3,8 @@ title: "Terraform And Ansible"
 draft: false
 layout: "article"
 tags: ["migrated"]
-date: 2025-12-02
-featuredImage: "https://source.unsplash.com/1600x900/?cloud,infrastructure"
+date: 2025-12-10
+featuredImage: "https://source.unsplash.com/1600x900/?docker,container"
 ---
 
 # Terraform and Ansible

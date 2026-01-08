@@ -3,8 +3,8 @@ title: "My Journey With Oracle Cloud Infrastructure Oci Foundations Associate 20
 draft: false
 layout: "article"
 tags: ["migrated"]
-date: 2025-07-01
-featuredImage: "https://source.unsplash.com/1600x900/?ai,machine-learning"
+date: 2025-07-27
+featuredImage: "https://source.unsplash.com/1600x900/?linux,server"
 ---
 
 # My Journey with Oracle Cloud Infrastructure (OCI) Foundations Associate 2025

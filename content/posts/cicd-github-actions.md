@@ -3,7 +3,7 @@ title: "Cicd Github Actions"
 draft: false
 layout: "article"
 tags: ["migrated"]
-date: 2025-02-01
+date: 2025-02-08
 featuredImage: "https://source.unsplash.com/1600x900/?cloud,infrastructure"
 ---
 
