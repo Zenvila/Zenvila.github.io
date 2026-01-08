@@ -16,6 +16,28 @@ Currently 6th Semester
 
 ---
 
+## Technical Arsenal
+
+| Category | Skills & Tools |
+| :--- | :--- |
+| **Languages** | Python, C++, C, JavaScript, Bash, SQL |
+| **DevOps** | Docker, Kubernetes, Terraform, Ansible, Prometheus, Grafana |
+| **Systems** | Arch Linux, Kali, Asterisk (VoIP), FreePBX, SSH |
+| **AI / ML** | LLMs, RAG, Ollama, LoRA Fine-Tuning |
+| **Web & Cloud** | Django, Hugo, Oracle Cloud (OCI), Git/GitHub |
+
+---
+
+## Certifications
+
+**GitHub for Open Standards Development (LFD140)**  
+The Linux Foundation | Issued Nov 2025
+
+**Oracle Cloud Infrastructure 2025 Foundations Associate (1Z0-1085-25)**  
+Oracle
+
+---
+
 ## Experience
 
 ### COLAB NU — Tier III Member
@@ -39,44 +61,11 @@ Built foundation in Linux system administration, Git & GitHub, and contributed t
 ### AIM Lab — AI/ML Intern
 **Jun 2025 - Aug 2025 · 3 mos** | Islamabad, Pakistan
 
-### Erudite Coaching Centre — Web & IT Internship
-**Apr 2024 - Jul 2024 · 4 mos** | Remote
-
 ### Eracon Technologies (Pvt) Ltd. — Verification Lead
 **May 2022 - Mar 2023 · 11 mos** | Islamabad, Pakistan | On-site
 
 ### Prime BPO 2 — Customer Support Specialist
 **Jul 2021 - Feb 2022 · 8 mos** | Islamabad, Pakistan | On-site
-
----
-
-## Certifications
-
-**GitHub for Open Standards Development (LFD140)**  
-The Linux Foundation | Issued Nov 2025
-
-**Oracle Cloud Infrastructure 2025 Foundations Associate (1Z0-1085-25)**  
-Oracle
-
----
-
-## Technical Arsenal
-
-| Category | Skills & Tools |
-| :--- | :--- |
-| **Languages** | Python, C++, C, JavaScript, Bash, SQL |
-| **DevOps** | Docker, Kubernetes, Terraform, Ansible, Prometheus, Grafana |
-| **Systems** | Arch Linux, Kali, Asterisk (VoIP), FreePBX, SSH |
-| **AI / ML** | LLMs, RAG, Ollama, LoRA Fine-Tuning |
-| **Web & Cloud** | Django, Hugo, Oracle Cloud (OCI), Git/GitHub |
-
----
-
-## Philosophy
-
-> "Talk is cheap. Show me the code." – Linus Torvalds
-
-I believe in building things that actually work. Every project is an opportunity to push boundaries, and every failure is a lesson.
 
 ---
 
