@@ -11,6 +11,8 @@ hotlinkFeatureImage = true
   showRecent = true     # <--- This adds the posts below your bio!
   showRecentItems = 6
   showMore = true
+  showMoreLink = true
+  showMoreLinkDest = "/posts/"
   cardView = true       # <--- Makes the posts look like nice cards
 
 [header]
