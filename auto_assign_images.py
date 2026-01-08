@@ -183,7 +183,7 @@ def main():
         # Determine new filename
         new_filename = f"{project['slug']}{image.suffix.lower()}"
         target_path = target_dir / new_filename
-        image_path = f"/images/projects/{new_filename}"
+        image_path = f"images/projects/{new_filename}"
         
         # Move and rename image
         shutil.copy2(image, target_path)
