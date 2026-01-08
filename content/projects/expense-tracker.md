@@ -9,9 +9,17 @@ showDate: false
 layout: "project"
 ---
 
-## Overview
+## The Challenge
 
-Web application for managing income and expenses with secure login, transaction tracking, and graphical data visualization.
+Managing personal finances manually is tedious and error-prone. Users need simple tools to track income and expenses.
+
+## The Solution
+
+Developed a web application with secure authentication, transaction tracking, and graphical data visualization for financial management.
+
+## Key Achievement
+
+Enabled users to visualize spending patterns and make informed financial decisions through intuitive dashboards and analytics.
 
 ## Technologies Used
 

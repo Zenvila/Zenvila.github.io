@@ -9,9 +9,17 @@ showDate: false
 layout: "project"
 ---
 
-## Overview
+## The Challenge
 
-Developed ALU capable of performing addition, subtraction, and multiplication for Digital Logic Design course final project.
+Understanding computer architecture requires hands-on experience with fundamental components like ALUs.
+
+## The Solution
+
+Designed and implemented an ALU capable of performing addition, subtraction, and multiplication for Digital Logic Design course.
+
+## Key Achievement
+
+Gained deep understanding of low-level computer operations, bridging theory and practical hardware design.
 
 ## Technologies Used
 

@@ -9,9 +9,17 @@ showDate: false
 layout: "project"
 ---
 
-## Overview
+## The Challenge
 
-Updated kernel without rebooting using Kexec for seamless kernel switching and Live Kernel Patching for dynamic bug fixes, reducing boot times by 50%.
+Kernel updates require system reboots, causing service downtime and disrupting critical operations.
+
+## The Solution
+
+Implemented Kexec for seamless kernel switching and Live Kernel Patching for dynamic bug fixes, eliminating the need for full reboots.
+
+## Key Achievement
+
+Reduced boot times by 50% and achieved zero-downtime kernel updates, ensuring continuous service availability.
 
 ## Technologies Used
 

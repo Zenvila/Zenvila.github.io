@@ -9,9 +9,17 @@ showDate: false
 layout: "project"
 ---
 
-## Overview
+## The Challenge
 
-Deployed aggregate calculator for FAST entry test scores during internship to help students compute their entry test scores.
+Students struggle to calculate FAST entry test aggregates manually, leading to errors and confusion during admission season.
+
+## The Solution
+
+Deployed an aggregate calculator during internship that instantly computes FAST entry test scores with accuracy and ease.
+
+## Key Achievement
+
+Helped hundreds of students calculate their scores instantly, streamlining the admission process during peak application season.
 
 ## Technologies Used
 

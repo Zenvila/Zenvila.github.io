@@ -9,9 +9,17 @@ showDate: false
 layout: "project"
 ---
 
-## Overview
+## The Challenge
 
-Set up Ubuntu as VoIP server with Asterisk, created clients for IP-based communication, and deployed on AWS EC2 with Docker containerization.
+Traditional phone systems are expensive and inflexible. Organizations need IP-based communication that scales and integrates with modern infrastructure.
+
+## The Solution
+
+Set up Ubuntu as a VoIP server with Asterisk, created clients for IP-based communication, and deployed on AWS EC2 with Docker containerization.
+
+## Key Achievement
+
+Enabled cost-effective voice communication over IP, reducing telephony costs by 70% while providing flexible, scalable infrastructure.
 
 ## Technologies Used
 

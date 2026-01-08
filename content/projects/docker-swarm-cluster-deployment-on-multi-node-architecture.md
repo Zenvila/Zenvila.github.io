@@ -9,9 +9,17 @@ showDate: false
 layout: "project"
 ---
 
-## Overview
+## The Challenge
 
-Built Docker Swarm cluster using two physical machines running Arch Linux with manager and worker nodes for container orchestration.
+Single-server deployments lack scalability and fault tolerance. Production systems need distributed container orchestration.
+
+## The Solution
+
+Built a Docker Swarm cluster across two physical machines running Arch Linux, with manager and worker nodes for container orchestration.
+
+## Key Achievement
+
+Achieved high availability and load distribution, demonstrating enterprise-grade container deployment on bare metal infrastructure.
 
 ## Technologies Used
 

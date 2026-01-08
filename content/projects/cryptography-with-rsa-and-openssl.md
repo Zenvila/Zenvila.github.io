@@ -9,9 +9,17 @@ showDate: false
 layout: "project"
 ---
 
-## Overview
+## The Challenge
 
-Configured virtual environment with Ubuntu, Kali Linux, and Windows. Generated RSA key pairs, performed encryption/decryption, and set up Certificate Authority (CA).
+Secure communication requires proper encryption and certificate management. Understanding cryptographic protocols is essential for security.
+
+## The Solution
+
+Configured virtual environments with Ubuntu, Kali Linux, and Windows. Generated RSA key pairs, performed encryption/decryption, and set up a Certificate Authority (CA).
+
+## Key Achievement
+
+Established a complete secure communication infrastructure, demonstrating expertise in cryptographic protocols and certificate management.
 
 ## Technologies Used
 

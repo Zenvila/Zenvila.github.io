@@ -9,9 +9,17 @@ showDate: false
 layout: "project"
 ---
 
-## Overview
+## The Challenge
 
-Local Visual Question Answering system using Salesforce/blip-vqa-base model deployed on CPU with Gradio interface for real-time multimodal reasoning.
+Understanding images through natural language requires expensive cloud APIs. Local deployment of vision-language models is complex.
+
+## The Solution
+
+Deployed Salesforce/blip-vqa-base model on CPU with a Gradio interface, enabling real-time visual question answering without GPU requirements.
+
+## Key Achievement
+
+Enabled multimodal AI capabilities on standard hardware, opening possibilities for AR/VR applications in EdTech and MedTech.
 
 ## Technologies Used
 

@@ -9,9 +9,17 @@ showDate: false
 layout: "project"
 ---
 
-## Overview
+## The Challenge
 
-Database management system for airline operations with booking and management features.
+Airlines need efficient systems to manage bookings, flights, and customer data with real-time updates.
+
+## The Solution
+
+Built a database management system for airline operations with booking and management features.
+
+## Key Achievement
+
+Streamlined airline operations with automated booking management and real-time data synchronization.
 
 ## Technologies Used
 

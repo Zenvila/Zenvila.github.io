@@ -9,9 +9,17 @@ showDate: false
 layout: "project"
 ---
 
-## Overview
+## The Challenge
 
-Full-stack wallet tracking application built with MERN stack and fully containerized with Docker Compose for multi-service orchestration.
+Full-stack applications require complex environment setup and dependency management across frontend, backend, and database services.
+
+## The Solution
+
+Built a MERN stack wallet tracker with Docker Compose, orchestrating React, Node.js, Express, MongoDB, and all services in isolated containers.
+
+## Key Achievement
+
+Achieved seamless multi-service orchestration, enabling developers to run the entire stack with a single command.
 
 ## Technologies Used
 

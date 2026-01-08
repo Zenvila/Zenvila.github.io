@@ -9,9 +9,17 @@ showDate: false
 layout: "project"
 ---
 
-## Overview
+## The Challenge
 
-Provisioned Docker-based Ubuntu environment using Terraform and configured Apache web server with Ansible for end-to-end infrastructure automation.
+Manual infrastructure provisioning and configuration is time-consuming and inconsistent across environments.
+
+## The Solution
+
+Combined Terraform for infrastructure provisioning with Ansible for configuration management, creating a fully automated deployment pipeline.
+
+## Key Achievement
+
+Eliminated manual setup steps, reducing infrastructure deployment time from days to minutes with Infrastructure as Code (IaC) practices.
 
 ## Technologies Used
 

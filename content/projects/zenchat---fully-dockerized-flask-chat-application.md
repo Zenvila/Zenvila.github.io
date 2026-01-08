@@ -9,9 +9,17 @@ showDate: false
 layout: "project"
 ---
 
-## Overview
+## The Challenge
 
-Lightweight real-time chat application using Flask and SQLite3, fully containerized with Docker for portable deployment.
+Building portable, scalable chat applications requires complex setup and dependency management across different environments.
+
+## The Solution
+
+Developed a lightweight Flask chat app with SQLite3, fully containerized with Docker for easy deployment and portability.
+
+## Key Achievement
+
+Created a production-ready chat system that can be deployed anywhere Docker runs, demonstrating microservices architecture principles.
 
 ## Technologies Used
 

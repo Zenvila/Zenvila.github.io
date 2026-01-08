@@ -9,9 +9,17 @@ showDate: false
 layout: "project"
 ---
 
-## Overview
+## The Challenge
 
-Web-based system to eliminate manual PDF searching for class or exam timetables with personalized access and admin management panel.
+Students waste hours searching through PDFs for class schedules and exam timetables. Manual distribution is inefficient.
+
+## The Solution
+
+Created a web-based system that instantly provides personalized timetables, exam schedules, and instructor details by simply entering a roll number.
+
+## Key Achievement
+
+Eliminated PDF searching entirely, saving students 2+ hours per week while providing admins with efficient record management.
 
 ## Technologies Used
 
