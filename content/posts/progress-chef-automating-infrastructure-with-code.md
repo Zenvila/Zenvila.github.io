@@ -1,9 +1,10 @@
 ---
 title: "Progress Chef Automating Infrastructure With Code"
-date: 2025-01-01
 draft: false
 layout: "article"
 tags: ["migrated"]
+date: 2025-09-02
+featuredImage: "https://source.unsplash.com/1600x900/?linux,server"
 ---
 
 # Progress Chef – Automating Infrastructure with Code

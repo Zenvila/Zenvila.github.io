@@ -1,9 +1,10 @@
 ---
 title: "Running Arm Raspberry Pi On Your Pc Without Hardware"
-date: 2025-01-01
 draft: false
 layout: "article"
 tags: ["migrated"]
+date: 2025-11-02
+featuredImage: "https://source.unsplash.com/1600x900/?linux,server"
 ---
 
 # Running ARM (Raspberry Pi) on Your PC Without Hardware

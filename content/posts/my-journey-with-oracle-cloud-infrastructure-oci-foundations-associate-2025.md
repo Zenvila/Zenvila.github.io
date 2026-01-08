@@ -1,9 +1,10 @@
 ---
 title: "My Journey With Oracle Cloud Infrastructure Oci Foundations Associate 2025"
-date: 2025-01-01
 draft: false
 layout: "article"
 tags: ["migrated"]
+date: 2025-07-01
+featuredImage: "https://source.unsplash.com/1600x900/?linux,server"
 ---
 
 # My Journey with Oracle Cloud Infrastructure (OCI) Foundations Associate 2025
