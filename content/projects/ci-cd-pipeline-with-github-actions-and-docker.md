@@ -1,5 +1,4 @@
 ---
-
 title: "CI/CD Pipeline with GitHub Actions and Docker"
 summary: "Complete CI/CD pipeline using GitHub Actions, Docker, and Ubuntu runners with automated testing and containerized deployment."
 date: 2025-06-01

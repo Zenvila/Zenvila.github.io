@@ -1,5 +1,4 @@
 ---
-
 title: "Cloud-Integrated Enterprise VoIP Infrastructure"
 summary: "Designed and deployed a scalable Voice over IP (VoIP) telecommunication system bridging local infrastructure with the global telephone network (PSTN)."
 date: 2025-01-08

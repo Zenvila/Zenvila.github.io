@@ -1,5 +1,4 @@
 ---
-
 title: "Smart Real Estate Investor"
 summary: "Data-driven real estate investment analysis platform that scrapes property data and implements predictive models for ROI and investment risk assessment."
 date: 2025-07-15

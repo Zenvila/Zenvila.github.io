@@ -1,5 +1,4 @@
 ---
-
 title: "DroneLogNLP: Real Time Semantic Analysis of Drone Logs"
 summary: "Transforms raw drone logs into semantic embeddings using Sentence Transformers for meaning-based search and analysis."
 date: 2025-10-01
