@@ -3,7 +3,7 @@
   {{ $enableToc := .Params.showTableOfContents | default (site.Params.list.showTableOfContents | default false) }}
   {{ $showToc := and $enableToc (in .TableOfContents "<ul") }}
 
-  {{/* Hero with Background - Same as list.html */}}
+  {{/* Hero with Background - Same as list.html - NO HORIZONTAL BANNER */}}
   {{ if .Params.showHero | default (site.Params.list.showHero | default false) }}
     {{ $heroStyle := .Params.heroStyle }}
     {{ if not $heroStyle }}{{ $heroStyle = site.Params.list.heroStyle }}{{ end }}
@@ -11,11 +11,7 @@
       {{ $heroStyle := print "hero/" $heroStyle ".html" }}
       {{ if templates.Exists ( printf "partials/%s" $heroStyle ) }}
         {{ partial $heroStyle . }}
-      {{ else }}
-        {{ partial "hero/basic.html" . }}
       {{ end }}
-    {{ else }}
-      {{ partial "hero/basic.html" . }}
     {{ end }}
   {{ end }}
 
