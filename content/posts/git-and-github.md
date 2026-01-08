@@ -4,7 +4,7 @@ draft: false
 layout: "article"
 tags: ["migrated"]
 date: 2025-03-02
-featuredImage: "https://source.unsplash.com/1600x900/?linux,server"
+featuredImage: "https://source.unsplash.com/1600x900/?tech,coding"
 ---
 
 # Git and GitHub

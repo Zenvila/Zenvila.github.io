@@ -4,7 +4,7 @@ draft: false
 layout: "article"
 tags: ["migrated"]
 date: 2025-09-02
-featuredImage: "https://source.unsplash.com/1600x900/?linux,server"
+featuredImage: "https://source.unsplash.com/1600x900/?cloud,infrastructure"
 ---
 
 # Progress Chef – Automating Infrastructure with Code

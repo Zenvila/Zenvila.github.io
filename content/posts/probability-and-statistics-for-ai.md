@@ -4,7 +4,7 @@ draft: false
 layout: "article"
 tags: ["migrated"]
 date: 2025-09-01
-featuredImage: "https://source.unsplash.com/1600x900/?linux,server"
+featuredImage: "https://source.unsplash.com/1600x900/?ai,machine-learning"
 ---
 
 # Probability and Statistics for AI
