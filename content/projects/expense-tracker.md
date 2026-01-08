@@ -2,7 +2,7 @@
 title: "Expense Tracker"
 summary: "Web application for managing income and expenses with secure login, transaction tracking, and graphical data visualization."
 date: 2025-03-01
-featureimage: "images/projects/expense-tracker.jpeg"
+featureimage: "https://zenvila.github.io/images/projects/expense-tracker.jpeg"
 draft: false
 tags: ['Python', 'SQLite', 'Web Development']
 externalUrl: ""
