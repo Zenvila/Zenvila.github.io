@@ -4,7 +4,7 @@ showHero: true
 showAuthor: true
 showDate: false
 heroStyle: "background-with-author"
-featureimage: "https://zenvila.github.io/background.jpg"
+featureimage: "/background.jpg"
 cardView: true
 ---
 

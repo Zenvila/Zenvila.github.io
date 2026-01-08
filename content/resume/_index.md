@@ -5,7 +5,7 @@ showAuthor: true
 showDate: false
 showTitle: false
 heroStyle: "background-with-author"
-featureimage: "https://zenvila.github.io/background.jpg"
+featureimage: "/background.jpg"
 ---
 
 ## Education
