@@ -40,6 +40,9 @@ Oracle
 
 ## Experience
 
+### COLAB NU — Tier 3 Member
+**Sep 2023 - Present**
+
 ### Fiverr — Freelance
 **Jul 2025 - Present · 7 mos** | Remote
 
