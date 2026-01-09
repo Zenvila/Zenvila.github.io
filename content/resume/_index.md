@@ -40,18 +40,6 @@ Oracle
 
 ## Experience
 
-### COLAB NU — Tier III Member
-**Oct 2024 - Present · 1 yr 4 mos** | Peshawar, Khyber Pakhtunkhwa, Pakistan  
-Contributed to DevOps automation and AI/ML research in a research-driven environment, working with Docker, Kubernetes, Prometheus, Grafana, Ansible, AWS, PyTorch, OpenVINO, and LangChain.
-
-### COLAB NU — Tier II Member
-**Mar 2024 - Oct 2024 · 8 mos** | Peshawar, Khyber Pakhtunkhwa, Pakistan  
-Maintained and secured Linux servers, configured services like SSH, FTP (ProFTPD), and monitoring with Monit, with hands-on experience in rsync, bash scripting, and server hardening.
-
-### COLAB NU — Tier I Member
-**Sep 2023 - Mar 2024 · 7 mos**  
-Built foundation in Linux system administration, Git & GitHub, and contributed to web projects using HTML, CSS, and JavaScript while developing technical documentation skills.
-
 ### Fiverr — Freelance
 **Jul 2025 - Present · 7 mos** | Remote
 
