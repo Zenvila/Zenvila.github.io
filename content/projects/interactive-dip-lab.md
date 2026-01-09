@@ -2,7 +2,7 @@
 title: "Interactive DIP Lab"
 summary: "A web-based simulation tool designed to bridge the gap between theoretical equations and visual understanding in Computer Vision, offering a 'glass-box' view of how pixels are manipulated."
 date: 2025-01-10
-featureimage: "images/projects/interactive-dip-lab.jpeg"
+featureimage: "https://zenvila.github.io/images/projects/interactive-dip-lab.jpeg"
 draft: false
 tags: ["Computer Vision", "Python", "Streamlit", "OpenCV", "Image Processing", "Web Application"]
 externalUrl: ""
