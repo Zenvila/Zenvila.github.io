@@ -7,14 +7,54 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Haris Shahzad</copyright>
-    <lastBuildDate>Sat, 20 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://zenvila.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://zenvila.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>CI/CD</title>
+      <title>AI/ML</title>
+      <link>https://zenvila.github.io/tags/ai/ml/</link>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://zenvila.github.io/tags/ai/ml/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Ci/Cd</title>
       <link>https://zenvila.github.io/tags/ci/cd/</link>
-      <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
       
       <guid>https://zenvila.github.io/tags/ci/cd/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>DevOps</title>
+      <link>https://zenvila.github.io/tags/devops/</link>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://zenvila.github.io/tags/devops/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Kubernetes</title>
+      <link>https://zenvila.github.io/tags/kubernetes/</link>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://zenvila.github.io/tags/kubernetes/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Mlops</title>
+      <link>https://zenvila.github.io/tags/mlops/</link>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://zenvila.github.io/tags/mlops/</guid>
       <description></description>
       
     </item>
@@ -90,16 +130,6 @@
     </item>
     
     <item>
-      <title>DevOps</title>
-      <link>https://zenvila.github.io/tags/devops/</link>
-      <pubDate>Tue, 04 Nov 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://zenvila.github.io/tags/devops/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Docker</title>
       <link>https://zenvila.github.io/tags/docker/</link>
       <pubDate>Tue, 04 Nov 2025 00:00:00 +0000</pubDate>
@@ -115,16 +145,6 @@
       <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
       
       <guid>https://zenvila.github.io/tags/security/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>AI/ML</title>
-      <link>https://zenvila.github.io/tags/ai/ml/</link>
-      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://zenvila.github.io/tags/ai/ml/</guid>
       <description></description>
       
     </item>
@@ -295,16 +315,6 @@
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       
       <guid>https://zenvila.github.io/tags/infrastructure/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Kubernetes</title>
-      <link>https://zenvila.github.io/tags/kubernetes/</link>
-      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://zenvila.github.io/tags/kubernetes/</guid>
       <description></description>
       
     </item>

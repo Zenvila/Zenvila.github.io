@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Haris Shahzad</copyright>
-    <lastBuildDate>Tue, 04 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://zenvila.github.io/tags/devops/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://zenvila.github.io/tags/devops/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Why Standard CI/CD Fails in Production AI: Moving from DevOps to MLOps</title>
+      <link>https://zenvila.github.io/posts/why-standard-cicd-fails-in-production-ai/</link>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://zenvila.github.io/posts/why-standard-cicd-fails-in-production-ai/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Introduction To Docker</title>
