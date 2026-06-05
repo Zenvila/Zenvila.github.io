@@ -49,3 +49,4 @@ Designed and deployed a scalable Voice over IP (VoIP) telecommunication system b
 * **Softphones:** Zoiper, MicroSIP
 * **Security:** fail2ban, iptables, TLS, SRTP
 
+

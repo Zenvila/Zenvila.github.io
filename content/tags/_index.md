@@ -3,7 +3,6 @@ title: "Tags"
 showHero: true
 showDate: false
 heroStyle: "background"
-featureimage: "/background.jpg"
+featureimage: "img/background.jpg"
 layoutBackgroundBlur: false
 ---
-

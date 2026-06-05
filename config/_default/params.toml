@@ -1,18 +1,17 @@
 colorScheme = "blowfish"
 defaultTheme = "dark"
-
-hotlinkFeatureImage = true
-defaultBackgroundImage = "/background.jpg"
+hotlinkFeatureImage = false
+defaultBackgroundImage = "img/background.jpg"
 
 [homepage]
   layout = "background"
-  homepageImage = "/background.jpg"
-  showRecent = true     # <--- This adds the posts below your bio!
+  homepageImage = "img/background.jpg"
+  showRecent = true
   showRecentItems = 6
   showMore = true
   showMoreLink = true
   showMoreLinkDest = "/posts/"
-  cardView = true       # <--- Makes the posts look like nice cards
+  cardView = true
 
 [header]
   layout = "fixed"
