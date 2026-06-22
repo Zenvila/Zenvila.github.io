@@ -1,20 +1,58 @@
 ---
 title: "About"
-showHero: true
-showAuthor: true
+showHero: false
 showDate: false
-heroStyle: "background"
-featureimage: "img/background.jpg"
 ---
+
 ## The Builder's Mindset
-I'm a Computer Science student who prefers the terminal over a GUI. I use Arch Linux not because it's hard, but because it gives me control. I don't just study theory; I build real systems. Whether it's Automation, Robotics, or AI, I'm driven by the challenge of making things work in the real world.
-The command line is my playground. Every script I write, every system I configure, every problem I solve—it all happens through code and configuration. There's something deeply satisfying about understanding how things work at a fundamental level, and that's what drives me.
-## The Modern World
+
+I don't just study theory — I build real systems. Every script I write, every system I configure, every problem I solve happens through code and configuration. I prefer the terminal over a GUI, not because it's hard, but because it gives me control.
+
 > "The illiterate of the 21st century will not be those who cannot read and write, but those who cannot learn, unlearn, and relearn." – Alvin Toffler
-This quote defines my approach to technology. The field moves fast, and what worked yesterday might be obsolete tomorrow. I'm constantly learning new tools, unlearning outdated practices, and relearning better ways to solve problems. This isn't just about staying current—it's about staying effective.
-## My Mission
-My goal is simple: solve complex problems in real-time. Whether it's deploying a site, training a neural network, or automating a workflow, I believe in persistence and results. I don't just want to know how something works; I want to make it work better.
-Every project is an opportunity to push boundaries. Every failure is a lesson. Every success is a stepping stone to the next challenge. This is how I approach my work, and this is what makes me a builder.
-## Final Thought
-> "Talk is cheap. Show me the code." – Linus Torvalds
-This is my philosophy. I'd rather spend hours debugging a script than hours explaining what I plan to do. Code speaks louder than words, and results speak louder than promises. This is how I work, and this is what I bring to every project.
+
+---
+
+Final-year CS student at FAST-NUCES, currently working as a Voice AI Engineer building production-grade real-time voice systems. My focus is at the intersection of AI, cloud infrastructure, and real-time communication — systems that handle live telecom traffic, enterprise clients, and actual production load.
+
+Self-taught from the command line up. Linux, DevOps, cloud, and now Voice AI — I follow the stack wherever the hard problems are.
+
+---
+
+## Experience
+
+**VoIP AI Engineer — Ashtech Digital Solutions**
+*Mar 2026 – Present · Remote*
+
+Built Rabtah AI from scratch — a production-grade real-time voice AI platform running on live telecom networks across Pakistan and internationally. Handles enterprise inbound/outbound calls with sub-300ms latency using LiveKit, Deepgram, ElevenLabs, and GPT-4o. Debugged carrier-level SIP issues across 3 countries. Managed everything from bare-metal setup to client delivery.
+
+---
+
+**Senior Member — COLAB NU**
+*Oct 2024 – Present*
+
+Part of DevOps and AI/ML track. Built and monitored scalable infrastructure using Docker, Kubernetes, Prometheus, Grafana, Ansible, and AWS. Mentored junior members on Linux deployments and CI/CD workflows.
+
+---
+
+**AI/ML Intern — AIM Lab**
+*Jun 2025 – Aug 2025 · Islamabad*
+
+Built two production-ready AI systems — a real estate investment assistant with live data scraping and ML-based ROI prediction, and a local RAG pipeline using Llama 3.1 8B with OpenVINO for offline document Q&A.
+
+---
+
+## Education
+
+**BS Computer Science — FAST-NUCES**
+*2023 – Present*
+
+---
+
+## Certifications
+
+- MLOps Essentials: Model Development — LinkedIn
+- Building Agents with Vertex AI — LinkedIn
+- RAG and Fine-Tuning Explained — LinkedIn
+- Model Context Protocol (MCP) Fundamentals — LinkedIn
+- GitHub for Open Standards Development (LFD140) — The Linux Foundation
+- Oracle Cloud Infrastructure 2025 Foundations Associate — Oracle
