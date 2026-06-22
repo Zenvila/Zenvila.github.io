@@ -10,7 +10,7 @@
     <lastBuildDate>Sat, 20 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://zenvila.github.io/tags/technology/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Cicd Github Actions</title>
+      <title>CI/CD Pipeline with GitHub Actions</title>
       <link>https://zenvila.github.io/posts/cicd-github-actions/</link>
       <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
       
@@ -40,7 +40,7 @@
     </item>
     
     <item>
-      <title>Sshsecure Shell</title>
+      <title>SSH: Secure Shell — Complete Guide</title>
       <link>https://zenvila.github.io/posts/sshsecure-shell/</link>
       <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
       
@@ -70,7 +70,7 @@
     </item>
     
     <item>
-      <title>Http11 Vs Http2 Vs Http3</title>
+      <title>HTTP/1.1 vs HTTP/2 vs HTTP/3: What Changed and Why</title>
       <link>https://zenvila.github.io/posts/http11-vs-http2-vs-http3/</link>
       <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
       
@@ -80,7 +80,7 @@
     </item>
     
     <item>
-      <title>Risc Vs Cisc Which Powers Your Devices</title>
+      <title>RISC vs CISC: Which Architecture Powers Your Devices</title>
       <link>https://zenvila.github.io/posts/risc-vs-cisc-which-powers-your-devices/</link>
       <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
       
@@ -90,7 +90,7 @@
     </item>
     
     <item>
-      <title>A Secure And Configurable Ftp Server Explained</title>
+      <title>A Secure and Configurable FTP Server Explained</title>
       <link>https://zenvila.github.io/posts/a-secure-and-configurable-ftp-server-explained/</link>
       <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
       
@@ -110,7 +110,7 @@
     </item>
     
     <item>
-      <title>Ssh Tunneling</title>
+      <title>SSH Tunneling: Port Forwarding Explained</title>
       <link>https://zenvila.github.io/posts/ssh-tunneling/</link>
       <pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
       
@@ -120,7 +120,7 @@
     </item>
     
     <item>
-      <title>My Journey With Oracle Cloud Infrastructure Oci Foundations Associate 2025</title>
+      <title>My Journey with Oracle Cloud Infrastructure Foundations Associate 2025</title>
       <link>https://zenvila.github.io/posts/my-journey-with-oracle-cloud-infrastructure-oci-foundations-associate-2025/</link>
       <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
       

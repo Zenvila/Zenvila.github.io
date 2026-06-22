@@ -1,11 +1,10 @@
 ---
 
-title: "Risc Vs Cisc Which Powers Your Devices"
+title: "RISC vs CISC: Which Architecture Powers Your Devices"
 draft: false
 layout: "article"
 tags: ["Architecture", "Technology", "Data Science"]
 date: 2024-07-01
-featureimage: "https://zenvila.github.io/images/posts/risc-vs-cisc-which-powers-your-devices.jpeg"
 featuredImage: "https://images.unsplash.com/photo-1591405351990-4726e331f141?auto=format&fit=crop&q=80&w=1600"
 
 ---

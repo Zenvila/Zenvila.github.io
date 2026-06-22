@@ -1,11 +1,10 @@
 ---
 
-title: "A Secure And Configurable Ftp Server Explained"
+title: "A Secure and Configurable FTP Server Explained"
 draft: false
 layout: "article"
 tags: ["Networking", "Technology", "System Administration"]
 date: 2024-03-11
-featureimage: "https://zenvila.github.io/images/posts/a-secure-and-configurable-ftp-server-explained.jpeg"
 featuredImage: "https://images.unsplash.com/photo-1544197150-b99a580bbcbf?auto=format&fit=crop&q=80&w=1600"
 
 ---

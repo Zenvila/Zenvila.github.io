@@ -5,7 +5,6 @@ draft: false
 layout: "article"
 tags: ["Linux", "System Administration", "Open Source"]
 date: 2025-01-13
-featureimage: "https://zenvila.github.io/images/posts/step-by-step-arch-linux-installation-and-post-setup.jpeg"
 featuredImage: "https://images.unsplash.com/photo-1629654297299-c8506221ca97?auto=format&fit=crop&q=80&w=1600"
 
 ---

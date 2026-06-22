@@ -5,7 +5,6 @@ draft: false
 layout: "article"
 tags: ["DevOps", "Technology", "Containers"]
 date: 2024-01-15
-featureimage: "https://zenvila.github.io/images/posts/terraform-and-ansible.jpeg"
 featuredImage: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&q=80&w=1600"
 
 ---

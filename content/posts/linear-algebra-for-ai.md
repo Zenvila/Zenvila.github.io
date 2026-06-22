@@ -1,11 +1,10 @@
 ---
 
-title: "Linear Algebra For Ai"
+title: "Linear Algebra for AI: The Math Behind the Models"
 draft: false
 layout: "article"
 tags: ["AI/ML", "Data Science", "Programming"]
 date: 2023-09-08
-featureimage: "https://zenvila.github.io/images/posts/linear-algebra-for-ai.jpeg"
 featuredImage: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?auto=format&fit=crop&q=80&w=1600"
 
 ---

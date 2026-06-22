@@ -5,7 +5,6 @@ draft: false
 layout: "article"
 tags: ["Security", "Technology", "Data Science"]
 date: 2025-10-31
-featureimage: "https://zenvila.github.io/images/posts/cryptography.jpeg"
 featuredImage: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&q=80&w=1600"
 
 ---

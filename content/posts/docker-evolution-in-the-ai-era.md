@@ -1,11 +1,10 @@
 ---
 
-title: "Docker Evolution In The Ai Era"
+title: "Docker Evolution in the AI Era: Containers Meet Intelligence"
 draft: false
 layout: "article"
 tags: ["Docker", "Containers", "DevOps"]
 date: 2024-12-10
-featureimage: "https://zenvila.github.io/images/posts/docker-evolution-in-the-ai-era.jpeg"
 featuredImage: "https://images.unsplash.com/photo-1605745341117-95395144768e?auto=format&fit=crop&q=80&w=1600"
 
 ---

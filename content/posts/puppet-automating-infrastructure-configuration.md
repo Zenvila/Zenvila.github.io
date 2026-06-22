@@ -1,11 +1,10 @@
 ---
 
-title: "Puppet Automating Infrastructure Configuration"
+title: "Puppet: Automating Infrastructure Configuration at Scale"
 draft: false
 layout: "article"
 tags: ["Docker", "DevOps", "Containers"]
 date: 2024-11-17
-featureimage: "https://zenvila.github.io/images/posts/puppet-automating-infrastructure-configuration.jpeg"
 featuredImage: "https://images.unsplash.com/photo-1516110833967-0b5716ca1387?auto=format&fit=crop&q=80&w=1600"
 
 ---

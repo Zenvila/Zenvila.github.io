@@ -1,11 +1,10 @@
 ---
 
-title: "The Building Blocks Of Modern Computing"
+title: "The Building Blocks of Modern Computing"
 draft: false
 layout: "article"
 tags: ["Networking", "Cloud", "Architecture"]
 date: 2025-04-11
-featureimage: "https://zenvila.github.io/images/posts/the-building-blocks-of-modern-computing.jpeg"
 featuredImage: "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&q=80&w=1600"
 
 ---

@@ -10,7 +10,7 @@
     <lastBuildDate>Sun, 23 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://zenvila.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Step By Step Arch Linux Installation And Post Setup 1  Deleted</title>
+      <title>Step By Step Arch Linux Installation and Post Setup</title>
       <link>https://zenvila.github.io/posts/step-by-step-arch-linux-installation-and-post-setup-1--deleted/</link>
       <pubDate>Sun, 23 Nov 2025 00:00:00 +0000</pubDate>
       
@@ -20,7 +20,7 @@
     </item>
     
     <item>
-      <title>Understanding Criu</title>
+      <title>Understanding CRIU: Checkpoint and Restore in Userspace</title>
       <link>https://zenvila.github.io/posts/understanding-criu/</link>
       <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
       
@@ -50,7 +50,7 @@
     </item>
     
     <item>
-      <title>Running Arm Raspberry Pi On Your Pc Without Hardware</title>
+      <title>Running ARM Raspberry Pi on Your PC Without Hardware</title>
       <link>https://zenvila.github.io/posts/running-arm-raspberry-pi-on-your-pc-without-hardware/</link>
       <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
       
@@ -60,7 +60,7 @@
     </item>
     
     <item>
-      <title>Ubuntu Server Cloud Secure Automated And Monitored</title>
+      <title>Ubuntu Server: Cloud-Ready, Secure, Automated and Monitored</title>
       <link>https://zenvila.github.io/posts/ubuntu-server-cloud-secure-automated-and-monitored/</link>
       <pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate>
       
@@ -150,7 +150,7 @@
     </item>
     
     <item>
-      <title>Mysteries Of Computer Architecture</title>
+      <title>Mysteries of Computer Architecture: How CPUs Really Work</title>
       <link>https://zenvila.github.io/posts/mysteries-of-computer-architecture/</link>
       <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
       
@@ -160,7 +160,7 @@
     </item>
     
     <item>
-      <title>Preserving Services With Faster Kernel Reboots Using Kexec</title>
+      <title>Preserving Services with Faster Kernel Reboots Using Kexec</title>
       <link>https://zenvila.github.io/posts/preserving-services-with-faster-kernel-reboots-using-kexec/</link>
       <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
       

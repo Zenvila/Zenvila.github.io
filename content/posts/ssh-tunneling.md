@@ -1,11 +1,10 @@
 ---
 
-title: "Ssh Tunneling"
+title: "SSH Tunneling: Port Forwarding Explained"
 draft: false
 layout: "article"
 tags: ["Networking", "Technology", "System Administration"]
 date: 2023-11-16
-featureimage: "https://zenvila.github.io/images/posts/ssh-tunneling.jpeg"
 featuredImage: "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?auto=format&fit=crop&q=80&w=1600"
 
 ---

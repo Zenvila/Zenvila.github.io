@@ -1,11 +1,10 @@
 ---
 
-title: "Cicd Github Actions"
+title: "CI/CD Pipeline with GitHub Actions"
 draft: false
 layout: "article"
 tags: ["CI/CD", "Technology", "Containers"]
 date: 2025-12-20
-featureimage: "https://zenvila.github.io/images/posts/cicd-github-actions.jpeg"
 featuredImage: "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?auto=format&fit=crop&q=80&w=1600"
 
 ---

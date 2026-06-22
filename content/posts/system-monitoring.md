@@ -5,7 +5,6 @@ draft: false
 layout: "article"
 tags: ["Networking", "Linux", "System Administration"]
 date: 2025-06-28
-featureimage: "https://zenvila.github.io/images/posts/system-monitoring.jpeg"
 featuredImage: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=1600"
 
 ---

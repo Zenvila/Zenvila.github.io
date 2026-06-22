@@ -1,11 +1,10 @@
 ---
 
-title: "Http11 Vs Http2 Vs Http3"
+title: "HTTP/1.1 vs HTTP/2 vs HTTP/3: What Changed and Why"
 draft: false
 layout: "article"
 tags: ["Networking", "Technology", "System Administration"]
 date: 2024-10-24
-featureimage: "https://zenvila.github.io/images/posts/http11-vs-http2-vs-http3.jpeg"
 featuredImage: "https://images.unsplash.com/photo-1558494949-efdeb6bf80d1?auto=format&fit=crop&q=80&w=1600"
 
 ---

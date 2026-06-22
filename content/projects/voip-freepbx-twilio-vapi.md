@@ -4,7 +4,6 @@
 title: "VoIP (FreePBX+Twilio+Vapi)"
 summary: "Designed and deployed a scalable Voice over IP (VoIP) telecommunication system bridging local infrastructure with the global telephone network (PSTN)."
 date: 2025-01-09
-featureimage: "https://zenvila.github.io/images/projects/voip-freepbx-twilio-vapi.jpeg"
 draft: false
 tags: ["VoIP", "Linux", "Twilio", "Asterisk", "Networking", "FreePBX"]
 externalUrl: ""

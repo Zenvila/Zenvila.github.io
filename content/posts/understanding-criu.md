@@ -1,11 +1,10 @@
 ---
 
-title: "Understanding Criu"
+title: "Understanding CRIU: Checkpoint and Restore in Userspace"
 draft: false
 layout: "article"
 tags: ["Docker", "Linux", "Cloud"]
 date: 2025-09-25
-featureimage: "https://zenvila.github.io/images/posts/understanding-criu.jpeg"
 featuredImage: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&q=80&w=1600"
 
 ---

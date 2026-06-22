@@ -4,7 +4,6 @@
 title: "LLM Voice Assistant"
 summary: "LLM-powered voice assistant with object recognition using webcam, integrating OpenAI API and Google API for real-time analysis."
 date: 2024-12-01
-featureimage: "https://zenvila.github.io/images/projects/llm-voice-assistant.jpeg"
 draft: false
 tags: ['AI/ML', 'OpenAI', 'Computer Vision', 'Python']
 externalUrl: ""

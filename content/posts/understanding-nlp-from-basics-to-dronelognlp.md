@@ -1,11 +1,10 @@
 ---
 
-title: "Understanding Nlp From Basics To Dronelognlp"
+title: "Understanding NLP: From Basics to DroneLogNLP"
 draft: false
 layout: "article"
 tags: ["AI/ML", "Data Science", "Programming"]
 date: 2025-02-01
-featureimage: "https://zenvila.github.io/images/posts/understanding-nlp-from-basics-to-dronelognlp.jpeg"
 featuredImage: "https://images.unsplash.com/photo-1555421689-3f034debb7a6?auto=format&fit=crop&q=80&w=1600"
 
 ---

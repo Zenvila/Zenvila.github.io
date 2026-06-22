@@ -1,11 +1,10 @@
 ---
 
-title: "Mysteries Of Computer Architecture"
+title: "Mysteries of Computer Architecture: How CPUs Really Work"
 draft: false
 layout: "article"
 tags: ["Linux", "System Administration", "Data Science"]
 date: 2024-09-19
-featureimage: "https://zenvila.github.io/images/posts/mysteries-of-computer-architecture.jpeg"
 featuredImage: "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&q=80&w=1600"
 
 ---

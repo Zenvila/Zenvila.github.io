@@ -1,11 +1,10 @@
 ---
 
-title: "Kubernetes Using Minikube On Arch Linux"
+title: "Kubernetes Using Minikube on Arch Linux: Full Setup Guide"
 draft: false
 layout: "article"
 tags: ["Kubernetes", "DevOps", "Containers"]
 date: 2024-07-28
-featureimage: "https://zenvila.github.io/images/posts/kubernetes-using-minikube-on-arch-linux.jpeg"
 featuredImage: "https://images.unsplash.com/photo-1629654297299-c8506221ca97?auto=format&fit=crop&q=80&w=1600"
 
 ---

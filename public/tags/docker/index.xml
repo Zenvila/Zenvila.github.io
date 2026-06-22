@@ -20,7 +20,7 @@
     </item>
     
     <item>
-      <title>Understanding Criu</title>
+      <title>Understanding CRIU: Checkpoint and Restore in Userspace</title>
       <link>https://zenvila.github.io/posts/understanding-criu/</link>
       <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
       
@@ -100,7 +100,7 @@
     </item>
     
     <item>
-      <title>Docker Evolution In The Ai Era</title>
+      <title>Docker Evolution in the AI Era: Containers Meet Intelligence</title>
       <link>https://zenvila.github.io/posts/docker-evolution-in-the-ai-era/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
       
@@ -110,7 +110,7 @@
     </item>
     
     <item>
-      <title>Puppet Automating Infrastructure Configuration</title>
+      <title>Puppet: Automating Infrastructure Configuration at Scale</title>
       <link>https://zenvila.github.io/posts/puppet-automating-infrastructure-configuration/</link>
       <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
       

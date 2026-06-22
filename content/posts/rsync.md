@@ -5,7 +5,6 @@ draft: false
 layout: "article"
 tags: ["Security", "Networking", "Linux"]
 date: 2024-04-13
-featureimage: "https://zenvila.github.io/images/posts/rsync.jpeg"
 featuredImage: "https://images.unsplash.com/photo-1580196923836-d249539308be?auto=format&fit=crop&q=80&w=1600"
 
 ---

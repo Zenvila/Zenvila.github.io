@@ -1,4 +1,4 @@
-colorScheme = "blowfish"
+colorScheme = "noir"
 defaultTheme = "dark"
 hotlinkFeatureImage = false
 defaultBackgroundImage = "img/background.jpg"
@@ -22,7 +22,7 @@ defaultBackgroundImage = "img/background.jpg"
 [article]
   showDate = true
   showAuthor = false
-  showHero = true
+  showHero = false
   heroStyle = "background"
   showTaxonomies = true
   showReadingTime = true
@@ -30,7 +30,7 @@ defaultBackgroundImage = "img/background.jpg"
   layoutBackgroundHeaderSpace = true
 
 [list]
-  showHero = true
+  showHero = false
   heroStyle = "background"
   layoutBackgroundBlur = false
   layoutBackgroundHeaderSpace = true

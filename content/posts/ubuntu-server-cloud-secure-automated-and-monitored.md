@@ -1,11 +1,10 @@
 ---
 
-title: "Ubuntu Server Cloud Secure Automated And Monitored"
+title: "Ubuntu Server: Cloud-Ready, Secure, Automated and Monitored"
 draft: false
 layout: "article"
 tags: ["Linux", "System Administration", "Open Source"]
 date: 2025-04-08
-featureimage: "https://zenvila.github.io/images/posts/ubuntu-server-cloud-secure-automated-and-monitored.jpeg"
 featuredImage: "https://images.unsplash.com/photo-1558494949-efdeb6bf80d1?auto=format&fit=crop&q=80&w=1600"
 
 ---

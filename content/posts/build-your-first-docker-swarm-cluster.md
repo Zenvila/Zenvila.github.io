@@ -5,7 +5,6 @@ draft: false
 layout: "article"
 tags: ["Docker", "Containers", "DevOps"]
 date: 2025-09-06
-featureimage: "https://zenvila.github.io/images/posts/build-your-first-docker-swarm-cluster.jpeg"
 featuredImage: "https://images.unsplash.com/photo-1524235338165-c276b42b9472?auto=format&fit=crop&q=80&w=1600"
 
 ---

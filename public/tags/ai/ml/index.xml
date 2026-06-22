@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>AI/ML on Zenvila</title>
+    <title>Ai/Ml on Zenvila</title>
     <link>https://zenvila.github.io/tags/ai/ml/</link>
-    <description>Recent content in AI/ML on Zenvila</description>
+    <description>Recent content in Ai/Ml on Zenvila</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Haris Shahzad</copyright>
@@ -40,7 +40,7 @@
     </item>
     
     <item>
-      <title>Machine Learning And Its Tools</title>
+      <title>Machine Learning and Its Tools: A Practical Overview</title>
       <link>https://zenvila.github.io/posts/machine-learning-and-its-tools/</link>
       <pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate>
       
@@ -80,7 +80,7 @@
     </item>
     
     <item>
-      <title>Understanding Nlp From Basics To Dronelognlp</title>
+      <title>Understanding NLP: From Basics to DroneLogNLP</title>
       <link>https://zenvila.github.io/posts/understanding-nlp-from-basics-to-dronelognlp/</link>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
       
@@ -100,7 +100,7 @@
     </item>
     
     <item>
-      <title>Probability And Statistics For Ai</title>
+      <title>Probability and Statistics for AI: Core Concepts</title>
       <link>https://zenvila.github.io/posts/probability-and-statistics-for-ai/</link>
       <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
       
@@ -110,7 +110,7 @@
     </item>
     
     <item>
-      <title>Numerical Computing For Ai</title>
+      <title>Numerical Computing for AI: Precision, Speed and Scale</title>
       <link>https://zenvila.github.io/posts/numerical-computing-for-ai/</link>
       <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
       
@@ -120,7 +120,7 @@
     </item>
     
     <item>
-      <title>Linear Algebra For Ai</title>
+      <title>Linear Algebra for AI: The Math Behind the Models</title>
       <link>https://zenvila.github.io/posts/linear-algebra-for-ai/</link>
       <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
       

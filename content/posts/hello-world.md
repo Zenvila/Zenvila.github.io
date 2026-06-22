@@ -8,7 +8,6 @@ description: "This is my first post on my new portfolio!"
 tags: ["welcome", "linux"]
 showHero: true
 heroStyle: "background"
-featureimage: "https://zenvila.github.io/images/posts/hello-world.jpeg"
 
 ---
 

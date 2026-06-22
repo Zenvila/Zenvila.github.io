@@ -3,7 +3,6 @@ title: "Why Standard CI/CD Fails in Production AI: Moving from DevOps to MLOps"
 date: 2026-06-05
 draft: false
 tags: ["devops", "mlops", "ai/ml", "kubernetes", "ci/cd"]
-featureimage: "/images/posts/mlops-devops.jpeg"
 showHero: true
 heroStyle: "background"
 ---

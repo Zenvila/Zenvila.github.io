@@ -20,7 +20,7 @@
     </item>
     
     <item>
-      <title>Cicd Github Actions</title>
+      <title>CI/CD Pipeline with GitHub Actions</title>
       <link>https://zenvila.github.io/posts/cicd-github-actions/</link>
       <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
       
@@ -40,7 +40,7 @@
     </item>
     
     <item>
-      <title>Step By Step Arch Linux Installation And Post Setup 1  Deleted</title>
+      <title>Step By Step Arch Linux Installation and Post Setup</title>
       <link>https://zenvila.github.io/posts/step-by-step-arch-linux-installation-and-post-setup-1--deleted/</link>
       <pubDate>Sun, 23 Nov 2025 00:00:00 +0000</pubDate>
       
@@ -80,7 +80,7 @@
     </item>
     
     <item>
-      <title>Understanding Criu</title>
+      <title>Understanding CRIU: Checkpoint and Restore in Userspace</title>
       <link>https://zenvila.github.io/posts/understanding-criu/</link>
       <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
       
@@ -110,7 +110,7 @@
     </item>
     
     <item>
-      <title>Machine Learning And Its Tools</title>
+      <title>Machine Learning and Its Tools: A Practical Overview</title>
       <link>https://zenvila.github.io/posts/machine-learning-and-its-tools/</link>
       <pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate>
       
@@ -130,7 +130,7 @@
     </item>
     
     <item>
-      <title>The Hidden Control Loop Of Modern Software</title>
+      <title>The Hidden Control Loop of Modern Software</title>
       <link>https://zenvila.github.io/posts/the-hidden-control-loop-of-modern-software/</link>
       <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
       
@@ -170,7 +170,7 @@
     </item>
     
     <item>
-      <title>Sshsecure Shell</title>
+      <title>SSH: Secure Shell — Complete Guide</title>
       <link>https://zenvila.github.io/posts/sshsecure-shell/</link>
       <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
       
@@ -250,7 +250,7 @@
     </item>
     
     <item>
-      <title>Running Arm Raspberry Pi On Your Pc Without Hardware</title>
+      <title>Running ARM Raspberry Pi on Your PC Without Hardware</title>
       <link>https://zenvila.github.io/posts/running-arm-raspberry-pi-on-your-pc-without-hardware/</link>
       <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
       
@@ -260,7 +260,7 @@
     </item>
     
     <item>
-      <title>The Building Blocks Of Modern Computing</title>
+      <title>The Building Blocks of Modern Computing</title>
       <link>https://zenvila.github.io/posts/the-building-blocks-of-modern-computing/</link>
       <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
       
@@ -270,7 +270,7 @@
     </item>
     
     <item>
-      <title>Ubuntu Server Cloud Secure Automated And Monitored</title>
+      <title>Ubuntu Server: Cloud-Ready, Secure, Automated and Monitored</title>
       <link>https://zenvila.github.io/posts/ubuntu-server-cloud-secure-automated-and-monitored/</link>
       <pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate>
       
@@ -290,7 +290,7 @@
     </item>
     
     <item>
-      <title>Kubernetes Multi Node Real World Workflows</title>
+      <title>Kubernetes Multi-Node: Real World Workflows</title>
       <link>https://zenvila.github.io/posts/kubernetes-multi-node-real-world-workflows/</link>
       <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
       
@@ -340,7 +340,7 @@
     </item>
     
     <item>
-      <title>Understanding Nlp From Basics To Dronelognlp</title>
+      <title>Understanding NLP: From Basics to DroneLogNLP</title>
       <link>https://zenvila.github.io/posts/understanding-nlp-from-basics-to-dronelognlp/</link>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
       
@@ -410,7 +410,7 @@
     </item>
     
     <item>
-      <title>Docker Evolution In The Ai Era</title>
+      <title>Docker Evolution in the AI Era: Containers Meet Intelligence</title>
       <link>https://zenvila.github.io/posts/docker-evolution-in-the-ai-era/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
       
@@ -430,7 +430,7 @@
     </item>
     
     <item>
-      <title>Puppet Automating Infrastructure Configuration</title>
+      <title>Puppet: Automating Infrastructure Configuration at Scale</title>
       <link>https://zenvila.github.io/posts/puppet-automating-infrastructure-configuration/</link>
       <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
       
@@ -440,7 +440,7 @@
     </item>
     
     <item>
-      <title>Probability And Statistics For Ai</title>
+      <title>Probability and Statistics for AI: Core Concepts</title>
       <link>https://zenvila.github.io/posts/probability-and-statistics-for-ai/</link>
       <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
       
@@ -450,7 +450,7 @@
     </item>
     
     <item>
-      <title>Http11 Vs Http2 Vs Http3</title>
+      <title>HTTP/1.1 vs HTTP/2 vs HTTP/3: What Changed and Why</title>
       <link>https://zenvila.github.io/posts/http11-vs-http2-vs-http3/</link>
       <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
       
@@ -460,7 +460,7 @@
     </item>
     
     <item>
-      <title>Numerical Computing For Ai</title>
+      <title>Numerical Computing for AI: Precision, Speed and Scale</title>
       <link>https://zenvila.github.io/posts/numerical-computing-for-ai/</link>
       <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
       
@@ -480,7 +480,7 @@
     </item>
     
     <item>
-      <title>Mysteries Of Computer Architecture</title>
+      <title>Mysteries of Computer Architecture: How CPUs Really Work</title>
       <link>https://zenvila.github.io/posts/mysteries-of-computer-architecture/</link>
       <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
       
@@ -490,7 +490,7 @@
     </item>
     
     <item>
-      <title>Preserving Services With Faster Kernel Reboots Using Kexec</title>
+      <title>Preserving Services with Faster Kernel Reboots Using Kexec</title>
       <link>https://zenvila.github.io/posts/preserving-services-with-faster-kernel-reboots-using-kexec/</link>
       <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
       
@@ -500,7 +500,7 @@
     </item>
     
     <item>
-      <title>Kubernetes Using Minikube On Arch Linux</title>
+      <title>Kubernetes Using Minikube on Arch Linux: Full Setup Guide</title>
       <link>https://zenvila.github.io/posts/kubernetes-using-minikube-on-arch-linux/</link>
       <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
       
@@ -520,7 +520,7 @@
     </item>
     
     <item>
-      <title>Risc Vs Cisc Which Powers Your Devices</title>
+      <title>RISC vs CISC: Which Architecture Powers Your Devices</title>
       <link>https://zenvila.github.io/posts/risc-vs-cisc-which-powers-your-devices/</link>
       <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
       
@@ -570,7 +570,7 @@
     </item>
     
     <item>
-      <title>A Secure And Configurable Ftp Server Explained</title>
+      <title>A Secure and Configurable FTP Server Explained</title>
       <link>https://zenvila.github.io/posts/a-secure-and-configurable-ftp-server-explained/</link>
       <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
       
@@ -580,7 +580,7 @@
     </item>
     
     <item>
-      <title>Progress Chef Automating Infrastructure With Code</title>
+      <title>Progress Chef: Automating Infrastructure with Code</title>
       <link>https://zenvila.github.io/posts/progress-chef-automating-infrastructure-with-code/</link>
       <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
       
@@ -620,7 +620,7 @@
     </item>
     
     <item>
-      <title>Ssh Tunneling</title>
+      <title>SSH Tunneling: Port Forwarding Explained</title>
       <link>https://zenvila.github.io/posts/ssh-tunneling/</link>
       <pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
       
@@ -640,7 +640,7 @@
     </item>
     
     <item>
-      <title>My Journey With Oracle Cloud Infrastructure Oci Foundations Associate 2025</title>
+      <title>My Journey with Oracle Cloud Infrastructure Foundations Associate 2025</title>
       <link>https://zenvila.github.io/posts/my-journey-with-oracle-cloud-infrastructure-oci-foundations-associate-2025/</link>
       <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
       
@@ -650,7 +650,7 @@
     </item>
     
     <item>
-      <title>Linear Algebra For Ai</title>
+      <title>Linear Algebra for AI: The Math Behind the Models</title>
       <link>https://zenvila.github.io/posts/linear-algebra-for-ai/</link>
       <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
       

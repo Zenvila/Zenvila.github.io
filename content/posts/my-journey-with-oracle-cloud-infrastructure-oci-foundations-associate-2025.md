@@ -1,11 +1,10 @@
 ---
 
-title: "My Journey With Oracle Cloud Infrastructure Oci Foundations Associate 2025"
+title: "My Journey with Oracle Cloud Infrastructure Foundations Associate 2025"
 draft: false
 layout: "article"
 tags: ["Cloud", "Technology", "Data Science"]
 date: 2023-09-27
-featureimage: "https://zenvila.github.io/images/posts/my-journey-with-oracle-cloud-infrastructure-oci-foundations-associate-2025.jpeg"
 featuredImage: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&q=80&w=1600"
 
 ---

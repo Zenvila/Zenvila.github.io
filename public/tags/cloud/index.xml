@@ -10,7 +10,7 @@
     <lastBuildDate>Thu, 25 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://zenvila.github.io/tags/cloud/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Understanding Criu</title>
+      <title>Understanding CRIU: Checkpoint and Restore in Userspace</title>
       <link>https://zenvila.github.io/posts/understanding-criu/</link>
       <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
       
@@ -20,7 +20,7 @@
     </item>
     
     <item>
-      <title>The Building Blocks Of Modern Computing</title>
+      <title>The Building Blocks of Modern Computing</title>
       <link>https://zenvila.github.io/posts/the-building-blocks-of-modern-computing/</link>
       <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
       
@@ -30,7 +30,7 @@
     </item>
     
     <item>
-      <title>Preserving Services With Faster Kernel Reboots Using Kexec</title>
+      <title>Preserving Services with Faster Kernel Reboots Using Kexec</title>
       <link>https://zenvila.github.io/posts/preserving-services-with-faster-kernel-reboots-using-kexec/</link>
       <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
       
@@ -40,7 +40,7 @@
     </item>
     
     <item>
-      <title>My Journey With Oracle Cloud Infrastructure Oci Foundations Associate 2025</title>
+      <title>My Journey with Oracle Cloud Infrastructure Foundations Associate 2025</title>
       <link>https://zenvila.github.io/posts/my-journey-with-oracle-cloud-infrastructure-oci-foundations-associate-2025/</link>
       <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
       

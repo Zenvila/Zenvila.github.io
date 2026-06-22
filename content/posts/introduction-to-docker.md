@@ -5,7 +5,6 @@ draft: false
 layout: "article"
 tags: ["Docker", "Containers", "DevOps"]
 date: 2025-11-04
-featureimage: "https://zenvila.github.io/images/posts/introduction-to-docker.jpeg"
 featuredImage: "https://images.unsplash.com/photo-1590959651373-a3db0f38a96b?auto=format&fit=crop&q=80&w=1600"
 
 ---

@@ -1,11 +1,10 @@
 ---
 
-title: "Sshsecure Shell"
+title: "SSH: Secure Shell — Complete Guide"
 draft: false
 layout: "article"
 tags: ["Networking", "Technology", "System Administration"]
 date: 2025-06-26
-featureimage: "https://zenvila.github.io/images/posts/sshsecure-shell.jpeg"
 featuredImage: "https://images.unsplash.com/photo-1614064642639-e388f4f3b9c4?auto=format&fit=crop&q=80&w=1600"
 
 ---

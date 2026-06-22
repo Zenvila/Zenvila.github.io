@@ -4,7 +4,6 @@
 title: "DroneLogNLP: Real Time Semantic Analysis of Drone Logs"
 summary: "Transforms raw drone logs into semantic embeddings using Sentence Transformers for meaning-based search and analysis."
 date: 2025-10-01
-featureimage: "https://zenvila.github.io/images/projects/dronelognlp-real-time-semantic-analysis-of-drone-logs.jpeg"
 draft: false
 tags: ['AI/ML', 'Python', 'NLP', 'Vector Databases']
 externalUrl: ""

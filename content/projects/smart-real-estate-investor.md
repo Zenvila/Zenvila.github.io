@@ -4,7 +4,6 @@
 title: "Smart Real Estate Investor"
 summary: "Data-driven real estate investment analysis platform that scrapes property data and implements predictive models for ROI and investment risk assessment."
 date: 2025-07-15
-featureimage: "https://zenvila.github.io/images/projects/smart-real-estate-investor.jpeg"
 draft: false
 tags: ['AI/ML', 'Web Scraping', 'Data Analysis', 'Python']
 externalUrl: ""

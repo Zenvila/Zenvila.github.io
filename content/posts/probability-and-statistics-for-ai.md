@@ -1,11 +1,10 @@
 ---
 
-title: "Probability And Statistics For Ai"
+title: "Probability and Statistics for AI: Core Concepts"
 draft: false
 layout: "article"
 tags: ["AI/ML", "Data Science", "System Administration"]
 date: 2024-10-25
-featureimage: "https://zenvila.github.io/images/posts/probability-and-statistics-for-ai.jpeg"
 featuredImage: "https://images.unsplash.com/photo-1596495578065-6e0763fa1178?auto=format&fit=crop&q=80&w=1600"
 
 ---

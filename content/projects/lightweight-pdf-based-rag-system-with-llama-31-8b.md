@@ -4,7 +4,6 @@
 title: "Lightweight PDF-based RAG System with LLaMA 3.1 8B"
 summary: "Fully Dockerized Retrieval-Augmented Generation system using LLaMA 3.1 8B with INT4 quantization for offline PDF question answering."
 date: 2025-07-01
-featureimage: "https://zenvila.github.io/images/projects/lightweight-pdf-based-rag-system-with-llama-31-8b.jpeg"
 draft: false
 tags: ['AI/ML', 'LLMs', 'RAG', 'Docker']
 externalUrl: ""
